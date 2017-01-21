@@ -85,10 +85,10 @@ def switch_frame():
 
 browser.get('https://my.queensu.ca/')
 
-browser.find_element_by_id('username').send_keys(sys.argv[0])
+browser.find_element_by_id('username').send_keys(sys.argv[1])
 
 passwordElem = browser.find_element_by_id('password')
-passwordElem.send_keys(sys.argv[1])
+passwordElem.send_keys(sys.argv[2])
 passwordElem.submit()
 
 # big red SOLUS button
@@ -113,8 +113,8 @@ get_elem("a", "text()", "Search").click()
 get_elem("a", "@id", "DERIVED_CLSRCH_SSR_EXPAND_COLLAPS$149$$1").click()
 
 
-# for search_day in ["MON", "TUES", "WED", "THURS", "FRI", "SAT", "SUN"]:
-for search_day in ["TUES", "WED", "THURS", "FRI", "SAT", "SUN"]:
+# for search_day in ["MON", "TUES", "WED", "THURS", "FRI"]:
+for search_day in ["MON", "TUES", "WED", "THURS", "FRI"]:
 	# create csv named date+time
 	file = open(search_day+".csv", 'a+')
 	writer = csv.writer(file)
