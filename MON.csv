@@ -1,0 +1,5389 @@
+class,number,section,time,room,prof,enrollment
+ NURS 207 - Nsg Care Acute Hosp Cts (Prac) ,4600,"003-LAB
+Regular",Mo 8:00AM - 10:00AM,CATARAQUI  RM221 SIM LAB,Staff,23
+ ANAT 409 - Selected Topics in Histology ,1055,"001-LEC
+Regular","Mo 8:30AM - 9:30AM
+Tu 10:30AM - 11:30AM","DUNNING RM11
+DUNNING RM11","MacLeod,John R,
+Tayade,Chandrakant
+MacLeod,John R,
+Tayade,Chandrakant",61
+ APSC 142 - Intro Computer Program Engrs ,3813,"100-LEC
+Regular",Mo 8:30AM - 9:30AM,ELLIS AUD,"Lynch,Brian",230
+ APSC 142 - Intro Computer Program Engrs ,3815,"102-LEC
+Regular",Mo 8:30AM - 9:30AM,STIRLING AUD,"Karaim,Malek",226
+ ARTH 305 - Topics in Modern and Contemporary Art History ,1259,"001-LEC
+Regular",Mo 8:30AM - 11:30AM,KINGSTON RM200,"Amos,Johanna",26
+ ARTH 354 - Age of Rembrandt ,5539,"001-LEC
+Regular","TBA
+Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","TBA
+DUNNING RM27
+DUNNING RM27","Dickey,Stephanie
+Dickey,Stephanie
+Dickey,Stephanie",53
+ BIOL 103 - Introductory Biology of Organisms ,1290,"004-LAB
+Regular","Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM","BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",18
+ BIOL 103 - Introductory Biology of Organisms ,1291,"005-LAB
+Regular","Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM","BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",19
+ BIOL 103 - Introductory Biology of Organisms ,1292,"006-LAB
+Regular","Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM","BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",18
+ BIOL 103 - Introductory Biology of Organisms ,1293,"007-LAB
+Regular","Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM","BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",15
+ BIOL 103 - Introductory Biology of Organisms ,5873,"081-LAB
+Regular","Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM
+Mo 8:30AM - 10:00AM","BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",15
+ BIOL 110 - Human Genetics and Evolution ,1760,"001-LTU
+Regular","Mo 8:30AM - 9:30AM
+Tu 10:30AM - 11:30AM
+Mo 12:30PM - 1:30PM","BIOSCI RM1102
+BIOSCI RM1102
+BIOSCI RM1102","Yates,Susan
+Yates,Susan
+Yates,Susan",39
+ BIOL 431 - Cellular Basis of Adaptation ,1771,"001-LSM
+Regular",Mo 8:30AM - 11:30AM,BIOSCI RM2111,"Young,Paul G",7
+ BIOL 441 - Molecular Genetics ,1776,"001-LSM
+Regular","Mo 8:30AM - 9:30AM
+Tu 10:30AM - 11:30AM
+Th 9:30AM - 10:30AM","BIOSCI RM2109
+BIOSCI RM2109
+BIOSCI RM2109","Bendena,William George,
+Walker,Virginia Katrina
+Bendena,William George,
+Walker,Virginia Katrina
+Bendena,William George,
+Walker,Virginia Katrina",20
+ CHEE 218 - Laboratory Projects I ,2275,"002-LAB
+Regular",MoTh 8:30AM - 11:30AM,DUPUIS LAB,"Poirier,David",47
+ CHEE 319 - Process Dynamics & Control ,2282,"001-LEC
+Regular","Mo 8:30AM - 9:30AM
+Tu 10:30AM - 11:30AM
+Th 9:30AM - 10:30AM","STIRLING RM A
+STIRLING RM A
+STIRLING RM A","Guay,Martin
+Guay,Martin
+Guay,Martin",146
+ CHEM 112B - General Chemistry ,2646,"001-LEC
+Regular","Mo 8:30AM - 9:30AM
+Th 9:30AM - 10:30AM
+Mo 8:30AM - 9:30AM
+Th 9:30AM - 10:30AM
+Mo 8:30AM - 9:30AM
+Th 9:30AM - 10:30AM","DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101","Wang,Suning
+Wang,Suning
+Cann,Natalie
+Cann,Natalie
+Stamplecoskie,Kevin
+Stamplecoskie,Kevin",598
+ CHEM 222 - Methods of Structure Determination ,2680,"002-TUT
+Regular",Mo 8:30AM - 10:00AM,CHERNOFF RM211,Staff,26
+ CHEM 223 - Organic Reactions ,2685,"002-LAB
+Regular",Mo 8:30AM - 11:30AM,CHERNOFF RM118,Staff,61
+ CHEM 326 - Environmental and Green Chemistry ,2698,"001-LEC
+Regular","Mo 8:30AM - 9:30AM
+Tu 10:30AM - 11:30AM
+Th 9:30AM - 10:30AM","JEFFERY RM225
+JEFFERY RM225
+JEFFERY RM225","Boyd,Alaina
+Boyd,Alaina
+Boyd,Alaina",48
+ CISC 221 - Computer Architecture ,3487,"003-LAB
+Regular",Mo 8:30AM - 10:30AM,GOODWIN RM248,Staff,52
+ CISC 235 - Data Structures ,3489,"001-LEC
+Regular","Mo 8:30AM - 9:30AM
+Tu 10:30AM - 11:30AM
+Th 9:30AM - 10:30AM","BIOSCI AUD
+BIOSCI AUD
+BIOSCI AUD","Dawes,Robin W
+Dawes,Robin W
+Dawes,Robin W",201
+ CIVL 331 - Structural Steel Design ,1830,"001-LEC
+Regular","Mo 8:30AM - 9:30AM
+Tu 10:30AM - 11:30AM
+Th 9:30AM - 10:30AM","JEFFERY RM127
+JEFFERY RM127
+JEFFERY RM127","MacDougall,Colin C
+MacDougall,Colin C
+MacDougall,Colin C",104
+ CIVL 431 - Infrastructure Rehabilitation ,1856,"002-TUT
+Regular",Mo 8:30AM - 10:30AM,TBA,Staff,64
+ CIVL 431 - Infrastructure Rehabilitation ,1857,"003-LAB
+Regular",Mo 8:30AM - 10:30AM,ELLIS RM43,Staff,64
+ CLST 103 - Introduction to Roman Civilization ,1787,"001-LEC
+Regular","Mo 8:30AM - 9:30AM
+Tu 10:30AM - 11:30AM
+Th 9:30AM - 10:30AM","DUNNING AUD
+DUNNING AUD
+DUNNING AUD","Zaccagnino,Cristiana
+Zaccagnino,Cristiana
+Zaccagnino,Cristiana",352
+ CLST 343 - The Later Roman Empire ,1800,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","JOHN WATSON RM217
+JOHN WATSON RM217","Ward,Graeme
+Ward,Graeme",39
+ CMPE 212 - Introduction to Computing Science II ,3536,"003-LAB
+Regular",Mo 8:30AM - 10:30AM,JEFFERY RM155,"McLeod,Alan D",48
+ COMM 105 - Business Communications ,3701,"005-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","GOODES RM151
+GOODES RM151","Coulter,Christine
+Coulter,Christine",74
+ COMM 122 - Finance II ,3616,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","GOODES RM153
+GOODES RM153","Dudley,Evan
+Dudley,Evan",81
+ COMM 131 - Introduction To Marketing ,3622,"003-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","GOODES RM141
+GOODES RM141","Wiebe,Jeffrey
+Wiebe,Jeffrey",81
+ COMM 151 - Organizational Behaviour ,3667,"006-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","GOODES RM118
+GOODES RM118","Knutsen,Wenjue
+Knutsen,Wenjue",73
+ COMM 181 - Intro To Human Resource Mgmt ,3637,"002-LEC
+Regular","Th 10:00AM - 11:30AM
+Mo 8:30AM - 10:00AM","GOODES RM108
+GOODES RM108","Rowbotham,Kate
+Rowbotham,Kate",90
+ COMM 322 - Advanced Corporate Finance ,4697,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","GOODES RM 305
+GOODES RM 305","Chaigneau,Pierre
+Chaigneau,Pierre",50
+ COMM 335 - Marketing Communications ,3671,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","GOODES RM102
+GOODES RM102","Libitz,Gregory
+Libitz,Gregory",48
+ COMM 374 - international Business Strategy ,3695,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","GOODES RM 101
+GOODES RM 101","Bartholomew,Susan
+Bartholomew,Susan",55
+ CURR 310 - Computer Studies (IS) ,2409,"001-LEC
+Education","TuTh 8:30AM - 10:30AM
+TuTh 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+TuTh 8:30AM - 10:30AM","DUNMCAN MCARTHUR RM B307
+DUNMCAN MCARTHUR RM B307
+DUNMCAN MCARTHUR RM B307
+DUNMCAN MCARTHUR RM B307","Powley,Wendy L
+Powley,Wendy L
+Powley,Wendy L
+Powley,Wendy L",4
+ CURR 318 - Theory Teach&Learn English(IS) ,2411,"001-LEC
+Education","TuTh 8:30AM - 10:30AM
+TuTh 8:30AM - 10:30AM
+TuTh 8:30AM - 10:30AM
+TuTh 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+TuTh 8:30AM - 9:30AM
+TuTh 8:30AM - 10:30AM","DUNCAN MCARTHUR RM342A
+DUNCAN MCARTHUR RM342A
+DUNCAN MCARTHUR RM342B
+DUNCAN MCARTHUR RM342B
+DUNCAN MCARTHUR RM342A
+DUNCAN MCARTHUR RM342B
+DUNCAN MCARTHUR RM342A
+DUNCAN MCARTHUR RM342B","Chin,Jane
+Chin,Jane
+Chin,Jane
+Chin,Jane
+Chin,Jane
+Chin,Jane
+Chin,Jane
+Chin,Jane",54
+ CURR 322 - Français langue seconde (IS) ,2413,"001-LEC
+Education","TuTh 8:30AM - 10:30AM
+TuTh 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+TuTh 8:30AM - 10:30AM","DUNCAN MCARTHUR RM A236
+DUNCAN MCARTHUR RM A236
+DUNCAN MCARTHUR RM A236
+DUNCAN MCARTHUR RM A236","Myers,Marie Josephine
+Myers,Marie Josephine
+Myers,Marie Josephine
+Myers,Marie Josephine",26
+ CURR 324 - Geography (IS) ,2414,"001-LEC
+Education","TuTh 8:30AM - 10:30AM
+TuTh 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+TuTh 8:30AM - 10:30AM","DUNCAN MCARTHUR RM A240
+DUNCAN MCARTHUR RM A240
+DUNCAN MCARTHUR RM A240
+DUNCAN MCARTHUR RM A240","Smith,Anne
+Smith,Anne
+Smith,Anne
+Smith,Anne",31
+ CURR 336 - History Teach Theory&Prac (IS) ,2415,"001-LEC
+Education","TuTh 8:30AM - 10:30AM
+TuTh 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+TuTh 8:30AM - 10:30AM","DUNCAN MCARTHUR RM A234
+DUNCAN MCARTHUR RM A234
+DUNCAN MCARTHUR RM A234
+DUNCAN MCARTHUR RM A234","Bruno-Jofre,Rosa
+Bruno-Jofre,Rosa
+Bruno-Jofre,Rosa
+Bruno-Jofre,Rosa",29
+ CURR 336 - History Teach Theory&Prac (IS) ,2417,"003-LEC
+Education","Tu 8:30AM - 10:30AM
+Mo 8:30AM - 12:30PM
+We 10:50AM - 12:50PM
+We 10:50AM - 12:50PM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM","DUNCAN MCARTHUR RM A234
+DUNCAN MCARTHUR RM A234
+DUNCAN MCARTHUR RM A234
+DUNCAN MCARTHUR RM A234
+DUNCAN MCARTHUR RM A234
+DUNCAN MCARTHUR RM A234","Bruno-Jofre,Rosa
+Bruno-Jofre,Rosa
+Bruno-Jofre,Rosa
+Bruno-Jofre,Rosa
+Bruno-Jofre,Rosa
+Bruno-Jofre,Rosa",28
+ CURR 352 - Physics Teach Theory&Prac (IS) ,2420,"001-LEC
+Education","TuTh 8:30AM - 10:30AM
+TuTh 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+TuTh 8:30AM - 10:30AM","DUNCAN MCARTHUR RM A335
+DUNCAN MCARTHUR RM A335
+DUNCAN MCARTHUR RM A335
+DUNCAN MCARTHUR RM A335","Russell,Tom
+Russell,Tom
+Russell,Tom
+Russell,Tom",9
+ CURR 355B - Language and Literacy (PJ) ,2421,"001-LEC
+Education","Mo 3:30PM - 5:30PM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 12:30PM
+Mo 8:30AM - 10:30AM","DUNCAN MCARTHUR RM A227W
+DUNCAN MCARTHUR RM A227W
+DUNCAN MCARTHUR RM A227W
+DUNCAN MCARTHUR RM A227W","Beach,Pamela
+Beach,Pamela
+Beach,Pamela
+Beach,Pamela",40
+ CURR 355B - Language and Literacy (PJ) ,2422,"002-LEC
+Education","Tu 8:30AM - 10:30AM
+Tu 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Tu 8:30AM - 10:30AM","DUNCAN MCARTHUR RM A227W
+DUNCAN MCARTHUR RM A227W
+DUNCAN MCARTHUR RM A227W
+DUNCAN MCARTHUR RM A227W","Youmans,Alexandra Sandra
+Youmans,Alexandra Sandra
+Youmans,Alexandra Sandra
+Youmans,Alexandra Sandra",38
+ CURR 380 - Visual Arts (IS) ,2431,"001-LEC
+Education","TuTh 8:30AM - 10:30AM
+TuTh 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+TuTh 8:30AM - 10:30AM","DUNCAN MCARTHUR RM A330
+DUNCAN MCARTHUR RM A330
+DUNCAN MCARTHUR RM A330
+DUNCAN MCARTHUR RM A330","Wilikinson,Alan
+Wilikinson,Alan
+Wilikinson,Alan
+Wilikinson,Alan",15
+ CURR 383B - Elementary Mathematics (PJ) ,2435,"004-LEC
+Education","Tu 8:30AM - 10:30AM
+Mo 8:30AM - 12:30PM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM","DUNCAN MCARTHUR RM A339
+DUNCAN MCARTHUR RM A339
+DUNCAN MCARTHUR RM A339
+DUNCAN MCARTHUR RM A339","McDuff,Joan E
+McDuff,Joan E
+McDuff,Joan E
+McDuff,Joan E",37
+ CURR 383B - Elementary Mathematics (PJ) ,2436,"005-LEC
+Education","Tu 8:30AM - 10:30AM
+Tu 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Tu 8:30AM - 10:30AM","DUNCAN MCARTHUR RM A339
+DUNCAN MCARTHUR RM A339
+DUNCAN MCARTHUR RM A339
+DUNCAN MCARTHUR RM A339","McDuff,Joan E
+McDuff,Joan E
+McDuff,Joan E
+McDuff,Joan E",39
+ CURR 385 - Social Studies (PJ) ,2438,"004-LEC
+Education","Tu 8:30AM - 10:30AM
+Tu 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Tu 8:30AM - 10:30AM","DUNCAN MCARTHUR RM A239
+DUNCAN MCARTHUR RM A239
+DUNCAN MCARTHUR RM A239
+DUNCAN MCARTHUR RM A239","Ogden,Holly Christine
+Ogden,Holly Christine
+Ogden,Holly Christine
+Ogden,Holly Christine",37
+ CURR 385 - Social Studies (PJ) ,2440,"006-LEC
+Education","Mo 9:00AM - 11:00AM
+Mo 8:30AM - 12:30PM
+Tu 8:30AM - 10:30AM
+Mo 9:00AM - 11:00AM","DUNCAN MCARTHUR RM A239
+DUNCAN MCARTHUR RM A239
+DUNCAN MCARTHUR RM A239
+DUNCAN MCARTHUR RM A239","Ogden,Holly Christine
+Ogden,Holly Christine
+Ogden,Holly Christine
+Ogden,Holly Christine",35
+ CURR 387B - Science and Technology (PJ) ,2443,"002-LEC
+Education","Tu 8:30AM - 10:30AM
+Mo 8:30AM - 12:30PM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM","DUNCAN MCARTHUR RM A334
+DUNCAN MCARTHUR RM A334
+DUNCAN MCARTHUR RM A334
+DUNCAN MCARTHUR RM A334","Lawrence,Diane M
+Lawrence,Diane M
+Lawrence,Diane M
+Lawrence,Diane M",38
+ CURR 387B - Science and Technology (PJ) ,2444,"003-LEC
+Education","Tu 8:30AM - 10:30AM
+Tu 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Tu 8:30AM - 10:30AM","DUNCAN MCARTHUR RM A334
+DUNCAN MCARTHUR RM A334
+DUNCAN MCARTHUR RM A334
+DUNCAN MCARTHUR RM A334","Lawrence,Diane M
+Lawrence,Diane M
+Lawrence,Diane M
+Lawrence,Diane M",37
+ CURR 389 - Art (PJ) ,2448,"001-LEC
+Education","Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Tu 8:30AM - 10:30AM
+Mo 8:30AM - 12:30PM","DUNCAN MCARTHUR RM A330
+DUNCAN MCARTHUR RM A330
+DUNCAN MCARTHUR RM A330
+DUNCAN MCARTHUR RM A330","Solar,Angela
+Solar,Angela
+Solar,Angela
+Solar,Angela",40
+ CURR 393 - Music (PJ) ,2454,"001-LEC
+Education","Tu 8:30AM - 10:30AM
+Tu 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Tu 8:30AM - 10:30AM","DUNCAN MCARTHUR RM B219
+DUNCAN MCARTHUR RM B219
+DUNCAN MCARTHUR RM B219
+DUNCAN MCARTHUR RM B219","Strong,Trevor Owen
+Strong,Trevor Owen
+Strong,Trevor Owen
+Strong,Trevor Owen",40
+ DEVS 300 - Cross-Cultural Research Method ,1914,"002-TUT
+Regular",Mo 8:30AM - 9:30AM,ELLIS RM218,Staff,14
+ DEVS 311 - Labour and Global Development ,2335,"004-TUT
+Regular",Mo 8:30AM - 9:30AM,MACINTOSH-CORRY RM E229,Staff,25
+ ECON 110B - Principles of Economics ,1946,"002-LEC
+Regular","Mo 8:30AM - 9:30AM
+Tu 10:30AM - 11:30AM
+Th 9:30AM - 10:30AM","WALTER LIGHT RM205
+WALTER LIGHT RM205
+WALTER LIGHT RM205","Cromb,Ian James
+Cromb,Ian James
+Cromb,Ian James",151
+ ECON 232 - The Diffusion of Modern Economic Growth ,1970,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","KINGSTON RM201
+KINGSTON RM201","Keay,Ian
+Keay,Ian",152
+ ECON 361 - Income Distribution and Problems of Inequality ,1981,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","MACDONALD RM4
+MACDONALD RM4","Rosé,David
+Rosé,David",51
+ ECON 425 - international Trade Theory and Policy ,1974,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","MACDONALD RM2
+MACDONALD RM2","Lapham,Beverly Jean
+Lapham,Beverly Jean",66
+ ECON 443 - Issues in Microeconomic Policy ,1983,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","MACINTOSH-CORRY RM D216
+MACINTOSH-CORRY RM D216","Garvie,Devon Anne
+Garvie,Devon Anne",10
+ ECON 891 - Environmental Economics ,5657,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","MACINTOSH-CORRY RM D216
+MACINTOSH-CORRY RM D216","Garvie,Devon Anne
+Garvie,Devon Anne",10
+ ELEC 274 - Computer Architecture ,3579,"006-LAB
+Regular","Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM","BEAMISH-MUNRO RM214
+BEAMISH-MUNRO RM214
+BEAMISH-MUNRO RM214
+BEAMISH-MUNRO RM214
+BEAMISH-MUNRO RM214
+BEAMISH-MUNRO RM214","Karamat,Tashfeen Bin
+Karamat,Tashfeen Bin
+Karamat,Tashfeen Bin
+Karamat,Tashfeen Bin
+Karamat,Tashfeen Bin
+Karamat,Tashfeen Bin",47
+ ELEC 274 - Computer Architecture ,3581,"008-LAB
+Regular","Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM","BEAMISH-MUNRO RM214
+BEAMISH-MUNRO RM214
+BEAMISH-MUNRO RM214
+BEAMISH-MUNRO RM214
+BEAMISH-MUNRO RM214
+BEAMISH-MUNRO RM214","Karamat,Tashfeen Bin
+Karamat,Tashfeen Bin
+Karamat,Tashfeen Bin
+Karamat,Tashfeen Bin
+Karamat,Tashfeen Bin
+Karamat,Tashfeen Bin",49
+ ELEC 274 - Computer Architecture ,4650,"009-LAB
+Regular","Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 10:30AM","BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM212","Athersych,David
+Athersych,David
+Athersych,David
+Athersych,David
+Athersych,David
+Athersych,David",40
+ ELEC 374 - Digital Systems Engineering ,3571,"003-LAB
+Regular",Mo 8:30AM - 11:30AM,BEAMISH-MUNRO RM314,"Faraji,Iman",49
+ ELEC 443 - Control Systems I ,4986,"005-LAB
+Regular",Mo 8:30AM - 11:30AM,BEAMISH-MUNRO RM326,Staff,22
+ ENCH 222 - Meth Struct Determination ,2721,"002-TUT
+Regular",Mo 8:30AM - 10:00AM,CHERNOFF RM211,Staff,26
+ ENCH 245 - Applied Organic Chemistry I ,2726,"002-LAB
+Regular",Mo 8:30AM - 11:30AM,CHERNOFF RM118,Staff,61
+ ENCH 326 - Environmental&Green Chemistry ,2733,"001-LEC
+Regular","Mo 8:30AM - 9:30AM
+Tu 10:30AM - 11:30AM
+Th 9:30AM - 10:30AM","JEFFERY RM225
+JEFFERY RM225
+JEFFERY RM225","Boyd,Alaina
+Boyd,Alaina
+Boyd,Alaina",48
+ ENGL 271 - Issues and Themes: Special Topics I ,5638,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","KINES & HLTH RM101
+KINES & HLTH RM101","Cotton,Adam
+Cotton,Adam",63
+ ENGL 452 - Topics in Victorian Literature II ,2034,"002-SEM
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","THEOLOGICAL RM209
+THEOLOGICAL RM209","Berg,Maggie Anne
+Berg,Maggie Anne",25
+ ENPH 472 - Statistical Mechanics ,4730,"002-TUT
+Regular",Mo 8:30AM - 9:30AM,STIRLING RM412A,"Gooding,Robert James",13
+ ENSC 201 - Environmental Toxicology and Chemical Risks ,2047,"001-LEC
+Regular","Mo 8:30AM - 9:30AM
+Tu 10:30AM - 11:30AM","DUPUIS AUD
+DUPUIS AUD","Winn,Louise M
+Winn,Louise M",188
+ ESLA 120 - Elementary ,6348,"001-LEC
+Regular","MoTuWeTh 8:00AM - 4:30PM
+MoTuWeTh 8:00AM - 4:30PM
+MoTuWeTh 8:00AM - 4:30PM
+MoTuWeTh 8:00AM - 4:30PM
+MoTuWeTh 8:00AM - 4:30PM
+MoTuWeTh 8:00AM - 4:30PM
+MoTuWeThFr 8:00AM - 4:30PM
+MoTuWeThFr 8:00AM - 4:30PM
+Fr 8:00AM - 11:30AM
+Fr 8:00AM - 11:30AM
+Fr 8:00AM - 11:30AM
+Fr 8:00AM - 11:30AM
+Fr 8:30AM - 11:30AM
+Fr 8:00AM - 11:30AM
+Fr 8:00AM - 11:30AM
+Mo 8:30AM - 4:30PM
+Mo 8:30AM - 4:30PM
+WeTh 8:30AM - 4:30PM
+MoTu 8:30AM - 11:30AM
+We 8:30AM - 11:30AM
+We 8:30AM - 11:30AM
+Fr 8:30AM - 11:30AM
+Fr 8:30AM - 11:30AM
+MoTuWeThFr 8:30AM - 4:30PM
+MoTuWeThFr 8:30AM - 4:30PM
+Su 8:30AM - 4:30PM
+MoTuWeThFr 8:30AM - 4:30PM
+MoTuWeThFrSaSu 12:00AM - 11:59PM","DUNCAN MCARTHUR RM A207N
+DUNCAN MCARTHUR RM A207S
+DUNCAN MCARTHUR RM A211N
+DUNCAN MCARTHUR RM A211S
+DUNCAN MCARTHUR  RM A313N
+DUNCAN MCARTHUR RM A313S
+DUNCAN MCARTHUR RM A317N
+DUNCAN MCARTHUR ROOM A317S
+DUNCAN MCARTHUR RM A207N
+DUNCAN MCARTHUR RM A207S
+DUNCAN MCARTHUR RM A211N
+DUNCAN MCARTHUR RM A211S
+DUNCAN MCARTHUR  RM A313N
+DUNCAN MCARTHUR RM A313S
+DUNCAN MCARTHUR RM A343
+DUNCAN MCARTHUR RM A301N
+DUNCAN MCARTHUR RM A301S
+DUNCAN MCARTHUR RM A343
+DUNCAN MCARTHUR RM B180
+DUNCAN MCARTHUR RM B180
+DUNCAN MCARTHUR RM B219
+DUNCAN MCARTHUR RM A301N
+DUNCAN MCARTHUR RM A301S
+DUNCAN MCARTHUR RM342A
+DUNCAN MCARTHUR RM342B
+DUNCAN MCARTHUR  RM A313N
+DUNCAN MCARTHUR RM A313S
+DUNCAN MCARTHUR RM A339","Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff",2
+ FREN 150B - Français intermédiaire ,2527,"018-TUT
+Regular",Mo 8:30AM - 9:30AM,JOHN WATSON RM207,Staff,6
+ FREN 150B - Français intermédiaire ,2528,"019-TUT
+Regular",Mo 8:30AM - 9:30AM,TBA,Staff,6
+ FREN 331 - Rédaction et style II ,2521,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","ELLIS RM321
+KINGSTON RM208","Offredi,Frederique A
+Offredi,Frederique A",22
+ GEOE 359 - Applied Quantitative Analysis in Geological Engineering ,5048,"002-TUT
+Regular",Mo 8:30AM - 9:30AM,BRUCE RM234A,"Fotopoulos,Georgia",34
+ GEOE 466 - Isotopes & The Environment ,5056,"002-LAB
+Regular",Mo 8:30AM - 11:30AM,MILLER RM409,"Kyser,Kurtis T",6
+ GEOL 359 - Applications of Quantitative Analysis in Geological Sciences ,5065,"002-TUT
+Regular",Mo 8:30AM - 9:30AM,BRUCE RM234A,"Fotopoulos,Georgia",34
+ GEOL 466 - Isotopes and the Environment ,5077,"002-LAB
+Regular",Mo 8:30AM - 11:30AM,MILLER RM409,"Kyser,Kurtis T",6
+ GNDS 802 - Methodologies in Gender Studies ,6106,"001-LEC
+Regular",Mo 8:30AM - 11:30AM,MACINTOSH-CORRY RM C416,"Little,Margaret J H",12
+ GPHY 209 - Principles of Hydroclimatology ,2855,"005-PRA
+Regular",Mo 8:30AM - 10:00AM,MACINTOSH-CORRY RM E104,"Lamoureux,Scott",17
+ GPHY 247 - Introduction to Statistics ,2876,"002-LAB
+Regular",Mo 8:30AM - 10:00AM,ELLIS RM333,"Nelson,William",21
+ GPHY 345 - Spatial Analysis ,2843,"001-LEC
+Regular",Mo 8:30AM - 10:30AM,MACINTOSH-CORRY RM E223,"Chen,Dongmei",19
+ GPHY 823 - Chem Cycling In Cold Regions ,6042,"001-SEM
+Regular",Mo 8:30AM - 11:30AM,TBA,"Lafreniere,Melissa J",4
+ HIST 390B - Topics in History ,2818,"003-SEM
+Regular",Mo 8:30AM - 11:30AM,KINGSTON RM210,"Duffett,Angela",13
+ HIST 400 - Topics in History ,2807,"004-SEM
+Regular",Mo 8:30AM - 11:30AM,MACINTOSH-CORRY RM D405,"Salzmann,Ariel",12
+ HIST 430B - The Crusades and the Latin Kingdoms ,2768,"001-SEM
+Regular",Mo 8:30AM - 11:30AM,JOHN WATSON RM122,"Husain,Adnan",21
+ HIST 828B - Crusades And Latin Kingdoms ,2821,"001-SEM
+Regular",Mo 8:30AM - 11:30AM,JOHN WATSON RM122,"Husain,Adnan",21
+ IDIS 311 - Sound Production ,2927,"001-LAB
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","IBCPA RM336
+IBCPA RM336","Rogalsky,Matt
+Rogalsky,Matt",31
+ ITLN 111 - Beginning Italian I ,5094,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","KINGSTON RM204
+KINGSTON RM204","Cecchetto,Elena
+Cecchetto,Elena",38
+ KNPE 254 - Biomechanical Analysis of Human Movement ,5074,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","HUMPHREY AUD
+HUMPHREY AUD","Diesbourg,Tara
+Diesbourg,Tara",169
+ KNPE 354 - Occupational Biomechanics and Physical Ergonomics ,4210,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM
+Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","KINES & HLTH RM202
+KINES & HLTH RM202
+KINES & HLTH RM203
+KINES & HLTH RM203","Costigan,Patrick A
+Costigan,Patrick A
+Costigan,Patrick A
+Costigan,Patrick A",28
+ KNPE 450 - Ergonomics ,4194,"001-LLB
+Regular",Mo 8:30AM - 11:30AM,RICHARDSON LAB RM104,"Bryant,Timothy J,
+Davies,Theresa Claire",70
+ LATN 110B - Introductory Latin ,1812,"002-TUT
+Regular",Mo 8:30AM - 9:30AM,ELLIS RM319,Staff,13
+ MATH 341 - Differential Geometry ,5135,"001-LEC
+Regular","Mo 8:30AM - 9:30AM
+Tu 10:30AM - 11:30AM
+Th 9:30AM - 10:30AM","JEFFERY RM115
+JEFFERY RM115
+JEFFERY RM115","Barthelme,Thomas
+Barthelme,Thomas
+Barthelme,Thomas",9
+ MECH 241 - Fluid Mechanics I ,5150,"004-TUT
+Regular",Mo 8:30AM - 9:30AM,STIRLING RM B,"Matovic,Miodrag Darko",120
+ MECH 323 - Machine Design I ,4447,"006-LAB
+Regular",Mo 8:30AM - 10:30AM,BEAMISH-MUNRO RM109,"Kim,Il Yong",58
+ MECH 350 - Automatic Control ,4454,"003-LAB
+Regular",Mo 8:30AM - 10:00AM,JACKSON RM116,"Li,Qingguo",54
+ MECH 495 - Ergonomics And Design ,4477,"001-LEC
+Regular",Mo 8:30AM - 11:30AM,RICHARDSON LAB RM104,"Bryant,Timothy J,
+Davies,Theresa Claire",70
+ MINE 445 - Open Pit Mine Design ,5259,"003-LAB
+Regular",Mo 8:30AM - 11:30AM,GOODWIN RM330,"Ortiz Cabrera,Julian Maximiliano",13
+ MINE 458 - Process Investigations ,5261,"002-LAB
+Regular",Mo 8:30AM - 11:30AM,GOODWIN RM120,"Kelebek,Sadan",4
+ MPA 810B - Policy Challenges ,6210,"001-SEM
+Regular",Mo 8:30AM - 11:20AM,TBA,Staff,75
+ MUSC 227B - Ear Training and Sight Singing II ,4533,"001-LAB
+Regular","Mo 8:30AM - 9:30AM
+Th 9:30AM - 10:30AM","HARRISON-LECAINE RM124
+HARRISON-LECAINE RM124","Tormann,Cynthia
+Tormann,Cynthia",6
+ MUSC 438 - Music Education Seminar ,4570,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","HARRISON-LECAINE RM120
+HARRISON-LECAINE RM120","Brook,Julia Elaine
+Brook,Julia Elaine",10
+ NURS 803 - Intermediate Quantitative Research Design ,5718,"001-SEM
+Regular",Mo 8:30AM - 11:30AM,TBA,"Edge,Dana S",26
+ NURS 900 - Advanced Statistics and Analytic Techniques ,5722,"001-SEM
+Regular",Mo 8:30AM - 11:30AM,TBA,"Tranmer,Joan E",2
+ OT 862 - Applied Community Development (CR6) ,5012,"002-FLD
+Regular","Th 1:00PM - 4:30PM
+Fr 8:30AM - 2:30PM
+Mo 8:30AM - 4:30PM
+TuWe 8:30AM - 4:30PM
+Th 8:30AM - 4:30PM
+Fr 8:30AM - 4:30PM","TBA
+TBA
+TBA
+TBA
+TBA
+TBA","Edgelow,Megan Michele
+Edgelow,Megan Michele
+Edgelow,Megan Michele
+Edgelow,Megan Michele
+Edgelow,Megan Michele
+Edgelow,Megan Michele",73
+ PATH 430 - The Molecular Basis of Disease ,1038,"001-LSM
+Regular",Mo 8:30AM - 10:30AM,RICHARDSON LAB RM101,"Lillicrap,David P",16
+ PATH 826 - The Molecular Basis Of Disease ,5647,"001-LEC
+Regular",Mo 8:30AM - 10:30AM,RICHARDSON LAB RM101,"Lillicrap,David P",16
+ PHIL 374 - Continental Philosophy 1960-present ,5568,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","STIRLING RM414
+STIRLING RM414","Fairfield,Paul
+Fairfield,Paul",41
+ PHIL 493 - Ethics and the Environment ,5234,"001-SEM
+Regular",Mo 8:30AM - 11:30AM,MACINTOSH-CORRY RM D326,"Smith,Michael F",13
+ PHIL 893 - Ethics & The Environment ,5238,"001-LEC
+Regular",Mo 8:30AM - 11:30AM,MACINTOSH-CORRY RM D326,"Smith,Michael F",13
+ PHYS 117B - Introductory Physics ,4676,"004-LAB
+Regular","Mo 8:30AM - 11:30AM
+Mo 8:30AM - 11:30AM","STIRLING RM409
+STIRLING RM410","Staff
+Staff",41
+ PHYS 472 - Statistical Mechanics ,4690,"002-TUT
+Regular",Mo 8:30AM - 9:30AM,STIRLING RM412A,"Gooding,Robert James",13
+ POLS 101 - Contemporary Issues in Politics ,5155,"003-TUT
+Regular",Mo 8:30AM - 9:30AM,MACINTOSH-CORRY RM A309,Staff,21
+ POLS 264 - World Politics in Historical Perspective ,5178,"004-TUT
+Regular",Mo 8:30AM - 9:30AM,MACINTOSH-CORRY RM C508,Staff,1
+ POLS 462 - Studies in National Security ,4834,"001-LEC
+Regular","Mo 2:30PM - 4:00PM
+Mo 8:30AM - 10:00AM
+We 2:30PM - 4:00PM
+Tu 11:30AM - 1:00PM","DUNNING RM10
+MACINTOSH-CORRY RM D214
+MACINTOSH-CORRY RM C420
+MACINTOSH-CORRY RM C420","Boulden,Jane Louise
+Boulden,Jane Louise
+Boulden,Jane Louise
+Boulden,Jane Louise",46
+ POLS 465 - The Politics of War ,4768,"001-LEC
+Regular",Mo 8:30AM - 11:30AM,MACDONALD RM3,"Breede,Hans Christian",60
+ PSYC 100B - Principles of Psychology ,3382,"005-LAB
+Regular",Mo 8:30AM - 9:30AM,HUMPHREY RM131,Staff,29
+ PSYC 100B - Principles of Psychology ,3440,"063-LAB
+Regular",Mo 8:30AM - 9:30AM,HUMPHREY RM132,Staff,17
+ PSYC 231 - The Study of Personality ,5304,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","ETHERINGTON AUD
+ETHERINGTON AUD","Holden,Ronald R
+Holden,Ronald R",244
+ PSYC 332 - Health Psychology ,3461,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","KINGSTON RM101
+KINGSTON RM101","Tripp,Dean
+Tripp,Dean",114
+ PSYC 371 - Research Problems in Behavioural Neuroscience ,3450,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","BOTTER RM B148
+BOTTER RM B148","Dringenberg,Hans C
+Dringenberg,Hans C",26
+ PSYC 829 - Ethical & Professional Issues ,4960,"001-SEM
+Regular",Mo 8:30AM - 11:30AM,HUMPHREY RM223,"Cotton,Dorothy",6
+ PSYC 940 - Structural Equation Modelling ,5299,"001-SEM
+Regular",Mo 8:30AM - 10:30AM,HUMPHREY RM219,"Fabrigar,Leandre R",22
+ PT 865 - Motor Function & Occupation ,5412,"001-LEC
+Regular",Mo 8:30AM - 10:00AM,BOTTER RM B143,"Booth,Randal Allen",70
+ RELS 226 - Islam ,1029,"001-LEC
+Regular",Mo 8:30AM - 11:30AM,DUPUIS RM217,"Jahanbakhsh,Forough",46
+ SOCY 122B - Introduction to Sociology ,1208,"043-TUT
+Regular",Mo 8:30AM - 9:30AM,KINGSTON RM209,Staff,1
+ SOCY 211 - Introduction to Statistics ,5631,"006-LAB
+Regular",Mo 8:30AM - 9:30AM,JEFFERY RM157,"Sytsma,Victoria A",19
+ SOCY 384 - Women and Reproduction Technology ,1248,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","MACINTOSH-CORRY RM B201
+MACINTOSH-CORRY RM B201","Burfoot,Annette Jane
+Burfoot,Annette Jane",99
+ SOFT 423 - Software Requirements ,5016,"001-LEC
+Regular","Mo 8:30AM - 9:30AM
+Tu 10:30AM - 11:30AM
+Th 9:30AM - 10:30AM","JEFFERY RM126
+JEFFERY RM126
+JEFFERY RM126","Ahmadi,Reza
+Ahmadi,Reza
+Ahmadi,Reza",90
+ SPAN 111 - Beginning Spanish I ,5121,"002-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","KINGSTON RM304
+KINGSTON RM304","Kani,Consuelo
+Kani,Consuelo",39
+ SPAN 302 - Gramática avanzada y composición II ,4302,"001-SEM
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","KINGSTON RM308
+KINGSTON RM308","Mennell,Jan D
+Mennell,Jan D",17
+ STAT 263 - Introduction to Statistics ,4429,"001-LEC
+Regular","Mo 8:30AM - 10:00AM
+Th 10:00AM - 11:30AM","CHERNOFF AUD
+CHERNOFF AUD","Molson,Charles Arthur
+Molson,Charles Arthur",240
+ ARTC 804 - Scienc. Meth. For Conservator ,6168,"001-SEM
+Regular",Mo 9:00AM - 10:30AM,ONTARIO RM206,"Murray,Alison",12
+ CURR 385 - Social Studies (PJ) ,2440,"006-LEC
+Education","Mo 9:00AM - 11:00AM
+Mo 8:30AM - 12:30PM
+Tu 8:30AM - 10:30AM
+Mo 9:00AM - 11:00AM","DUNCAN MCARTHUR RM A239
+DUNCAN MCARTHUR RM A239
+DUNCAN MCARTHUR RM A239
+DUNCAN MCARTHUR RM A239","Ogden,Holly Christine
+Ogden,Holly Christine
+Ogden,Holly Christine
+Ogden,Holly Christine",35
+ OT 852 - Group Theory And Process ,5431,"001-LEC
+Regular",Mo 9:00AM - 10:00AM,ACTON CEC,"Edgelow,Megan Michele",76
+ ANAT 216 - Principles of Human Morphology II ,1046,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","DUNNING AUD
+DUNNING AUD
+DUNNING AUD","Elbatarny,Hisham,
+Mackenzie,Leslie W,
+Tayade,Chandrakant
+Elbatarny,Hisham,
+Mackenzie,Leslie W,
+Tayade,Chandrakant
+Elbatarny,Hisham,
+Mackenzie,Leslie W,
+Tayade,Chandrakant",170
+ APSC 112 - Electricity And Magnetism ,3838,"102-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","STIRLING AUD
+STIRLING AUD
+STIRLING AUD","Morelli,Jordan E
+Morelli,Jordan E
+Morelli,Jordan E",225
+ APSC 112 - Electricity And Magnetism ,3974,"103-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","ELLIS RM324
+ELLIS RM324
+ELLIS RM324","Morin,Evelyn Louise
+Morin,Evelyn Louise
+Morin,Evelyn Louise",40
+ APSC 131 - Chemistry And Materials ,5401,"901-TUT
+6 wk Win","Th 3:30PM - 4:30PM
+Mo 9:30AM - 10:30AM","MACINTOSH-CORRY RM B201
+JEFFERY RM126","Staff
+Staff",44
+ APSC 172 - Calculus II ,3753,"200-TUT
+Regular",Mo 9:30AM - 10:30AM,JEFFERY RM101,Staff,54
+ APSC 172 - Calculus II ,3754,"201-TUT
+Regular",Mo 9:30AM - 10:30AM,JEFFERY RM225,Staff,50
+ APSC 172 - Calculus II ,3755,"202-TUT
+Regular",Mo 9:30AM - 10:30AM,JEFFERY RM118,Staff,49
+ APSC 172 - Calculus II ,3762,"210-TUT
+Regular",Mo 9:30AM - 10:30AM,ELLIS RM226,Staff,47
+ APSC 172 - Calculus II ,3763,"211-TUT
+Regular",Mo 9:30AM - 10:30AM,ELLIS RM226,Staff,47
+ APSC 172 - Calculus II ,3764,"212-TUT
+Regular",Mo 9:30AM - 10:30AM,ELLIS RM226,Staff,47
+ APSC 174 - Introduction To Linear Algebra ,3766,"101-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","ELLIS AUD
+ELLIS AUD
+ELLIS AUD","Mansouri,Abdol-Reza
+Mansouri,Abdol-Reza
+Mansouri,Abdol-Reza",218
+ APSC 174 - Introduction To Linear Algebra ,5410,"900-LEC
+12 wk Win","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM
+Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","JEFFERY RM126
+JEFFERY RM126
+JEFFERY RM126
+JEFFERY RM126
+JEFFERY RM126
+JEFFERY RM126","Pond,Geoffrey
+Pond,Geoffrey
+Pond,Geoffrey
+Pond,Geoffrey
+Pond,Geoffrey
+Pond,Geoffrey",59
+ APSC 200 - Engineering Design & Practice II ,3787,"101-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM","DUPUIS AUD
+DUPUIS AUD","Lai,Yongjun
+Lai,Yongjun",174
+ BIOL 303 - Community and Ecosystem Ecology ,1316,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","STIRLING RM A
+STIRLING RM A
+STIRLING RM A","Grogan,Paul
+Grogan,Paul
+Grogan,Paul",67
+ BIOL 439 - Natural Selection and Microevolution ,1773,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","BIOSCI RM1120
+BIOSCI RM1120
+BIOSCI RM1120","Boag,Peter T
+Boag,Peter T
+Boag,Peter T",27
+ CHEE 323 - Industrial Catalysis ,2298,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","MILLER RM201
+MILLER RM201
+MILLER RM201","Hutchinson,Robin A
+Hutchinson,Robin A
+Hutchinson,Robin A",77
+ CHEE 434 - Process Control II ,5606,"002-TUT
+Regular",Mo 9:30AM - 10:30AM,BEAMISH-MUNRO RM213,"Guay,Martin",12
+ CHEE 821 - Process Control II ,5661,"002-TUT
+Regular",Mo 9:30AM - 10:30AM,BEAMISH-MUNRO RM213,"Guay,Martin",12
+ CHEM 413 - Computational Chemistry ,2742,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","JEFFERY RM234
+JEFFERY RM234
+JEFFERY RM234","Cann,Natalie,
+Mosey,Nicholas J
+Cann,Natalie,
+Mosey,Nicholas J
+Cann,Natalie,
+Mosey,Nicholas J",7
+ CHEM 834 - Molec Orbitals & Structures ,5745,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","JEFFERY RM234
+JEFFERY RM234
+JEFFERY RM234","Cann,Natalie,
+Mosey,Nicholas J
+Cann,Natalie,
+Mosey,Nicholas J
+Cann,Natalie,
+Mosey,Nicholas J",7
+ CISC 260 - Programming Paradigms ,3492,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","WALTER LIGHT RM205
+WALTER LIGHT RM205
+WALTER LIGHT RM205","Lamb,Margaret
+Lamb,Margaret
+Lamb,Margaret",124
+ CISC 260 - Programming Paradigms ,6233,"002-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","STIRLING RM B
+STIRLING RM B
+CHERNOFF RM117","Dingel,Juergen U
+Dingel,Juergen U
+Dingel,Juergen U",100
+ CISC 499 - Advanced Undergraduate Project ,3498,"001-SEM
+Regular",Mo 9:30AM - 11:30AM,DUNNING RM11,"Lamb,David Alex",25
+ CIVL 372 - Water and Wastewater ,1852,"002-LAB
+Regular",Mo 9:30AM - 11:30AM,ELLIS RM52,"Anderson,Bruce C",58
+ CLST 129B - Introduction to Archaeology ,1788,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","KINES & HLTH RM100
+KINES & HLTH RM100
+KINES & HLTH RM100","Reeves,M. Barbara
+Reeves,M. Barbara
+Reeves,M. Barbara",107
+ COGS 499 - Advanced Undergraduate Project ,4262,"001-SEM
+Regular",Mo 9:30AM - 11:30AM,TBA,"Zulkernine,Farhana",6
+ DEVS 300 - Cross-Cultural Research Method ,1915,"003-TUT
+Regular",Mo 9:30AM - 10:30AM,ELLIS RM218,Staff,20
+ DEVS 311 - Labour and Global Development ,2334,"003-TUT
+Regular",Mo 9:30AM - 10:30AM,KINGSTON RM205,Staff,29
+ DEVS 311 - Labour and Global Development ,2336,"005-TUT
+Regular",Mo 9:30AM - 10:30AM,MACINTOSH-CORRY RM E229,Staff,28
+ ECON 110B - Principles of Economics ,1945,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","BIOSCI AUD
+BIOSCI AUD
+BIOSCI AUD","Cromb,Ian James
+Cromb,Ian James
+Cromb,Ian James",262
+ ELEC 324 - Discrete-Time Signals and Systems ,3563,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","BIOSCI RM1103
+BIOSCI RM1103
+BIOSCI RM1103","Blostein,Steven D
+Blostein,Steven D
+Blostein,Steven D",68
+ ENCH 413 - Computational Chemistry ,2752,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","JEFFERY RM234
+JEFFERY RM234
+JEFFERY RM234","Cann,Natalie,
+Mosey,Nicholas J
+Cann,Natalie,
+Mosey,Nicholas J
+Cann,Natalie,
+Mosey,Nicholas J",7
+ ENSC 321 - Environmental Justice in Global Context ,2061,"006-SEM
+Regular",Mo 9:30AM - 10:30AM,BIOSCI RM2109,Staff,8
+ EPID 804 - Intermediate Epidemiology ,5954,"001-LEC
+Regular",MoWe 9:30AM - 11:00AM,STIRLING RM412B,"King,Will D",33
+ FILM 345 - Television: Structure and Function ,5577,"002-LAB
+Regular",Mo 9:30AM - 11:30AM,IBCPA RM329,"Smith,Michelle",54
+ FREN 150B - Français intermédiaire ,2525,"016-TUT
+Regular",Mo 9:30AM - 10:30AM,JOHN WATSON RM207,Staff,9
+ FREN 150B - Français intermédiaire ,2526,"017-TUT
+Regular",Mo 9:30AM - 10:30AM,TBA,Staff,8
+ GEOE 362 - Resource Engineering ,5049,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","MILLER RM105
+MILLER RM105
+MILLER RM105","Olivo,Gema Ribeiro
+Olivo,Gema Ribeiro
+Olivo,Gema Ribeiro",48
+ GEOL 104 - The Dynamic Earth ,5063,"007-LAB
+Regular",Mo 9:30AM - 11:30AM,MILLER RM225,"Layton-Matthews,Daniel",10
+ GEOL 342 - Special Topics in Geology ,4089,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","MILLER RM210
+MILLER RM210
+MILLER RM210","Dececchi,Thomas
+Dececchi,Thomas
+Dececchi,Thomas",15
+ GEOL 362 - Petrology Applied to Ore Deposit ,5066,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","MILLER RM105
+MILLER RM105
+MILLER RM105","Olivo,Gema Ribeiro
+Olivo,Gema Ribeiro
+Olivo,Gema Ribeiro",48
+ IDIS 302 - Race and Racism ,2926,"005-TUT
+Regular",Mo 9:30AM - 10:30AM,MACINTOSH-CORRY RM D122,"Kobayashi,Audrey",7
+ LAW 508 - Taxation ,1484,"001-LEC
+Law","Mo 9:30AM - 11:30AM
+We 9:30AM - 11:30AM","MACDONALD RM1
+MACDONALD RM1","Lahey,Kathleen Ann
+Lahey,Kathleen Ann",80
+ LAW 520 - Family Law ,1486,"001-LEC
+Law","Mo 9:30AM - 11:30AM
+We 9:30AM - 11:30AM","DUNNING RM12
+DUNNING RM12","Maur,Mary Jo
+Maur,Mary Jo",49
+ LAW 562 - Coll. Agreements Arbitration ,1489,"001-SEM
+Law",MoFr 9:30AM - 11:30AM,MACDONALD RM100,"Carter,Donald",20
+ LAW 808 - Taxation ,2309,"001-LEC
+Law","Mo 9:30AM - 11:30AM
+We 9:30AM - 11:30AM","MACDONALD RM1
+MACDONALD RM1","Lahey,Kathleen Ann
+Lahey,Kathleen Ann",80
+ MATH 121B - Differential and Integral Calculus ,4320,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+Tu 9:30AM - 10:30AM","DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101","Day,Troy
+Day,Troy",532
+ MATH 124 - Differential and Integral Calculus II ,4324,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+Tu 9:30AM - 10:30AM","DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101","Day,Troy
+Day,Troy",532
+ MATH 225 - Ordinary Differential Equations ,4374,"002-TUT
+Regular",Mo 9:30AM - 10:30AM,JEFFERY RM128,Staff,89
+ MATH 328 - Real Analysis ,4342,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","JEFFERY RM115
+JEFFERY RM115
+JEFFERY RM115","Bogoyavlenskij,Oleg I
+Bogoyavlenskij,Oleg I
+Bogoyavlenskij,Oleg I",14
+ MATH 387 - Elementary Geometry - an Advanced Perspective ,5136,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","JEFFERY RM110
+JEFFERY RM110
+JEFFERY RM110","Dimitrov,Ivan K
+Dimitrov,Ivan K
+Dimitrov,Ivan K",18
+ MECH 371 - Fracture Mech & Dislocation ,4458,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+Th 10:30AM - 11:30AM
+We 8:30AM - 9:30AM","ELLIS RM327
+ELLIS RM327
+DUNNING RM12","Krstic,Vladimir
+Krstic,Vladimir
+Krstic,Vladimir",75
+ MECH 470 - Deformation Processing ,4508,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","NICOL RM321
+NICOL RM321
+NICOL RM321","Pilkey,Keith
+Pilkey,Keith
+Pilkey,Keith",14
+ MECH 864 - Engineering Analysis ,5979,"001-SEM
+Regular","Mo 9:30AM - 11:00AM
+We 2:30PM - 4:00PM","MCLAUGHLIN RM302
+MCLAUGHLIN RM302","Anderson,Ronald James
+Anderson,Ronald James",7
+ MICR 320 - Microbial Pathogenesis ,1087,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","MCLAUGHLIN RM306
+MCLAUGHLIN RM306
+MCLAUGHLIN RM306","Martin,Nancy L,
+Raptis,Leda Helen
+Martin,Nancy L,
+Raptis,Leda Helen
+Martin,Nancy L,
+Raptis,Leda Helen",50
+ MINE 324 - Hydraulics/Mining Applications ,5242,"001-LEC
+Regular","Mo 9:30AM - 10:30AM
+We 8:30AM - 9:30AM
+Th 10:30AM - 11:30AM","GOODWIN RM254
+GOODWIN RM254
+GOODWIN RM254","De Souza,Euler Magno
+De Souza,Euler Magno
+De Souza,Euler Magno",29
+ MTHE 225 - Ordinary Differential Equations ,4424,"002-TUT
+Regular",Mo 9:30AM - 10:30AM,JEFFERY RM128,Staff,89
+ MUSC 227B - Ear Training and Sight Singing II ,4534,"002-LAB
+Regular","Mo 9:30AM - 10:30AM
+Th 10:30AM - 11:30AM","HARRISON-LECAINE RM124
+HARRISON-LECAINE RM124","Tormann,Cynthia
+Tormann,Cynthia",27
+ POLS 212 - Canadian Politics ,4795,"011-TUT
+Regular",Mo 9:30AM - 10:30AM,MACINTOSH-CORRY RM A309,Staff,25
+ PSYC 100B - Principles of Psychology ,3383,"006-LAB
+Regular",Mo 9:30AM - 10:30AM,HUMPHREY RM131,Staff,29
+ PSYC 100B - Principles of Psychology ,3441,"064-LAB
+Regular",Mo 9:30AM - 10:30AM,HUMPHREY RM132,Staff,25
+ SOCY 211 - Introduction to Statistics ,5632,"007-LAB
+Regular",Mo 9:30AM - 10:30AM,JEFFERY RM157,"Sytsma,Victoria A",21
+ ARTH 272 - Latin American Art ,1277,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","KINGSTON RM201
+KINGSTON RM201","Bailey,Gauvin
+Bailey,Gauvin",79
+" ARTH 310 - Feminism, Art, Art History ",1279,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","DUNNING RM27
+DUNNING RM27","Kennedy,Jennifer
+Kennedy,Jennifer",52
+ BIOL 103 - Introductory Biology of Organisms ,1294,"008-LAB
+Regular","Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM","BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",20
+ BIOL 103 - Introductory Biology of Organisms ,1295,"009-LAB
+Regular","Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM","BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",20
+ BIOL 103 - Introductory Biology of Organisms ,1296,"010-LAB
+Regular","Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM","BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",20
+ BIOL 103 - Introductory Biology of Organisms ,1335,"011-LAB
+Regular","Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM","BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",18
+ BIOL 103 - Introductory Biology of Organisms ,5874,"082-LAB
+Regular","Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM
+Mo 10:00AM - 11:30AM","BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",18
+ CHEM 222 - Methods of Structure Determination ,2683,"005-TUT
+Regular",Mo 10:00AM - 11:30AM,CHERNOFF RM211,Staff,59
+ COMM 131 - Introduction To Marketing ,3620,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","GOODES RM141
+GOODES RM141","Rath,Suzanne
+Rath,Suzanne",82
+ COMM 132 - Marketing II ,3737,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","GOODES RM151
+GOODES RM151","Ashworth,Laurence T A
+Ashworth,Laurence T A",83
+ COMM 173 - Introduction to International Business ,3714,"002-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","GOODES RM118
+GOODES RM118","Reid,Douglas A,
+Rogers,Keith W
+Reid,Douglas A,
+Rogers,Keith W",84
+ COMM 221 - Introduction To Finance ,3742,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","GOODES RM108
+GOODES RM108","Essaddam,Naceur
+Essaddam,Naceur",76
+ COMM 313 - Financial Accounting II ,3644,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","GOODES RM 103
+GOODES RM 103","Boland,George
+Boland,George",17
+ COMM 332 - Marketing Research ,4699,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","GOODES RM304
+GOODES RM304","Eid,Joyce
+Eid,Joyce",52
+ COMM 341 - Intro To Prod & Oper Mgmt ,3652,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","GOODES RM 101
+GOODES RM 101","Staff
+Staff",53
+ COMM 401 - Business and Corporate Strategy ,3659,"003-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","GOODES RM102
+GOODES RM102","Packalen,Kelley
+Packalen,Kelley",58
+ COMM 621 - Introduction To Finance ,3748,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","GOODES RM108
+GOODES RM108","Essaddam,Naceur
+Essaddam,Naceur",76
+ DRAM 237 - Elementary Acting I - The Actor's Instrument ,2400,"002-LAB
+Regular",Mo 10:00AM - 11:30AM,THEOLOGICAL ROT,"Wanless,Gregory",18
+ DRAM 345B - Applied Technical Production ,2369,"001-PRA
+Regular",Mo 10:00AM - 11:30AM,THEOLOGICAL RM115,"Redish,Adair",10
+ ECON 110B - Principles of Economics ,1961,"003-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","CHERNOFF AUD
+CHERNOFF AUD","Barber,Michael Fredrick
+Barber,Michael Fredrick",211
+ ECON 212 - Microeconomic Theory I ,1948,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","DUNNING RM14
+DUNNING RM14","Stewart,Arthur E
+Stewart,Arthur E",70
+ ECON 452 - Applied Econometrics ,1958,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","ELLIS RM319
+ELLIS RM319","Ferrall,Christopher
+Ferrall,Christopher",35
+ ECON 848 - Economic Analysis Of The Law ,5784,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+Th 1:00PM - 2:30PM","TBA
+KINGSTON RM209","Ware,Roger
+Ware,Roger",6
+ ECON 851 - Econometrics II ,5785,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","JEFFERY RM116
+JEFFERY RM116","Nielsen,Morten Engelbrecht
+Nielsen,Morten Engelbrecht",15
+ ENCH 222 - Meth Struct Determination ,2724,"005-TUT
+Regular",Mo 10:00AM - 11:30AM,CHERNOFF RM211,Staff,59
+ ENGL 217 - Postcolonial Literatures ,2014,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","MACINTOSH-CORRY RM B201
+MACINTOSH-CORRY RM B201","Kastner,Sarah Jane
+Kastner,Sarah Jane",38
+ ENGL 356B - British Fiction of the 19th Century ,2027,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","MACDONALD RM4
+MACDONALD RM4","Cameron,Sally Brooke
+Cameron,Sally Brooke",55
+ ENGL 456 - Group II: Special Topics I ,2035,"001-SEM
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","ONTARIO RM207
+ONTARIO RM207","Morrison,Robert J H
+Morrison,Robert J H",25
+ ENGL 817 - Topics In Literary Study III ,6109,"001-SEM
+Regular",Mo 10:00AM - 12:30PM,JOHN WATSON RM406,"Pappano,Margaret A",7
+ FREN 330 - Rédaction et style I ,2556,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","ELLIS RM333
+WALTER LIGHT RM210","Fiore,Francesca
+Fiore,Francesca",41
+ GPHY 101 - Human Geography ,2898,"001-SEM
+Regular",Mo 10:00AM - 11:30AM,ELLIS RM321,"Godlewska,Anne Marie Claire",115
+ GPHY 240 - Introduction to Qualitative Methods in Geography ,2863,"002-PRA
+Regular",Mo 10:00AM - 11:30AM,THEOLOGICAL RM203,"Castleden,Heather",24
+ GRMN 102 - Beginner's German II ,4237,"002-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","KINGSTON RM208
+KINGSTON RM208","Pugh,David V
+Pugh,David V",19
+ ITLN 112 - Beginning Italian II ,4264,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","KINGSTON RM108
+KINGSTON RM108","Bachmann,Brigitte Eleonore
+Bachmann,Brigitte Eleonore",34
+ ITLN 205 - Italiano avanzato ,4265,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","KINGSTON RM304
+KINGSTON RM304","Zaccagnino,Cristiana
+Zaccagnino,Cristiana",6
+ KNPE 365 - Physical Activity and Health Behaviour Counseling ,4184,"001-LEC
+Regular",Mo 10:00AM - 11:30AM,KINES & HLTH RM101,"Baillie,Colin Patrick Thomas",89
+ LAW 170B - Criminal Law ,1540,"001-LEC
+Law","Mo 10:00AM - 11:30AM
+We 1:00PM - 2:30PM","MACDONALD RM202
+MACDONALD RM3","Kelly,Lisa Marie
+Staff",52
+ LAW 182B - Property ,1569,"001-LEC
+Law","Mo 10:00AM - 11:30AM
+We 1:00PM - 2:30PM","MACDONALD RM201
+MACDONALD RM201","Njoya,Wanjiru
+Njoya,Wanjiru",55
+ LAW 192B - Torts ,1542,"001-SEM
+Law","Mo 10:00AM - 11:30AM
+We 10:00AM - 11:30AM","MACDONALD RM400
+MACDONALD RM211","Knutsen,Erik S
+Knutsen,Erik S",26
+ LING 340 - Syntax ,4274,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","KINGSTON RM308
+KINGSTON RM308","Reinholtz,Charlotte
+Reinholtz,Charlotte",26
+ MGMT 804 - Survey Research Method Design ,5999,"001-SEM
+Regular",MoWe 10:00AM - 11:30AM,TBA,"Webster,Jane E",13
+ MUSC 477 - Special Topics in Music III ,6302,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","HARRISON-LECAINE RM120
+HARRISON-LECAINE RM120","Brunette,Chantal
+Brunette,Chantal",13
+ OT 852 - Group Theory And Process ,6257,"002-LAB
+Regular",Mo 10:00AM - 12:00PM,ACTON CEC,"Edgelow,Megan Michele",76
+ PACT 335 - Practicum in Physical Activity for Seniors ,4133,"001-SEM
+Regular",Mo 10:00AM - 11:30AM,KINES & HLTH RM106,"McCalpin,Michelle Erma",15
+ PHIL 250B - Epistemology and Metaphysics ,4627,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","CHERNOFF RM117
+CHERNOFF RM117","Bakhurst,David
+Bakhurst,David",121
+ POLS 348 - Middle East Politics ,4797,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","JOHN WATSON RM217
+JOHN WATSON RM217","Haklai,Oded
+Haklai,Oded",60
+ PSYC 302 - Advanced Research Methods ,3444,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","BIOSCI RM1102
+BIOSCI RM1102","Hollenstein,Thomas Patrick
+Hollenstein,Thomas Patrick",80
+ PSYC 435 - Advanced Topics in Abnormal Psychology ,5575,"001-SEM
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","BOTTER RM B129
+BOTTER RM B129","Bowie,Christopher R
+Bowie,Christopher R",26
+ PT 856 - Neuromotor Function I ,5020,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+Tu 10:00AM - 11:30AM
+Th 8:30AM - 10:00AM
+Fr 8:30AM - 10:00AM","BOTTER RM B143
+BOTTER RM B147
+WALTER LIGHT RM210
+BOTTER RM B147","Staff
+Staff
+Staff
+Staff",71
+ PT 864 - Complex Health Conditions ,5024,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+Tu 11:30AM - 2:30PM
+Tu 2:30PM - 4:00PM
+We 12:30PM - 2:30PM","BOTTER RM B143
+BOTTER RM B147
+BOTTER RM B147
+BOTTER RM B147","Parsons,Trisha L
+Parsons,Trisha L
+Parsons,Trisha L
+Parsons,Trisha L",70
+ SOCY 235 - Race and Racialization ,1245,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","STIRLING RM C
+STIRLING RM C","Matsunaga,Jennifer
+Matsunaga,Jennifer",118
+ SOCY 300 - Sociology of Cities ,1249,"001-LEC
+Regular","Mo 10:00AM - 11:30AM
+We 8:30AM - 10:00AM","DUPUIS RM215
+DUPUIS RM215","Murakami Wood,David
+Murakami Wood,David",56
+ APSC 112 - Electricity And Magnetism ,3898,"216-TUT
+Regular","Mo 10:30AM - 11:30AM
+Mo 10:30AM - 11:30AM","BOTTER RM B148
+MACINTOSH-CORRY RM D122","Staff
+Staff",51
+ APSC 112 - Electricity And Magnetism ,3899,"217-TUT
+Regular","Mo 10:30AM - 11:30AM
+Mo 10:30AM - 11:30AM","BOTTER RM B148
+MACINTOSH-CORRY RM D122","Staff
+Staff",51
+ APSC 112 - Electricity And Magnetism ,3900,"218-TUT
+Regular","Mo 10:30AM - 11:30AM
+Mo 10:30AM - 11:30AM","BOTTER RM B148
+MACINTOSH-CORRY RM D122","Staff
+Staff",51
+ APSC 112 - Electricity And Magnetism ,5404,"900-LEC
+12 wk Win","Tu 1:30PM - 2:30PM
+Mo 5:30PM - 6:30PM
+Tu 1:30PM - 2:30PM
+Mo 10:30AM - 11:30AM
+Fr 2:30PM - 3:30PM
+Fr 2:30PM - 3:30PM","JEFFERY RM128
+STIRLING RM A
+STIRLING RM A
+STIRLING RM A
+STIRLING RM A
+STIRLING RM B","Narayanan,Sowmya K
+Narayanan,Sowmya K
+Narayanan,Sowmya K
+Narayanan,Sowmya K
+Narayanan,Sowmya K
+Narayanan,Sowmya K",56
+ APSC 142 - Intro Computer Program Engrs ,3814,"101-LEC
+Regular",Mo 10:30AM - 11:30AM,ELLIS AUD,"Karamat,Tashfeen Bin",228
+ ARTC 822 - Conservation Of Paintings II ,6167,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+Th 10:30AM - 11:30AM","ONTARIO RM206
+ONTARIO RM206","O'Malley,Michael
+O'Malley,Michael",7
+ BIOL 103 - Introductory Biology of Organisms ,1287,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101","Chippindale,Adam,
+Walker,Virginia Katrina
+Chippindale,Adam,
+Walker,Virginia Katrina
+Chippindale,Adam,
+Walker,Virginia Katrina",543
+ BIOL 202 - Diversity of Life II ,1297,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","DUNNING AUD
+DUNNING AUD
+DUNNING AUD","Nelson,William,
+Ratcliffe,Laurene M
+Nelson,William,
+Ratcliffe,Laurene M
+Nelson,William,
+Ratcliffe,Laurene M",308
+ BIOL 422 - Conservation Biology ,1767,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","ELLIS RM324
+ELLIS RM324
+ELLIS RM324","Friesen,Victoria L
+Friesen,Victoria L
+Friesen,Victoria L",73
+ BIOL 442 - Evolutionary Medicine ,1396,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM","NICOL RM321
+NICOL RM321","Bonier,Frances
+Bonier,Frances",47
+ CHEE 340 - Biomedical Engineering ,2307,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","KINGSTON RM101
+KINGSTON RM101
+KINGSTON RM101","Fitzpatrick,Lindsay E
+Fitzpatrick,Lindsay E
+Fitzpatrick,Lindsay E",142
+ CIVL 215 - Materials For Civil Engineers ,1820,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","JEFFERY RM128
+JEFFERY RM128
+JEFFERY RM128","Staff
+Staff
+Staff",101
+ CIVL 471 - Subsurface Contamination ,1841,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","MILLER RM105
+MILLER RM105
+MILLER RM105","Kueper,Bernard H
+Kueper,Bernard H
+Kueper,Bernard H",83
+ CIVL 880 - Subsurface Contamination ,1859,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","MILLER RM105
+MILLER RM105
+MILLER RM105","Kueper,Bernard H
+Kueper,Bernard H
+Kueper,Bernard H",83
+ DEVS 240 - Culture and Development ,1898,"006-TUT
+Regular",Mo 10:30AM - 11:30AM,THEOLOGICAL RM209,Staff,27
+ ELEC 409 - Bioinformatic Analytics ,4980,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+Th 1:30PM - 2:30PM
+Fr 3:30PM - 4:30PM","JEFFERY RM101
+JEFFERY RM101
+JEFFERY RM101","Khalifa,Shady
+Khalifa,Shady
+Khalifa,Shady",33
+ ENPH 345 - Quantum Physics Of Atoms ,4704,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Tu 2:30PM - 3:30PM","STIRLING RM B
+STIRLING RM B
+STIRLING RM C","Gooding,Robert James
+Gooding,Robert James
+Gooding,Robert James",86
+ ENSC 321 - Environmental Justice in Global Context ,2060,"005-SEM
+Regular",Mo 10:30AM - 11:30AM,BIOSCI RM2109,Staff,14
+ GPHY 342 - Remote Sensing II: Digital Image Processing ,2917,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+Fr 8:30AM - 9:30AM","MACINTOSH-CORRY RM E230
+MACINTOSH-CORRY RM E230","van Ewijk,Karin
+van Ewijk,Karin",17
+ JAPN 200B - Introductory Japanese II ,4271,"002-TUT
+Regular",Mo 10:30AM - 11:30AM,KINGSTON LAB,"Takeuchi-Aoki,Keiko",13
+ KNPE 254 - Biomechanical Analysis of Human Movement ,5081,"006-TUT
+Regular","Mo 10:30AM - 11:30AM
+Mo 10:30AM - 11:30AM","KINES & HLTH RM202
+KINES & HLTH RM203","Staff
+Staff",26
+ MATH 126B - Differential and Integral Calculus ,4326,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","STIRLING AUD
+STIRLING AUD
+STIRLING AUD","Thatte,Vaidehee Madhav
+Thatte,Vaidehee Madhav
+Thatte,Vaidehee Madhav",213
+ MATH 126B - Differential and Integral Calculus ,6138,"004-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","JEFFERY RM234
+JEFFERY RM234
+JEFFERY RM234","Gu,Yinzheng
+Gu,Yinzheng
+Gu,Yinzheng",39
+ MATH 281 - Introduction to Real Analysis ,5133,"004-TUT
+Regular",Mo 10:30AM - 11:30AM,ELLIS RM226,"Lewis,Andrew D",60
+ MATH 413 - Introduction to Algebraic Geometry ,5137,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","JEFFERY RM115
+JEFFERY RM115
+JEFFERY RM115","Roth,Mike A
+Roth,Mike A
+Roth,Mike A",17
+ MATH 813 - Introduction to Algebraic Geometry ,5650,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","JEFFERY RM115
+JEFFERY RM115
+JEFFERY RM115","Roth,Mike A
+Roth,Mike A
+Roth,Mike A",17
+ MECH 241 - Fluid Mechanics I ,4440,"002-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","STIRLING RM A
+STIRLING RM A
+STIRLING RM A","Matovic,Miodrag Darko,
+Wong,Jaime
+Matovic,Miodrag Darko,
+Wong,Jaime
+Matovic,Miodrag Darko,
+Wong,Jaime",119
+ MECH 480 - Airplane Aerodynamics and Performance ,4476,"002-TUT
+Regular",Mo 10:30AM - 11:30AM,MCLAUGHLIN RM306,"Piomelli,Ugo",35
+ MECH 863 - Materials Selection in Design ,6455,"001-SEM
+Regular","Mo 10:30AM - 12:00PM
+Th 9:00AM - 10:30AM","TBA
+TBA","Pilkey,Keith
+Pilkey,Keith",7
+ MINE 267 - Applied Chemistry for Mining ,5240,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","GOODWIN RM247
+GOODWIN RM247
+GOODWIN RM247","Pickles,Christopher A
+Pickles,Christopher A
+Pickles,Christopher A",26
+ MINE 324 - Hydraulics/Mining Applications ,5243,"002-TUT
+Regular",Mo 10:30AM - 11:30AM,GOODWIN RM254,"De Souza,Euler Magno",29
+ MTHE 281 - Introduction To Real Analysis ,5143,"004-TUT
+Regular",Mo 10:30AM - 11:30AM,ELLIS RM226,"Lewis,Andrew D",60
+ MUSC 293 - Theory and Analysis IIB ,4573,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","HARRISON-LECAINE RM124
+HARRISON-LECAINE RM124
+HARRISON-LECAINE RM124","Lind,Stephanie
+Lind,Stephanie
+Lind,Stephanie",44
+ NSCI 414 - Progress in Neuroanatomy and Neuropharmacology ,1138,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","BIOSCI RM1103
+BIOSCI RM1103
+BIOSCI RM1103","Kawaja,Michael D,
+Normandeau,Catherine,
+Reynolds,James N
+Kawaja,Michael D,
+Normandeau,Catherine,
+Reynolds,James N
+Kawaja,Michael D,
+Normandeau,Catherine,
+Reynolds,James N",96
+ NURS 207 - Nsg Care Acute Hosp Cts (Prac) ,4601,"004-LAB
+Regular",Mo 10:30AM - 12:30PM,CATARAQUI  RM221 SIM LAB,Staff,23
+ OT 862 - Applied Community Development (CR6) ,5008,"001-LEC
+Regular",Mo 10:30AM - 11:30AM,BOTTER RM B147,"Edgelow,Megan Michele",73
+ PHIL 111B - Great Works of Philosophy ,4625,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","MILLER RM201
+MILLER RM201
+MILLER RM201","Sismondo,Sergio
+Sismondo,Sergio
+Sismondo,Sergio",91
+" PHYS 345 - Quantum Physics of Atoms, Nuclei and Particles ",4666,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Tu 2:30PM - 3:30PM","STIRLING RM B
+STIRLING RM B
+STIRLING RM C","Gooding,Robert James
+Gooding,Robert James
+Gooding,Robert James",86
+ POLS 261 - International Politics ,5160,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","BIOSCI AUD
+BIOSCI AUD
+BIOSCI AUD","von Hlatky,Stefanie
+von Hlatky,Stefanie
+von Hlatky,Stefanie",280
+ POLS 264 - World Politics in Historical Perspective ,5175,"001-LEC
+Regular","Mo 10:30AM - 11:30AM
+We 9:30AM - 10:30AM
+Fr 8:30AM - 9:30AM","DUPUIS AUD
+DUPUIS AUD
+DUPUIS AUD","Nossal,Kim Richard
+Nossal,Kim Richard
+Nossal,Kim Richard",89
+ PSYC 100B - Principles of Psychology ,3384,"007-LAB
+Regular",Mo 10:30AM - 11:30AM,HUMPHREY RM131,Staff,30
+ PSYC 100B - Principles of Psychology ,3460,"068-LAB
+Regular",Mo 10:30AM - 11:30AM,HUMPHREY RM132,Staff,25
+ SOCY 211 - Introduction to Statistics ,5633,"008-LAB
+Regular",Mo 10:30AM - 11:30AM,JEFFERY RM157,"Sytsma,Victoria A",24
+ MECH 848 - Measurement Systems I ,5978,"001-SEM
+Regular",Mo 11:00AM - 1:00PM,MCLAUGHLIN RM302,"Sellens,Richard W",6
+ PROF 410B - Theory and Professional Practice (PJ) ,2573,"001-LEC
+Education","Fr 11:00AM - 12:30PM
+Fr 8:30AM - 10:30AM
+Fr 11:00AM - 12:30PM
+Mo 11:00AM - 12:30PM","DUNCAN MCARTHUR RM A242
+DUNCAN MCARTHUR RM A242
+DUNCAN MCARTHUR RM A242
+DUNCAN MCARTHUR RM A242","Christou,Aglaia Glenda
+Christou,Aglaia Glenda
+Christou,Aglaia Glenda
+Christou,Aglaia Glenda",13
+ PROF 410B - Theory and Professional Practice (PJ) ,2574,"002-LEC
+Education","Fr 11:00AM - 12:30PM
+Fr 8:30AM - 10:30AM
+Fr 11:00AM - 12:30PM
+Mo 11:00AM - 12:30PM","DUNCAN MCARTHUR RM A234
+DUNCAN MCARTHUR RM A234
+DUNCAN MCARTHUR RM A234
+DUNCAN MCARTHUR RM A234","Martin,Andrea K
+Martin,Andrea K
+Martin,Andrea K
+Martin,Andrea K",16
+ PROF 410B - Theory and Professional Practice (PJ) ,2575,"003-LEC
+Education","Fr 11:00AM - 12:30PM
+Fr 8:30AM - 10:30AM
+Fr 11:00AM - 12:30PM
+Mo 11:00AM - 12:30PM","DUNCAN MCARTHUR RM A239
+DUNCAN MCARTHUR RM A239
+DUNCAN MCARTHUR RM A239
+DUNCAN MCARTHUR RM A239","Champagne,Linda
+Champagne,Linda
+Champagne,Linda
+Champagne,Linda",19
+ PROF 410B - Theory and Professional Practice (PJ) ,2576,"004-LEC
+Education","Fr 11:00AM - 12:30PM
+Fr 8:30AM - 10:30AM
+Fr 11:00AM - 12:00PM
+Mo 11:00AM - 12:30PM","DUNCAN MCARTHUR RM A227W
+DUNCAN MCARTHUR RM A227W
+DUNCAN MCARTHUR RM A227W
+DUNCAN MCARTHUR RM A227W","East,Jim
+East,Jim
+East,Jim
+East,Jim",22
+ PROF 410B - Theory and Professional Practice (PJ) ,2577,"005-LEC
+Education","Fr 11:00AM - 12:30PM
+Fr 8:30AM - 10:30AM
+Fr 11:00AM - 12:30PM
+Mo 11:00AM - 12:30PM","DUNCAN MCARTHUR RM A241
+DUNCAN MCARTHUR RM A241
+DUNCAN MCARTHUR RM A241
+DUNCAN MCARTHUR RM A241","Field,Caroline
+Field,Caroline
+Field,Caroline
+Field,Caroline",17
+ PROF 410B - Theory and Professional Practice (PJ) ,2578,"006-LEC
+Education","Fr 11:00AM - 12:30PM
+Fr 12:45PM - 2:45PM
+Fr 11:00AM - 12:30PM
+Mo 11:00AM - 12:30PM","DUNCAN MCARTHUR RM A333
+DUNCAN MCARTHUR RM A333
+DUNCAN MCARTHUR RM A333
+DUNCAN MCARTHUR RM A333","Gough,George
+Gough,George
+Gough,George
+Gough,George",23
+ PROF 410B - Theory and Professional Practice (PJ) ,2579,"007-LEC
+Education","Fr 11:00AM - 12:30PM
+Fr 12:45PM - 2:45PM
+Fr 11:00AM - 12:30PM
+Mo 11:00AM - 12:30PM","DUNCAN MCARTHUR RM A240
+DUNCAN MCARTHUR RM A240
+DUNCAN MCARTHUR RM A240
+DUNCAN MCARTHUR RM A240","Merkley,Margaret
+Merkley,Margaret
+Merkley,Margaret
+Merkley,Margaret",18
+ PROF 410B - Theory and Professional Practice (PJ) ,2580,"008-LEC
+Education","Fr 11:00AM - 12:30PM
+Fr 12:45PM - 2:45PM
+Fr 11:00AM - 12:30PM
+Mo 11:00AM - 12:30PM","DUNMCAN MCARTHUR RM B307
+DUNMCAN MCARTHUR RM B307
+DUNMCAN MCARTHUR RM B307
+DUNMCAN MCARTHUR RM B307","Petrick,Robert
+Petrick,Robert
+Petrick,Robert
+Petrick,Robert",15
+ PROF 410B - Theory and Professional Practice (PJ) ,2582,"010-LEC
+Education","Fr 11:00AM - 12:30PM
+Fr 12:45PM - 2:45PM
+Fr 11:00AM - 12:30PM
+Mo 11:00AM - 12:30PM
+Fr 10:30AM - 1:00PM
+Fr 10:30AM - 1:00PM","DUNCAN MCARTHUR RM342B
+DUNCAN MCARTHUR RM342B
+DUNCAN MCARTHUR RM342B
+DUNCAN MCARTHUR RM342B
+DUNCAN MCARTHUR GYM
+DUNCAN MCARTHUR GYM","Mulrooney,Shelley
+Mulrooney,Shelley
+Mulrooney,Shelley
+Mulrooney,Shelley
+Mulrooney,Shelley
+Mulrooney,Shelley",23
+ PROF 410B - Theory and Professional Practice (PJ) ,2583,"011-LEC
+Education","Fr 11:00AM - 12:30PM
+Fr 12:45PM - 2:45PM
+Fr 11:00AM - 12:30PM
+Mo 11:00AM - 12:30PM","DUNCAN MCARTHUR RM342A
+DUNCAN MCARTHUR RM342A
+DUNCAN MCARTHUR RM342A
+DUNCAN MCARTHUR RM342A","Belanger,Laurel
+Belanger,Laurel
+Belanger,Laurel
+Belanger,Laurel",17
+ PROF 410B - Theory and Professional Practice (PJ) ,5756,"012-LEC
+Education","Fr 11:00AM - 12:30PM
+Fr 12:45PM - 2:45PM
+Fr 11:00AM - 12:30PM
+Mo 11:00AM - 12:30PM","DUNCAN MCARTHUR RM A236
+DUNCAN MCARTHUR RM A236
+DUNCAN MCARTHUR RM A236
+DUNCAN MCARTHUR RM A236","Browne,Peggy
+Browne,Peggy
+Browne,Peggy
+Browne,Peggy",16
+ PROF 410B - Theory and Professional Practice (PJ) ,5757,"013-LEC
+Education","Fr 11:00AM - 12:30PM
+Mo 11:00AM - 12:30PM
+Fr 11:00AM - 12:30PM
+Fr 11:00AM - 12:30PM","DUNCAN MCARTHUR RM A334
+DUNCAN MCARTHUR RM A334
+DUNCAN MCARTHUR RM A334
+DUNCAN MCARTHUR RM A334","Valiquette,Adelina
+Valiquette,Adelina
+Valiquette,Adelina
+Valiquette,Adelina",11
+ APSC 100B - Engineering Practice ,3955,"209-STD
+Regular","Mo 11:30AM - 2:30PM
+Fr 11:30AM - 1:30PM","TBA
+TBA","Staff
+Staff",43
+ APSC 100B - Engineering Practice ,3884,"308-LAB
+Regular","Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 7:30PM - 8:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+TBA","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",73
+ APSC 100B - Engineering Practice ,3888,"318-LAB
+Regular","Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 7:30PM - 8:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+TBA","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",73
+ APSC 102 - Experimentation and measurement ,3951,"308-LAB
+Regular","Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 7:30PM - 8:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+TBA","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",73
+ APSC 103 - First Year Engineering Design Project ,6226,"209-STD
+Regular","Mo 11:30AM - 2:30PM
+Fr 11:30AM - 1:30PM","TBA
+TBA","Staff
+Staff",43
+ APSC 112 - Electricity And Magnetism ,3841,"202-TUT
+Regular","Mo 11:30AM - 12:30PM
+Mo 11:30AM - 12:30PM","KINGSTON RM205
+WALTER LIGHT RM212","Staff
+Staff",49
+ APSC 132 - Chemistry and its Applications ,3854,"206-TUT
+Regular",Mo 11:30AM - 12:30PM,JOHN WATSON RM217,Staff,59
+ APSC 132 - Chemistry and its Applications ,3857,"210-TUT
+Regular",Mo 11:30AM - 12:30PM,CHERNOFF RM213,Staff,52
+ APSC 132 - Chemistry and its Applications ,3858,"211-TUT
+Regular",Mo 11:30AM - 12:30PM,CHERNOFF RM213,Staff,52
+ APSC 132 - Chemistry and its Applications ,3859,"212-TUT
+Regular",Mo 11:30AM - 12:30PM,CHERNOFF RM213,Staff,52
+ APSC 142 - Intro Computer Program Engrs ,3832,"307-LAB
+Regular","Mo 11:30AM - 1:30PM
+Mo 11:30AM - 1:30PM","BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM214","Staff
+Staff",70
+ APSC 142 - Intro Computer Program Engrs ,3917,"317-LAB
+Regular","Mo 11:30AM - 1:30PM
+Mo 11:30AM - 1:30PM","BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM214","Staff
+Staff",70
+ APSC 172 - Calculus II ,3756,"203-TUT
+Regular",Mo 11:30AM - 12:30PM,JEFFERY RM101,Staff,53
+ APSC 172 - Calculus II ,3757,"204-TUT
+Regular",Mo 11:30AM - 12:30PM,JEFFERY RM225,Staff,54
+ APSC 172 - Calculus II ,3758,"205-TUT
+Regular",Mo 11:30AM - 12:30PM,JEFFERY RM118,Staff,56
+ APSC 172 - Calculus II ,3794,"213-TUT
+Regular",Mo 11:30AM - 12:30PM,JEFFERY RM234,Staff,56
+ APSC 172 - Calculus II ,3795,"214-TUT
+Regular",Mo 11:30AM - 12:30PM,JEFFERY RM234,Staff,56
+ APSC 172 - Calculus II ,3796,"215-TUT
+Regular",Mo 11:30AM - 12:30PM,JEFFERY RM234,Staff,56
+ APSC 200 - Engineering Design & Practice II ,3793,"204-STD
+Regular","Mo 11:30AM - 1:30PM
+We 12:30PM - 2:30PM
+Mo 11:30AM - 1:30PM
+We 12:30PM - 2:30PM","BEAMISH-MUNRO RM313A
+BEAMISH-MUNRO RM313A
+BEAMISH-MUNRO RM313B
+BEAMISH-MUNRO RM313B","Lai,Yongjun
+Lai,Yongjun
+Lai,Yongjun
+Lai,Yongjun",48
+ ARAB 100B - Introductory Arabic (Modern Standard) ,4227,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","KINGSTON RM200
+KINGSTON RM200","Mahmoud,Amal
+Mahmoud,Amal",29
+ ARTF 128 - Introductory Fine Art II ,1935,"001-LLB
+Regular","Mo 11:30AM - 2:30PM
+Tu 11:30AM - 2:30PM
+We 11:30AM - 2:30PM
+Th 2:30PM - 5:30PM
+Mo 11:30AM - 2:30PM
+Tu 11:30AM - 2:30PM
+We 11:30AM - 2:30PM
+Th 2:30PM - 5:30PM","TBA
+TBA
+TBA
+TBA
+TBA
+TBA
+TBA
+TBA","Sellars,Kathleen E
+Sellars,Kathleen E
+Sellars,Kathleen E
+Sellars,Kathleen E
+Dhaliwal,Sarindar
+Dhaliwal,Sarindar
+Dhaliwal,Sarindar
+Dhaliwal,Sarindar",25
+ ARTF 228 - Intermediate Fine Art II ,1936,"001-LAB
+Regular","MoTuWe 11:30AM - 2:30PM
+Th 2:30PM - 5:30PM
+MoTuWe 11:30AM - 2:30PM
+Th 2:30PM - 5:30PM","ONTARIO RM405
+ONTARIO RM405
+ONTARIO RM107
+ONTARIO RM107","Aziz,Sylvat
+Aziz,Sylvat
+Staff
+Staff",16
+ ARTF 228 - Intermediate Fine Art II ,1944,"002-LAB
+Regular","MoTuWe 11:30AM - 2:30PM
+Th 2:30PM - 5:30PM
+MoTuWe 11:30AM - 2:30PM
+Th 2:30PM - 5:30PM","ONTARIO RM107
+ONTARIO RM107
+ONTARIO RM405
+ONTARIO RM405","Staff
+Staff
+Staff
+Staff",14
+ ARTF 338 - Advanced Programs II ,1937,"001-LLB
+Regular","MoTuWe 11:30AM - 2:30PM
+Th 2:30PM - 5:30PM","ONTARIO RM410
+ONTARIO RM410","Winton,Jan
+Winton,Jan",16
+ ARTF 338 - Advanced Programs II ,1938,"002-LLB
+Regular","MoTuWe 11:30AM - 2:30PM
+Th 2:30PM - 5:30PM","ONTARIO STU
+ONTARIO STU","Tamasauskas,Otis C K
+Tamasauskas,Otis C K",4
+ ARTH 375 - Early Netherlandish Painting ,1262,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","MACDONALD RM2
+MACDONALD RM2","Spronk,Ronald
+Spronk,Ronald",37
+ ARTH 482 - Gothic Sculpture ,1284,"001-SEM
+Regular",Mo 11:30AM - 2:30PM,ONTARIO RM210,"D'Elia,Una",14
+ BCHM 310B - General Biochemistry ,1091,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","ETHERINGTON AUD
+ETHERINGTON AUD
+ETHERINGTON AUD","Jones,Glenville
+Jones,Glenville
+Jones,Glenville",179
+ BCHM 316 - Metabolism ,1095,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","ETHERINGTON AUD
+ETHERINGTON AUD
+ETHERINGTON AUD","Jones,Glenville
+Jones,Glenville
+Jones,Glenville",179
+ BIOL 341 - Plant Physiology ,1326,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","MACDONALD RM1
+DUNNING RM12
+MACDONALD RM1","Ko,Kenton,
+Plaxton,William Charles
+Ko,Kenton,
+Plaxton,William Charles
+Ko,Kenton,
+Plaxton,William Charles",76
+ CHEE 222 - Process Dynamics & Num Methods ,2276,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","KINGSTON RM101
+KINGSTON RM101
+KINGSTON RM101","Li,Xiang
+Li,Xiang
+Li,Xiang",126
+ CHEE 371 - Mitigation of Industrial Pollution ,2319,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","STIRLING RM A
+MACDONALD RM1
+STIRLING RM C","Meunier,Louise
+Meunier,Louise
+Meunier,Louise",134
+ CHEM 112B - General Chemistry ,2647,"002-LEC
+Regular","Mo 11:30AM - 12:30PM
+Th 12:30PM - 1:30PM
+Mo 11:30AM - 12:30PM
+Th 12:30PM - 1:30PM
+Mo 11:30AM - 12:30PM
+Th 12:30PM - 1:30PM","DUNNING AUD
+DUNNING AUD
+DUNNING AUD
+DUNNING AUD
+DUNNING AUD
+DUNNING AUD","Wang,Suning
+Wang,Suning
+Cann,Natalie
+Cann,Natalie
+Stamplecoskie,Kevin
+Stamplecoskie,Kevin",382
+" CHEM 221 - Material, Solutions, Interfaces ",2677,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","CHERNOFF RM117
+CHERNOFF RM117
+CHERNOFF RM117","Jerkiewicz,Gregory
+Jerkiewicz,Gregory
+Jerkiewicz,Gregory",85
+ CISC 102 - Discrete Mathematics for Computing l ,3526,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","MILLER RM201
+MILLER RM201
+MILLER RM201","Rappaport,David H
+Rappaport,David H
+Rappaport,David H",111
+ CISC 221 - Computer Architecture ,4248,"005-LAB
+Regular",Mo 11:30AM - 1:30PM,GOODWIN RM248,Staff,54
+" CISC 497 - Social, Ethical and Legal Issues in Computing ",4252,"001-SEM
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","ELLIS RM321
+ELLIS RM321
+BOTTER RM B139","Powley,Wendy L
+Powley,Wendy L
+Powley,Wendy L",81
+ CIVL 341 - Geotechnical Engineering 2 ,1832,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Fr 2:30PM - 3:30PM","STIRLING RM C
+STIRLING RM C
+STIRLING RM C","Take,Andy W
+Take,Andy W
+Take,Andy W",139
+ CIVL 436 - Prestressed Concrete ,1835,"002-TUT
+Regular",Mo 11:30AM - 1:30PM,ELLIS RM327,"Fam,Amir Z",37
+ CLST 203 - Myth and Religion ,1789,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","ELLIS AUD
+ELLIS AUD","Ward,Graeme
+Ward,Graeme",246
+ CLST 351 - Digital Photogrammetry ,5603,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","ELLIS RM333
+ELLIS RM333","Bevan,George
+Bevan,George",19
+ CMPE 212 - Introduction to Computing Science II ,3535,"002-LAB
+Regular",Mo 11:30AM - 1:30PM,JEFFERY RM155,"McLeod,Alan D",57
+ COGS 300 - Programming Cognitive Models ,4261,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","JEFFERY RM102
+JEFFERY RM102
+JEFFERY RM102","Zulkernine,Farhana
+Zulkernine,Farhana
+Zulkernine,Farhana",6
+ COMM 105 - Business Communications ,3702,"006-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","GOODES RM151
+GOODES RM151","Coulter,Christine
+Coulter,Christine",81
+ COMM 122 - Finance II ,3617,"002-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","GOODES RM153
+GOODES RM153","Dudley,Evan
+Dudley,Evan",82
+ COMM 122 - Finance II ,3676,"006-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","GOODES RM141
+GOODES RM141","Sonmez,Fatma
+Sonmez,Fatma",85
+ COMM 162 - Managerial Statistics ,3631,"002-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","GOODES RM118
+GOODES RM118","Levina,Tatsiana
+Levina,Tatsiana",80
+ COMM 318 - Accounting Theory ,3647,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","GOODES RM 101
+GOODES RM 101","Hussan,Sameera
+Hussan,Sameera",52
+ COMM 322 - Advanced Corporate Finance ,4698,"002-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","GOODES RM 305
+GOODES RM 305","Chaigneau,Pierre
+Chaigneau,Pierre",50
+ COMM 335 - Marketing Communications ,3672,"002-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","GOODES RM 103
+GOODES RM 103","Libitz,Gregory
+Libitz,Gregory",36
+ COMM 336 - Consumer Behaviour ,3707,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","GOODES RM304
+GOODES RM304","Mitchell,Alexander Ian
+Mitchell,Alexander Ian",56
+ COMM 374 - international Business Strategy ,3696,"002-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","GOODES RM102
+GOODES RM102","Bartholomew,Susan
+Bartholomew,Susan",56
+ CWRI 296 - Creative Writing II ,1985,"001-SEM
+Regular",Mo 11:30AM - 2:30PM,JOHN WATSON RM401,"Smart,Carolyn",12
+ DEVS 240 - Culture and Development ,1899,"007-TUT
+Regular",Mo 11:30AM - 12:30PM,THEOLOGICAL RM209,Staff,27
+ DEVS 240 - Culture and Development ,6159,"008-TUT
+Regular",Mo 11:30AM - 12:30PM,MACINTOSH-CORRY RM A309,Staff,26
+ DEVS 300 - Cross-Cultural Research Method ,1916,"004-TUT
+Regular",Mo 11:30AM - 12:30PM,JEFFERY RM110,Staff,23
+ DEVS 492 - Topics in Development Studies I ,1921,"003-SEM
+Regular",Mo 11:30AM - 2:30PM,MACINTOSH-CORRY RM D122,"Soederberg,Susanne M",18
+ DEVS 869 - Global Governance ,1930,"001-SEM
+Regular",Mo 11:30AM - 2:30PM,MACINTOSH-CORRY RM D122,"Soederberg,Susanne M",18
+ DRAM 241 - Design and Theatre ,2383,"001-SEM
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","THEOLOGICAL RM102
+THEOLOGICAL RM102","Fort,Tim W
+Fort,Tim W",21
+ DRAM 350B - Playwriting III ,2370,"001-PRA
+Regular",Mo 11:30AM - 2:30PM,THEOLOGICAL RM118,"Lazarus,John S",19
+ ECON 482 - Seminar In Microeconomics III ,1984,"001-SEM
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","TBA
+TBA","Garvie,Devon Anne
+Garvie,Devon Anne",14
+ ECON 491 - Seminar In Macroeconomics II ,1959,"001-SEM
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","TBA
+TBA","Kennedy,Michael
+Kennedy,Michael",15
+ ECON 861 - Empirical Micro-Economics II ,5788,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+We 1:00PM - 2:30PM","KINES & HLTH RM105
+KINES & HLTH RM105","Ferrall,Christopher
+Ferrall,Christopher",17
+ ELEC 252 - Electronics I ,4624,"007-LAB
+Regular","Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM","BEAMISH-MUNRO RM314
+BEAMISH-MUNRO RM314
+BEAMISH-MUNRO RM314
+BEAMISH-MUNRO RM314
+BEAMISH-MUNRO RM314
+BEAMISH-MUNRO RM314","Freundorfer,Alois Peter
+Freundorfer,Alois Peter
+Freundorfer,Alois Peter
+Freundorfer,Alois Peter
+Freundorfer,Alois Peter
+Freundorfer,Alois Peter",71
+ ELEC 299 - Mechatronics Project ,3588,"003-LAB
+Regular","Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM","BEAMISH-MUNRO RM314
+BEAMISH-MUNRO RM314
+BEAMISH-MUNRO RM314
+BEAMISH-MUNRO RM314
+BEAMISH-MUNRO RM314
+BEAMISH-MUNRO RM314
+BEAMISH-MUNRO RM314","Li,Hao
+Li,Hao
+Li,Hao
+Li,Hao
+Li,Hao
+Li,Hao
+Li,Hao",61
+ ENGL 290 - Seminar in Literature Interpretation ,2019,"002-SEM
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","BIOSCI RM2111
+BIOSCI RM2111","Jones,Mark Conrad
+Jones,Mark Conrad",25
+ ENGL 292B - Introduction to Literary Criticism and Theory ,2021,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","KINES & HLTH RM101
+KINES & HLTH RM101","Berg,Maggie Anne
+Berg,Maggie Anne",58
+ ENGL 389B - Context North America ,2029,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","NICOL RM321
+NICOL RM321","Fachinger,Petra
+Fachinger,Petra",46
+ ENGL 466 - Topics in Modern/Contemporary Canadian Literature I ,2039,"002-SEM
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM
+Th 1:00PM - 2:30PM
+Mo 11:30AM - 1:00PM","GOODWIN RM254
+GOODWIN RM254
+HUMPHREY RM223
+HUMPHREY RM223","Ware,Tracy
+Ware,Tracy
+Ware,Tracy
+Ware,Tracy",19
+ ENPH 336 - Solid State Devices ,4702,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","STIRLING RM B
+STIRLING RM B
+STIRLING RM B","Stotz,James
+Stotz,James
+Stotz,James",73
+ ENPH 354 - Engineering Physics Design Project ,4727,"003-LAB
+Regular","Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM","STIRLING RM404
+STIRLING RM405","Gao,Jun,
+Morelli,Jordan E
+Gao,Jun,
+Morelli,Jordan E",18
+ ENSC 321 - Environmental Justice in Global Context ,2059,"004-SEM
+Regular",Mo 11:30AM - 12:30PM,BIOSCI RM2109,Staff,12
+ FILM 226 - Critical Inquiry ,2136,"002-LAB
+Regular","Mo 11:30AM - 1:30PM
+Mo 11:30AM - 1:30PM
+Mo 11:30AM - 1:30PM","IBCPA RM222
+IBCPA RM329
+IBCPA RM 307","Staff
+Staff
+Staff",74
+ FILM 335 - Culture and Technology ,2196,"001-LEC
+Regular",Mo 11:30AM - 2:30PM,IBCPA RM342,"MacKenzie,Scott",35
+ FILM 351 - Documentary Production ,2347,"001-LEC
+Regular","Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM","IBCPA RM312
+IBCPA RM118","Jansen,Alex
+Jansen,Alex",16
+ FREN 150B - Français intermédiaire ,2531,"022-TUT
+Regular",Mo 11:30AM - 12:30PM,KINGSTON RM210,Staff,11
+ FREN 150B - Français intermédiaire ,2532,"023-TUT
+Regular",Mo 11:30AM - 12:30PM,TBA,Staff,7
+ FREN 219 - Communication et Culture IV ,2495,"001-SEM
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM
+We 10:00AM - 11:30AM","KINGSTON RM304
+KINGSTON RM304
+KINGSTON RM205","Hoegy,Florine Marie-Laure
+Hoegy,Florine Marie-Laure
+Hoegy,Florine Marie-Laure",24
+ FREN 320 - Communication et culture V ,2497,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM
+We 10:00AM - 11:30AM","KINGSTON RM208
+KINGSTON RM208
+KINGSTON RM308","Fiore,Francesca
+Fiore,Francesca
+Fiore,Francesca",29
+ GEOE 462 - Advanced Petrogenesis and Metallogenesis ,4122,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","MILLER RM105
+MILLER RM105
+MILLER RM105","Olivo,Gema Ribeiro
+Olivo,Gema Ribeiro
+Olivo,Gema Ribeiro",10
+ GEOL 462 - Advanced Petrogenesis and Metallogenesis ,4077,"001-LSM
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","MILLER RM105
+MILLER RM105
+MILLER RM105","Olivo,Gema Ribeiro
+Olivo,Gema Ribeiro
+Olivo,Gema Ribeiro",10
+ GNDS 335 - Science Fiction and Fantasy ,2641,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","MCLAUGHLIN RM306
+MCLAUGHLIN RM306","Tolmie,Jane
+Tolmie,Jane",37
+ GPHY 209 - Principles of Hydroclimatology ,2854,"004-PRA
+Regular",Mo 11:30AM - 1:00PM,MACINTOSH-CORRY RM E104,"Lamoureux,Scott",20
+ GPHY 338 - Urban Political Geography ,5545,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","BOTTER RM B143
+BOTTER RM B143","Viswanathan,Leela
+Viswanathan,Leela",76
+ GPHY 342 - Remote Sensing II: Digital Image Processing ,2919,"003-PRA
+Regular",Mo 11:30AM - 1:30PM,MACINTOSH-CORRY RM E223,"van Ewijk,Karin",7
+ GREK 112B - Introductory Greek ,1804,"002-TUT
+Regular",Mo 11:30AM - 12:30PM,THEOLOGICAL RM203,Staff,12
+ HEBR 301 - Topics in Hebrew ,5093,"001-IND
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","DUNNING RM10
+DUNNING RM10","Haklai,Na'ama
+Haklai,Na'ama",9
+ HIST 215 - Sport and the Spectacle of Violence from Antiquity to the Renaissance ,2905,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","DUPUIS AUD
+DUPUIS AUD","D'Elia,Anthony Francis
+D'Elia,Anthony Francis",196
+ HIST 274 - Cultural History of Modern France ,2770,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","KINGSTON RM201
+KINGSTON RM201","Mah,Harold Everett
+Mah,Harold Everett",86
+ HIST 893 - 19th Century Colonial North America ,5937,"001-SEM
+Regular",Mo 11:30AM - 2:30PM,JOHN WATSON RM207,"Errington,Elizabeth Jane",4
+ HLTH 445 - Critical Health Promotion ,5073,"001-SEM
+Regular","Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM","KINES & HLTH RM106
+KINES & HLTH RM103
+KINES & HLTH RM102","Masuda,Jeffrey R
+Staff
+Masuda,Jeffrey R",23
+ KNPE 227 - Exercise Physiology ,4175,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","WALTER LIGHT RM205
+WALTER LIGHT RM205","Pyke,Kyra Ellen
+Pyke,Kyra Ellen",176
+" KNPE 336 - Community Field Placement in Exercise, Disability and Aging ",5088,"001-LAB
+Regular",Mo 11:30AM - 12:30PM,KINES & HLTH RM107,"McCalpin,Michelle Erma",16
+ LAW 135B - Introduction to Legal Skills ,1556,"001-LEC
+Law",Mo 11:30AM - 1:00PM,HUMPHREY AUD,"Maur,Mary Jo",207
+ LAW 441 - Commercial Law ,1545,"001-LEC
+Law","Mo 11:30AM - 1:00PM
+We 1:30PM - 3:00PM","MACDONALD RM201
+MACDONALD RM202","Karton,Joshua
+Karton,Joshua",52
+ LAW 462 - Wills And Estate Planning ,1459,"001-LEC
+Law","Mo 11:30AM - 1:00PM
+We 1:30PM - 3:00PM","DUNNING RM12
+DUNNING RM12","Freedman,David
+Freedman,David",68
+ LAW 852 - Commercial Law ,6276,"001-LEC
+Law","Mo 11:30AM - 1:00PM
+We 1:30PM - 3:00PM","MACDONALD RM201
+MACDONALD RM202","Karton,Joshua
+Karton,Joshua",52
+ LAW 895 - Wills and Estate Planning ,6381,"001-LEC
+Law","Mo 11:30AM - 1:00PM
+We 1:30PM - 3:00PM","DUNNING RM12
+DUNNING RM12","Freedman,David
+Freedman,David",68
+ LING 320 - Phonology ,4273,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","NICOL RM232
+NICOL RM232","Chociej,Joanna
+Chociej,Joanna",21
+ LISC 426 - Current Concepts in Sensorimotor Neuroscience ,1063,"001-SEM
+Regular",Mo 11:30AM - 1:30PM,BOTTER RM B129,"Pare,Martin",30
+ MATH 421 - Fourier Series ,5138,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","JEFFERY RM116
+JEFFERY RM116
+JEFFERY RM116","Mingo,James A
+Mingo,James A
+Mingo,James A",13
+ MATH 872 - Control Of Stochastic Systems ,5663,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","STIRLING RM412A
+STIRLING RM412A
+STIRLING RM412A","Yuksel,Serdar
+Yuksel,Serdar
+Yuksel,Serdar",24
+ MECH 341 - Fluid Mechanics II ,4448,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","STIRLING AUD
+STIRLING AUD
+STIRLING AUD","Birk,Albrecht Michael
+Birk,Albrecht Michael
+Birk,Albrecht Michael",190
+ MECH 470 - Deformation Processing ,4510,"003-LAB
+Regular",Mo 11:30AM - 12:30PM,NICOL RM201,"Pilkey,Keith",14
+ MICR 221 - Basic Microbiology ,1074,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","BIOSCI AUD
+BIOSCI AUD
+BIOSCI AUD","Carstens,Eric B,
+Jarrell,Kenneth F J,
+Majury,Anna Louise S,
+Martin,Nancy L
+Carstens,Eric B,
+Jarrell,Kenneth F J,
+Majury,Anna Louise S,
+Martin,Nancy L
+Carstens,Eric B,
+Jarrell,Kenneth F J,
+Majury,Anna Louise S,
+Martin,Nancy L",416
+ MINE 244 - Underground Mining ,5239,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","GOODWIN RM247
+GOODWIN RM247
+GOODWIN RM247","De Souza,Euler Magno
+De Souza,Euler Magno
+De Souza,Euler Magno",25
+ MINE 326 - Operations Research ,5247,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","DUNNING RM27
+DUNNING RM27
+DUNNING RM27","Katsabanis,Panagiotis D
+Katsabanis,Panagiotis D
+Katsabanis,Panagiotis D",34
+ MINE 445 - Open Pit Mine Design ,5258,"002-LAB
+Regular",Mo 11:30AM - 2:30PM,GOODWIN RM330,"Ortiz Cabrera,Julian Maximiliano",18
+ MINE 458 - Process Investigations ,5260,"001-LEC
+Regular",Mo 11:30AM - 2:30PM,MILLER RM210,"Kelebek,Sadan",4
+ MTHE 472 - Control Of Stochastic Systems ,4394,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","STIRLING RM412A
+STIRLING RM412A
+STIRLING RM412A","Yuksel,Serdar
+Yuksel,Serdar
+Yuksel,Serdar",24
+ MUSC 203 - Romantic and Twentieth-Century Music ,4527,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","HARRISON-LECAINE RM124
+HARRISON-LECAINE RM124
+HARRISON-LECAINE RM124","Tormann,Cynthia
+Tormann,Cynthia
+Tormann,Cynthia",33
+ MUSC 333 - Dalcroze Kodaly and Orff ,5117,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","HARRISON-LECAINE RM120
+HARRISON-LECAINE RM120","Walker,Margaret
+Walker,Margaret",11
+ NSCI 826 - Cognitive Neuroscience ,5653,"001-SEM
+Regular",Mo 11:30AM - 1:30PM,BOTTER RM B129,"Pare,Martin",30
+ PHIL 329 - Early Modern Philosophy ,5229,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","DUNNING RM11
+DUNNING RM11","Miller,Jon A
+Miller,Jon A",57
+ PHYS 117B - Introductory Physics ,4693,"013-LAB
+Regular","Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM","STIRLING RM409
+STIRLING RM410","Staff
+Staff",49
+ POLS 383 - Law and the Governmental Process ,4812,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","CHERNOFF RM211
+CHERNOFF RM211","Farrelly,Colin
+Farrelly,Colin",60
+ POLS 467 - international Political Economy ,4815,"001-SEM
+Regular",Mo 11:30AM - 2:30PM,JOHN WATSON RM122,"Schram,John",20
+ POLS 830 - Comparative Politics I ,5764,"001-SEM
+Regular",Mo 11:30AM - 2:30PM,MACINTOSH-CORRY RM B313,"Csergo,Zsuzsa",9
+ POLS 930 - Field Course In Comp. Politics ,5765,"001-SEM
+Regular",Mo 11:30AM - 2:30PM,MACINTOSH-CORRY RM B313,"Csergo,Zsuzsa",9
+ PROF 170B - School and Classroom Leadership: In Pursuit of School Effectiveness ,2562,"001-SEM
+Education","Tu 11:30AM - 3:30PM
+Mo 11:30AM - 3:30PM
+Mo 10:50AM - 12:50PM
+Mo 11:30AM - 3:30PM
+Mo 11:30AM - 5:50PM","DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101","Wilikinson,Alan
+Wilikinson,Alan
+Wilikinson,Alan
+Wilikinson,Alan
+Wilikinson,Alan",473
+ PROF 171B - School and Classroom Leadership ,2563,"001-SEM
+Education","Tu 11:30AM - 3:30PM
+Mo 11:30AM - 3:30PM
+Mo 10:50AM - 12:50PM
+Mo 11:30AM - 3:30PM
+Mo 11:30AM - 5:50PM","DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101","Wilikinson,Alan
+Wilikinson,Alan
+Wilikinson,Alan
+Wilikinson,Alan
+Wilikinson,Alan",473
+ PSYC 100B - Principles of Psychology ,3385,"008-LAB
+Regular",Mo 11:30AM - 12:30PM,HUMPHREY RM131,Staff,30
+ PSYC 100B - Principles of Psychology ,5283,"069-LAB
+Regular",Mo 11:30AM - 12:30PM,HUMPHREY RM132,Staff,22
+ PSYC 352 - Cognitive and Language Development ,5288,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","BIOSCI RM1103
+BIOSCI RM1103","Fitneva,Stanka Atanassova
+Fitneva,Stanka Atanassova",77
+ PSYC 371 - Research Problems in Behavioural Neuroscience ,3452,"003-LAB
+Regular",Mo 11:30AM - 2:30PM,TBA,"Dringenberg,Hans C",13
+ PT 884 - Clinical Placement IV ,5029,"001-LEC
+Regular",Mo 11:30AM - 1:00PM,BOTTER RM B147,"Law,Melanie Lilith Gwynne",70
+ RELS 334 - Jewish Views of the Other ,1034,"001-LSM
+Regular",Mo 11:30AM - 2:30PM,MACINTOSH-CORRY RM D214,"Dolansky,Shawna",34
+ RELS 834 - Jewish Views Of The Other ,5651,"001-LEC
+Regular",Mo 11:30AM - 2:30PM,MACINTOSH-CORRY RM D214,"Dolansky,Shawna",34
+ SOCY 211 - Introduction to Statistics ,5627,"002-LAB
+Regular",Mo 11:30AM - 12:30PM,JEFFERY RM157,"Sytsma,Victoria A",25
+" SOCY 363 - Science, Technology and Society ",1230,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","MACINTOSH-CORRY RM B201
+MACINTOSH-CORRY RM B201","Mollers,Norma T
+Mollers,Norma T",38
+ SOCY 430 - Sociology of Consumer Culture ,1200,"001-SEM
+Regular",Mo 11:30AM - 2:30PM,MACINTOSH-CORRY RM D326,"Hand,Martin J",23
+ SOCY 920 - Adv. Issues In Socio-Legal St. ,1234,"001-LEC
+Regular",Mo 11:30AM - 2:30PM,TBA,"Baron,Stephen W",6
+ SPAN 111 - Beginning Spanish I ,5119,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","MACINTOSH-CORRY RM E230
+MACINTOSH-CORRY RM E230","Kani,Consuelo
+Kani,Consuelo",39
+ SPAN 205 - Español avanzado ,4301,"001-LEC
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","KINGSTON RM104
+KINGSTON RM104","Luengo Martinelli,Judit
+Luengo Martinelli,Judit",22
+ SPAN 354 - Cultura femenina latinoamericana ,5126,"001-SEM
+Regular","Mo 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM","KINGSTON RM108
+KINGSTON RM108","Mennell,Jan D
+Mennell,Jan D",10
+ STAT 269 - Statistics and Probability II ,4430,"001-LEC
+Regular","Mo 11:30AM - 12:30PM
+Tu 1:30PM - 2:30PM
+Th 12:30PM - 1:30PM","JEFFERY RM126
+JEFFERY RM126
+JEFFERY RM126","Jiang,Wenyu
+Jiang,Wenyu
+Jiang,Wenyu",108
+ SURP 830 - Affordable Housing ,6033,"001-LEC
+Regular",Mo 11:30AM - 2:30PM,TBA,"Streich,Patricia",18
+ EDUC 895 - Topics In Qualitative Research ,3219,"001-LEC
+Regular","Mo 12:00PM - 3:00PM
+Mo 12:00PM - 3:00PM","TBA
+TBA","Upitis,Rena Brigit
+Upitis,Rena Brigit",17
+ ANAT 409 - Selected Topics in Histology ,1056,"002-LAB
+Regular",Mo 12:30PM - 2:30PM,MEDS RM302 - Anatomy,"MacLeod,John R,
+Tayade,Chandrakant",61
+ APSC 100B - Engineering Practice ,3861,"101-LEC
+Regular",Mo 12:30PM - 1:30PM,STIRLING AUD,"Blight,Stephen",223
+ APSC 103 - First Year Engineering Design Project ,3948,"101-LEC
+Regular",Mo 12:30PM - 1:30PM,STIRLING AUD,Staff,223
+ APSC 112 - Electricity And Magnetism ,3844,"206-TUT
+Regular","Mo 12:30PM - 1:30PM
+Mo 12:30PM - 1:30PM","KINGSTON RM205
+WALTER LIGHT RM212","Staff
+Staff",58
+ ARTC 804 - Scienc. Meth. For Conservator ,6169,"002-LAB
+Regular",MoTuWeTh 12:30PM - 4:30PM,TBA,"Murray,Alison",12
+ ARTC 853 - Artifact Consv. Practice III ,6170,"001-SEM
+Regular",MoTuWeTh 12:30PM - 4:30PM,TBA,"Anastassiades,Amandina",7
+ ARTC 862 - Paintings Consv. Practice II ,6171,"001-LAB
+Regular",MoTuWeTh 12:30PM - 4:30PM,TBA,"O'Malley,Michael",4
+ ARTC 864 - Paintings Consv. Practice IV ,6172,"001-LAB
+Regular",MoTuWeTh 12:30PM - 4:30PM,TBA,"O'Malley,Michael",3
+ ARTC 872 - Paper Obj. Consv. Practice II ,6173,"001-SEM
+Regular",MoTuWeTh 12:30PM - 4:30PM,TBA,"Hill,Rosaleen",7
+ BIOL 110 - Human Genetics and Evolution ,1760,"001-LTU
+Regular","Mo 8:30AM - 9:30AM
+Tu 10:30AM - 11:30AM
+Mo 12:30PM - 1:30PM","BIOSCI RM1102
+BIOSCI RM1102
+BIOSCI RM1102","Yates,Susan
+Yates,Susan
+Yates,Susan",39
+ BIOL 316 - Fisheries Biology ,1766,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","DUNNING RM14
+DUNNING RM14
+DUNNING RM14","Tufts,Bruce
+Tufts,Bruce
+Tufts,Bruce",145
+ CHEE 371 - Mitigation of Industrial Pollution ,2320,"002-TUT
+Regular",Mo 12:30PM - 1:30PM,KINES & HLTH RM100,"Meunier,Louise",134
+ CHEM 222 - Methods of Structure Determination ,2679,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","CHERNOFF AUD
+CHERNOFF AUD
+CHERNOFF AUD","Macartney,Donal H
+Macartney,Donal H
+Macartney,Donal H",173
+ CHEM 282 - General Organic Chemistry II ,2688,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","ETHERINGTON AUD
+ETHERINGTON AUD
+ETHERINGTON AUD","Carran,John
+Carran,John
+Carran,John",231
+ CHEM 322 - The Chemical Bond: Computation and Spectroscopy ,2695,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","CHERNOFF RM213
+CHERNOFF RM213
+CHERNOFF RM213","Carrington,Tucker
+Carrington,Tucker
+Carrington,Tucker",32
+ CISC 271 - Scientific Computing ,3500,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","DUPUIS RM215
+DUPUIS RM215
+DUPUIS RM215","Ellis,Randy Evan
+Ellis,Randy Evan
+Ellis,Randy Evan",87
+ CISC 490 - Topics in Computing Science I ,3512,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","JEFFERY RM225
+JEFFERY RM225
+JEFFERY RM225","Dawes,Robin W
+Dawes,Robin W
+Dawes,Robin W",20
+ CISC 870 - Fuzzy Logics ,4255,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","JEFFERY RM225
+JEFFERY RM225
+JEFFERY RM225","Dawes,Robin W
+Dawes,Robin W
+Dawes,Robin W",20
+ CIVL 231 - Solid Mechanics II ,1826,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","STIRLING RM C
+STIRLING RM C
+STIRLING RM C","Hoult,Neil
+Hoult,Neil
+Hoult,Neil",105
+ DEVS 240 - Culture and Development ,1896,"004-TUT
+Regular",Mo 12:30PM - 1:30PM,THEOLOGICAL RM203,Staff,26
+ DEVS 300 - Cross-Cultural Research Method ,2327,"005-TUT
+Regular",Mo 12:30PM - 1:30PM,JEFFERY RM110,Staff,22
+ ENCH 222 - Meth Struct Determination ,2720,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","CHERNOFF AUD
+CHERNOFF AUD
+CHERNOFF AUD","Macartney,Donal H
+Macartney,Donal H
+Macartney,Donal H",173
+ ENCH 322 - Chem Bond: Comp & Spectro. ,2730,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","CHERNOFF RM213
+CHERNOFF RM213
+CHERNOFF RM213","Carrington,Tucker
+Carrington,Tucker
+Carrington,Tucker",32
+ ENPH 483 - Nanoscience & Nanotechnology ,4708,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","STIRLING RM412A
+STIRLING RM412A
+STIRLING RM412A","Hughes,Stephen
+Hughes,Stephen
+Hughes,Stephen",13
+ GEOE 235 - Gen & Char Solid Earth Mtls ,4124,"004-LAB
+Regular",Mo 12:30PM - 2:30PM,MILLER RM319,"Layton-Matthews,Daniel",0
+ GEOL 235 - Igneous and Metamorphic Petrology ,4081,"004-LAB
+Regular",Mo 12:30PM - 2:30PM,MILLER RM319,"Layton-Matthews,Daniel",0
+ HIST 240B - Issues in History ,2907,"002-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","ONTARIO RM206
+ONTARIO RM206
+ONTARIO RM206","Morrow,William S
+Morrow,William S
+Morrow,William S",8
+ JAPN 100B - Introductory Japanese I ,4266,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","ONTARIO RM209
+ONTARIO RM209
+ONTARIO RM209","Takeuchi-Aoki,Keiko
+Takeuchi-Aoki,Keiko
+Takeuchi-Aoki,Keiko",32
+ LISC 300 - The Process of Discovery in the Biomedical Sciences ,6383,"001-LEC
+Regular","MoWe 12:30PM - 1:30PM
+Mo 12:30PM - 1:30PM
+We 12:30PM - 2:30PM
+MoWe 1:30PM - 2:30PM","BOTTER RM B139
+BOTTER RM B147
+BOTTER RM B139
+BOTTER RM B139","Staff
+Staff
+Staff
+Staff",52
+ LISC 300 - The Process of Discovery in the Biomedical Sciences ,6384,"002-SEM
+Regular","MoWe 12:30PM - 2:30PM
+MoWe 12:30PM - 2:30PM
+MoWe 12:30PM - 2:30PM
+MoWe 1:30PM - 2:30PM
+MoWe 1:30PM - 2:30PM
+MoWe 1:30PM - 2:30PM
+Mo 1:30PM - 2:30PM
+Mo 1:30PM - 2:30PM
+Mo 1:30PM - 2:30PM
+We 12:30PM - 2:30PM
+We 12:30PM - 2:30PM
+We 12:30PM - 2:30PM
+MoWe 12:30PM - 2:30PM
+MoWe 12:30PM - 2:30PM
+MoWe 12:30PM - 2:30PM
+Mo 12:30PM - 2:30PM
+Mo 12:30PM - 2:30PM
+Mo 12:30PM - 2:30PM
+Mo 12:30PM - 1:30PM
+Mo 12:30PM - 1:30PM
+Mo 12:30PM - 1:30PM","BOTTER RM568
+BOTTER RM449
+STIRLING RM412B
+BOTTER RM B129
+BOTTER RM568
+BOTTER RM449
+BOTTER RM B129
+BOTTER RM568
+BOTTER RM449
+BOTTER RM B129
+BOTTER RM568
+BOTTER RM449
+BOTTER RM568
+BOTTER RM449
+STIRLING RM412B
+BOTTER RM568
+BOTTER RM449
+STIRLING RM412B
+STIRLING RM412B
+BOTTER RM449
+BOTTER RM568","Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff",52
+ MATH 120B - Diff. & Integral Calculus ,4317,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","STIRLING RM A
+STIRLING RM A
+STIRLING RM A","Cellarosi,Francesco
+Cellarosi,Francesco
+Cellarosi,Francesco",137
+ MATH 121B - Differential and Integral Calculus ,4321,"002-LEC
+Regular",Mo 12:30PM - 1:30PM,BIOSCI AUD,"Ableson,Alan",390
+ MATH 124 - Differential and Integral Calculus II ,4362,"002-LEC
+Regular",Mo 12:30PM - 1:30PM,BIOSCI AUD,"Ableson,Alan",390
+ MATH 212 - Linear Algebra ll ,4392,"002-TUT
+Regular",Mo 12:30PM - 1:30PM,JEFFERY RM101,Staff,59
+ MATH 225 - Ordinary Differential Equations ,4331,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","JEFFERY RM128
+JEFFERY RM128
+JEFFERY RM128","Biswas,Arunabha
+Biswas,Arunabha
+Biswas,Arunabha",88
+" MATH 439 - Lagrangian Mechanics, Dynamics, and Control ",4346,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","JEFFERY RM102
+JEFFERY RM102
+JEFFERY RM102","Lewis,Andrew D
+Lewis,Andrew D
+Lewis,Andrew D",19
+ MATH 836 - Lagrangian Mechanics. Dynamics & Control ,5659,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","JEFFERY RM102
+JEFFERY RM102
+JEFFERY RM102","Lewis,Andrew D
+Lewis,Andrew D
+Lewis,Andrew D",19
+ MECH 397 - Mech And Material Eng Lab II ,4461,"002-LAB
+Regular",Mo 12:30PM - 2:30PM,NICOL RM201,Staff,25
+ MECH 399 - Mechanical Eng Lab II ,4464,"002-LEC
+Regular",Mo 12:30PM - 2:30PM,CHERNOFF RM117,"Jeswiet,Jacob",99
+ MECH 399 - Mechanical Eng Lab II ,4468,"006-LAB
+Regular",Mo 12:30PM - 2:30PM,JACKSN RM 301,Staff,38
+ MECH 456 - Introduction To Robotics ,5678,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 12:30PM - 1:30PM
+Th 10:30AM - 11:30AM","MCLAUGHLIN RM315
+MCLAUGHLIN RM315
+MCLAUGHLIN RM315","Notash,Leila
+Notash,Leila
+Notash,Leila",37
+ MINE 267 - Applied Chemistry for Mining ,5264,"002-TUT
+Regular",Mo 12:30PM - 1:30PM,GOODWIN RM247,"Pickles,Christopher A",26
+ MINE 325 - Applied Rock Mechanics ,5252,"005-LAB
+Regular",Mo 12:30PM - 2:30PM,GOODWIN LAB,"Archibald,James F",4
+ MTHE 212 - Linear Algebra ,5141,"002-TUT
+Regular",Mo 12:30PM - 1:30PM,JEFFERY RM101,Staff,59
+ MTHE 225 - Ordinary Differential Equations ,4423,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","JEFFERY RM128
+JEFFERY RM128
+JEFFERY RM128","Biswas,Arunabha
+Biswas,Arunabha
+Biswas,Arunabha",88
+ MTHE 332 - Introduction To Control ,4422,"004-LAB
+Regular",Mo 12:30PM - 2:30PM,BEAMISH-MUNRO RM326,"Kyle,Scott McAllister",19
+ MTHE 393 - Engineering Design and Practice for Mathematics and Engineering ,4428,"004-LAB
+Regular",Mo 12:30PM - 2:30PM,BEAMISH-MUNRO RM326,"Kyle,Scott McAllister",21
+" MTHE 439 - Lagrangian Mechcanics, Dynamics Control ",4398,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","JEFFERY RM102
+JEFFERY RM102
+JEFFERY RM102","Lewis,Andrew D
+Lewis,Andrew D
+Lewis,Andrew D",19
+ NURS 800 - Intermediate Statistics and Analysis ,5717,"001-SEM
+Regular",Mo 12:30PM - 3:30PM,TBA,"Woo,Kevin Y",26
+ NURS 805 - Nurs Hlth Serv Public Policy ,6389,"001-LEC
+Regular",Mo 12:30PM - 3:30PM,TBA,"Almost,Joan",9
+ NURS 905 - Nurs Hlth Serv Public Policy ,5724,"001-LEC
+Regular",Mo 12:30PM - 3:30PM,TBA,"Almost,Joan",9
+ NURS 906B - Thesis Seminar Course B ,5716,"001-LEC
+Regular",Mo 12:30PM - 3:30PM,TBA,"Edge,Dana S",5
+ OT 883 - Cognitive-Neurological Dimensions of Occupation I ,5435,"001-LEC
+Regular","Mo 12:30PM - 2:30PM
+We 12:30PM - 2:30PM
+We 2:30PM - 4:30PM","BOTTER RM B147
+BOTTER RM B147
+BOTTER RM B147","Ghahari,Setareh
+Ghahari,Setareh
+Ghahari,Setareh",76
+ PHYS 260 - The Physics of Light and Colour ,5273,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","STIRLING RM414
+STIRLING RM414
+STIRLING RM414","Courteau,Stephane
+Courteau,Stephane
+Courteau,Stephane",15
+ PHYS 483 - Nanoscience and Nanotechnology ,4670,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","STIRLING RM412A
+STIRLING RM412A
+STIRLING RM412A","Hughes,Stephen
+Hughes,Stephen
+Hughes,Stephen",13
+ POLS 250B - Political Theory ,4767,"011-TUT
+Regular",Mo 12:30PM - 1:30PM,BIOSCI RM2109,Staff,25
+ POLS 264 - World Politics in Historical Perspective ,5182,"008-TUT
+Regular",Mo 12:30PM - 1:30PM,MACINTOSH-CORRY RM C508,Staff,24
+ SOCY 211 - Introduction to Statistics ,5634,"009-LAB
+Regular",Mo 12:30PM - 1:30PM,JEFFERY RM157,"Sytsma,Victoria A",25
+ SOFT 437 - Performance Analysis ,5017,"001-LEC
+Regular","Mo 12:30PM - 1:30PM
+We 11:30AM - 12:30PM
+Th 1:30PM - 2:30PM","JEFFERY RM118
+JEFFERY RM118
+JEFFERY RM118","Zou,Ying
+Zou,Ying
+Zou,Ying",68
+ APSC 142 - Intro Computer Program Engrs ,3817,"201-STD
+Regular",Mo 1:00PM - 2:30PM,BEAMISH-MUNRO RM213,Staff,68
+ APSC 142 - Intro Computer Program Engrs ,3902,"211-STD
+Regular",Mo 1:00PM - 2:30PM,BEAMISH-MUNRO RM213,Staff,68
+ COMM 132 - Marketing II ,4292,"005-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","GOODES RM151
+GOODES RM151","LaBarge,Monica
+LaBarge,Monica",80
+ COMM 162 - Managerial Statistics ,3632,"003-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","GOODES RM118
+GOODES RM118","Levina,Tatsiana
+Levina,Tatsiana",76
+ COMM 162 - Managerial Statistics ,3634,"005-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","GOODES RM141
+GOODES RM141","Sephton,Peter S
+Sephton,Peter S",84
+ COMM 173 - Introduction to International Business ,3715,"003-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","GOODES RM153
+GOODES RM153","Reid,Douglas A,
+Rogers,Keith W
+Reid,Douglas A,
+Rogers,Keith W",83
+ COMM 313 - Financial Accounting II ,3705,"002-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","GOODES RM 103
+GOODES RM 103","Boland,George
+Boland,George",48
+ COMM 324 - Investments & Portfolio Mgmt. ,3669,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","GOODES RM304
+GOODES RM304","Robertson,Blair
+Robertson,Blair",54
+ COMM 328 - International Finance ,3649,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","GOODES RM 305
+GOODES RM 305","Topaloglu,Selim
+Topaloglu,Selim",46
+ COMM 341 - Intro To Prod & Oper Mgmt ,3653,"002-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","GOODES RM 101
+GOODES RM 101","Staff
+Staff",55
+ COMM 401 - Business and Corporate Strategy ,3690,"004-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","GOODES RM102
+GOODES RM102","Packalen,Kelley
+Packalen,Kelley",59
+ DRAM 100B - Introduction to the Theatre ,2351,"001-LEC
+Regular",Mo 1:00PM - 2:30PM,THEOLOGICAL AUD,"Renyk,Grahame Phillip",214
+ ECON 255 - Introduction to Mathematical Economics ,1954,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","KINGSTON RM101
+KINGSTON RM101","Arango Castillo,Lenin
+Arango Castillo,Lenin",138
+ ECON 310 - Microeconomic Theory II ,1955,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","JEFFERY RM126
+JEFFERY RM126","Sun,Hongfei
+Sun,Hongfei",98
+ ECON 371 - Economics of Regulation ,1982,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","MACDONALD RM2
+MACDONALD RM2","Ware,Roger
+Ware,Roger",36
+ ECON 422 - Monetary Economics ,1968,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","DUNNING RM27
+DUNNING RM27","Head,Allen C
+Head,Allen C",50
+ ECON 484 - Seminar In Microeconomics V ,1969,"001-SEM
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","TBA
+TBA","Stewart,Arthur E
+Stewart,Arthur E",13
+ ECON 825 - International Trade ,5781,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","ELLIS RM218
+ELLIS RM218","Lapham,Beverly Jean
+Lapham,Beverly Jean",12
+ ENGL 200B - History of Literature in English ,2011,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","JEFFERY RM127
+STIRLING RM B","Straker,Scott-Morgan
+Straker,Scott-Morgan",103
+ ENGL 486 - Group III: Special Topics I ,2043,"001-SEM
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","MACINTOSH-CORRY RM D216
+MACINTOSH-CORRY RM D216","Evans,Heather A
+Evans,Heather A",25
+ FREN 150B - Français intermédiaire ,2505,"002-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","ELLIS RM226
+ELLIS RM226","Dufresne,Monique
+Dufresne,Monique",38
+ FREN 342 - Histoire culturelle et littéraire de la France moderne et contemporaine ,2522,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","KINGSTON RM200
+KINGSTON RM200","Inkel,Stephane
+Inkel,Stephane",50
+ GPHY 240 - Introduction to Qualitative Methods in Geography ,2862,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","ELLIS RM333
+ELLIS RM333","Castleden,Heather
+Castleden,Heather",52
+ GRMN 420 - Fascism in Europe from Napoleon to Hitler ,5092,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","DUPUIS RM217
+DUPUIS RM217","Pugh,David V
+Pugh,David V",45
+ LATN 322 - Latin Verse ,1818,"001-SEM
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","JOHN WATSON RM522
+JOHN WATSON RM522","D'Elia,Anthony Francis
+D'Elia,Anthony Francis",7
+ LATN 422 - Advanced Latin Verse ,1819,"001-SEM
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","JOHN WATSON RM522
+JOHN WATSON RM522","D'Elia,Anthony Francis
+D'Elia,Anthony Francis",7
+ LATN 813 - Lyric Elegy Didactic Satire ,5652,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","JOHN WATSON RM522
+JOHN WATSON RM522","D'Elia,Anthony Francis
+D'Elia,Anthony Francis",7
+ LLCU 200 - Semiotics: Interpreting the World ,5104,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","KINGSTON RM201
+KINGSTON RM201","Santeramo,Donato
+Santeramo,Donato",170
+ LLCU 295 - Special Topics ,5766,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","KINGSTON RM204
+KINGSTON RM204","Hardwick,Jennifer Lucinda
+Hardwick,Jennifer Lucinda",19
+ LLCU 320 - Fascism in Europe from Napoleon to Hitler ,5114,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","DUPUIS RM217
+DUPUIS RM217","Pugh,David V
+Pugh,David V",45
+ MECH 350 - Automatic Control ,4457,"006-LAB
+Regular",Mo 1:00PM - 2:30PM,JACKSON RM116,"Li,Qingguo",54
+ MECH 816 - Energetics & Mechanics Locomotion ,5968,"001-SEM
+Regular","Mo 1:00PM - 2:30PM
+We 11:00AM - 12:30PM","MCLAUGHLIN RM302
+MCLAUGHLIN RM302","Li,Qingguo
+Li,Qingguo",0
+ MGMT 861 - Probabilistic Operations Research Models ,6004,"001-LEC
+Regular",Mo 1:00PM - 4:00PM,TBA,"Nediak,Mikhail S",3
+ MGMT 871 - Foundations of MIS II ,6005,"001-SEM
+Regular",Mo 1:00PM - 4:00PM,TBA,"Greenaway,Kathy",1
+ MGMT 885 - Managerial Econ & Pol. Seminar ,6006,"001-LEC
+Regular",Mo 1:00PM - 4:00PM,TBA,"Thiele,Veikko",3
+ MGMT 953 - Seminar in Meso-Organizational Behaviour ,6019,"001-SEM
+Regular",Mo 1:00PM - 4:00PM,TBA,"Raver,Jana L",3
+ MGMT 961 - Probabilistic Operations Research Models ,6020,"001-LEC
+Regular",Mo 1:00PM - 4:00PM,TBA,"Nediak,Mikhail S",1
+ MGMT 971 - Foundations of MIS II ,6022,"001-SEM
+Regular",Mo 1:00PM - 4:00PM,TBA,"Greenaway,Kathy",1
+ MPA 814 - Federalism ,6130,"001-LEC
+Regular",Mo 1:00PM - 4:00PM,TBA,"Brock,Kathy L",4
+ MUSC 185 - String Techniques & Methods I ,5595,"001-LAB
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","HARRISON-LECAINE RM120
+HARRISON-LECAINE RM120","Dalbec,Gisele
+Dalbec,Gisele",17
+ MUSC 270 - Beginning Conducting Techniques ,4539,"001-LAB
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","IBCPA RM 105
+IBCPA RM 105","Craig,Gordon R
+Craig,Gordon R",18
+ MUSC 388 - Canadian Music since 1930 ,5130,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","HARRISON-LECAINE RM124
+HARRISON-LECAINE RM124","Lind,Stephanie
+Lind,Stephanie",22
+ NURS 207 - Nsg Care Acute Hosp Cts (Prac) ,4602,"005-LAB
+Regular",Mo 1:00PM - 3:00PM,CATARAQUI  RM221 SIM LAB,Staff,19
+ OT 875 - Advanced Professional Practice ,5002,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+Tu 1:00PM - 2:30PM","ELLIS RM321
+ELLIS RM327","Lysaght,Rosemary M
+Lysaght,Rosemary M",73
+ PHIL 270 - Minds and Machines ,5227,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","ELLIS RM324
+ELLIS RM324","Salay,Nancy A
+Salay,Nancy A",70
+ PHIL 351 - Philosophy of Mind ,4646,"001-SEM
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","JOHN WATSON RM217
+JOHN WATSON RM217","Knight,Deborah
+Knight,Deborah",48
+ POLS 395 - Topics in International Political Economy ,5202,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","MACDONALD RM4
+MACDONALD RM4","Rainford,Charan
+Staff",50
+ PSYC 235B - Abnormal Psychology ,3369,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","DUNNING AUD
+DUNNING AUD","Bowie,Christopher R
+Bowie,Christopher R",295
+ PSYC 321 - Psycholinguistics ,5287,"001-LSM
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","THEOLOGICAL RM209
+THEOLOGICAL RM209","Munhall,Kevin G
+Munhall,Kevin G",28
+ PSYC 802 - Introduction to Multivariate Analysis ,4958,"001-LLB
+Regular","We 11:30AM - 1:00PM
+Th 1:00PM - 2:30PM
+Mo 1:00PM - 2:30PM","MACINTOSH-CORRY RM D211
+MACINTOSH-CORRY RM D211
+HUMPHREY RM219","Jacobson,Jill A
+Jacobson,Jill A
+Jacobson,Jill A",12
+ PT 855 - Cardiorespiratory Function I ,5018,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+Tu 11:30AM - 1:00PM
+Mo 1:00PM - 2:30PM
+Mo 1:00PM - 2:30PM","BOTTER RM B139
+RICHARDSON LAB RM104
+DUNNING RM11
+BOTTER RM B139","Hopkins-Rosseel,Diana
+Hopkins-Rosseel,Diana
+Hopkins-Rosseel,Diana
+Hopkins-Rosseel,Diana",71
+ SOCY 336 - The Sociology of Work and Technology ,1221,"001-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","MILLER RM201
+MILLER RM201","Silver,William Andrew
+Silver,William Andrew",100
+ SPAN 111 - Beginning Spanish I ,5123,"004-LEC
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","KINGSTON RM304
+KINGSTON RM304","Rotermundt-de la Parra,Joanne Louise
+Rotermundt-de la Parra,Joanne Louise",40
+ SPAN 381 - Introducción: Literatura de España II ,4305,"001-SEM
+Regular","Mo 1:00PM - 2:30PM
+We 11:30AM - 1:00PM","KINGSTON RM208
+KINGSTON RM208","Palomares Salas,Claudio
+Palomares Salas,Claudio",5
+ APSC 112 - Electricity And Magnetism ,3807,"101-LEC
+Regular","Mo 1:30PM - 2:30PM
+Tu 10:30AM - 11:30AM
+Th 9:30AM - 10:30AM","STIRLING AUD
+STIRLING AUD
+STIRLING AUD","Stotz,James
+Stotz,James
+Stotz,James",218
+ APSC 200 - Engineering Design & Practice II ,3786,"100-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM","WALTER LIGHT RM205
+WALTER LIGHT RM205","Sneep,Jan
+Sneep,Jan",150
+ BIOL 103 - Introductory Biology of Organisms ,1288,"002-LEC
+Regular","We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM
+Mo 1:30PM - 2:30PM","BIOSCI AUD
+BIOSCI AUD
+BIOSCI AUD","Chippindale,Adam,
+Walker,Virginia Katrina
+Chippindale,Adam,
+Walker,Virginia Katrina
+Chippindale,Adam,
+Walker,Virginia Katrina",415
+ BIOL 322 - Environmental Physiology of Animals ,1322,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","BOTTER RM B143
+BOTTER RM B143
+BOTTER RM B143","Wang,Yuxiang S
+Wang,Yuxiang S
+Wang,Yuxiang S",62
+ BIOL 445 - Neuroethology ,1779,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","BIOSCI RM1120
+BIOSCI RM1120
+BIOSCI RM1120","Robertson,Robert Meldrum
+Robertson,Robert Meldrum
+Robertson,Robert Meldrum",14
+ BMED 844B - Gastrointestinal Physiology ,5618,"002-SEM
+Regular",Mo 1:30PM - 2:30PM,NICOL RM232,"Blennerhassett,Michael G",6
+ BMED 849 - Principles of General Pharmacology II ,5601,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","WALTER LIGHT RM210
+WALTER LIGHT RM210
+WALTER LIGHT RM210","Philbrook,Nicola Anne,
+Pruss,Cynthia,
+Reynolds,James N
+Philbrook,Nicola Anne,
+Pruss,Cynthia,
+Reynolds,James N
+Philbrook,Nicola Anne,
+Pruss,Cynthia,
+Reynolds,James N",66
+ CHEE 315 - Laboratory Projects II ,2281,"001-LAB
+Regular","Mo 1:30PM - 2:30PM
+Mo 2:30PM - 5:30PM","DUPUIS LAB
+DUPUIS LAB","Poirier,David
+Poirier,David",18
+ CHEE 333 - Design of Unit Operations ,2297,"002-TUT
+Regular",Mo 1:30PM - 2:30PM,ELLIS RM319,"Docoslis,Aristides,
+Kontopoulou,Marianna",14
+ CHEE 434 - Process Control II ,2324,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","DUPUIS RM311
+DUPUIS RM311
+DUPUIS RM311","Guay,Martin
+Guay,Martin
+Guay,Martin",15
+ CHEE 821 - Process Control II ,5655,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","DUPUIS RM311
+DUPUIS RM311
+DUPUIS RM311","Guay,Martin
+Guay,Martin
+Guay,Martin",15
+ CHEM 282 - General Organic Chemistry II ,5474,"002-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","CHERNOFF AUD
+CHERNOFF AUD
+CHERNOFF AUD","Carran,John
+Carran,John
+Carran,John",215
+ CISC 324 - Operating Systems ,3493,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","JEFFERY RM128
+JEFFERY RM128
+JEFFERY RM128","Blostein,Dorothea
+Blostein,Dorothea
+Blostein,Dorothea",103
+ CISC 471 - Computational Biology ,3506,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","GOODWIN RM247
+GOODWIN RM247
+GOODWIN RM247","Rappaport,David H
+Rappaport,David H
+Rappaport,David H",17
+ CMPE 324 - Operating Systems ,3529,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","JEFFERY RM128
+JEFFERY RM128
+JEFFERY RM128","Blostein,Dorothea
+Blostein,Dorothea
+Blostein,Dorothea",103
+ CMPE 471 - Computational Biology ,3533,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","GOODWIN RM247
+GOODWIN RM247
+GOODWIN RM247","Rappaport,David H
+Rappaport,David H
+Rappaport,David H",17
+ COGS 201 - Cognition and Computation ,4260,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","DUNNING RM10
+DUNNING RM10
+DUNNING RM10","Zulkernine,Farhana
+Zulkernine,Farhana
+Zulkernine,Farhana",24
+ DEVS 240 - Culture and Development ,1897,"005-TUT
+Regular",Mo 1:30PM - 2:30PM,THEOLOGICAL RM203,Staff,26
+ ELEC 374 - Digital Systems Engineering ,6048,"004-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Th 10:30AM - 11:30AM","JEFFERY RM225
+JEFFERY RM225
+JEFFERY RM225","Faraji,Iman
+Faraji,Iman
+Faraji,Iman",50
+ ELEC 436 - Electric Machines And Control ,4981,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","ELLIS RM327
+ELLIS RM327
+ELLIS RM327","Liu,Yan-Fei
+Liu,Yan-Fei
+Liu,Yan-Fei",34
+ ENGL 851 - Topics In Romanticism I ,6116,"001-SEM
+Regular",Mo 1:30PM - 4:00PM,ONTARIO RM209,"Morrison,Robert J H",12
+ ENPH 472 - Statistical Mechanics ,4729,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","STIRLING RM412A
+STIRLING RM412A
+STIRLING RM412A","Gooding,Robert James
+Gooding,Robert James
+Gooding,Robert James",13
+ ENSC 321 - Environmental Justice in Global Context ,2058,"003-SEM
+Regular",Mo 1:30PM - 2:30PM,BIOSCI RM2109,Staff,18
+ EPID 806 - Applied Research Methods for Program Planning and Evaluation ,5963,"001-LEC
+Regular",Mo 1:30PM - 4:30PM,MACINTOSH-CORRY RM E229,"Stuart,Heather Lee",33
+ FOUN 102 - Historical and Philosophical Foundations of Education ,2535,"001-LEC
+Education","TuTh 1:30PM - 2:30PM
+Mo 1:30PM - 2:30PM
+TuTh 1:30PM - 2:30PM","DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101
+DUNCAN MCARTHUR RM B101","Bruno-Jofre,Rosa
+Bruno-Jofre,Rosa
+Bruno-Jofre,Rosa",474
+ GEOE 319 - Applied Geophysics ,4116,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+Fr 3:30PM - 4:30PM
+Fr 11:30AM - 12:30PM","MILLER RM105
+DUPUIS RM215
+MILLER RM105","Braun,Alexander
+Braun,Alexander
+Braun,Alexander",36
+ GEOL 319 - Applied Geophysics ,4073,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+Fr 3:30PM - 4:30PM
+Fr 11:30AM - 12:30PM","MILLER RM105
+DUPUIS RM215
+MILLER RM105","Braun,Alexander
+Braun,Alexander
+Braun,Alexander",36
+ GEOL 481 - Advanced Structural Analysis ,5085,"001-LEC
+Regular",Mo 1:30PM - 4:30PM,DUNMCAN MCARTHUR RM B307,"Godin,Laurent",19
+ GEOL 816 - Advanced Structural Geology ,6239,"001-LEC
+Regular",Mo 1:30PM - 4:30PM,DUNMCAN MCARTHUR RM B307,"Godin,Laurent",19
+ GNDS 215 - Introduction to Sexual and Gender Diversity ,2623,"007-TUT
+Regular",Mo 1:30PM - 2:30PM,KINGSTON RM205,Staff,18
+ GNDS 215 - Introduction to Sexual and Gender Diversity ,2624,"008-TUT
+Regular",Mo 1:30PM - 2:30PM,KINGSTON RM308,Staff,18
+ GNDS 215 - Introduction to Sexual and Gender Diversity ,2625,"009-TUT
+Regular",Mo 1:30PM - 2:30PM,JEFFERY RM115,Staff,17
+ GNDS 215 - Introduction to Sexual and Gender Diversity ,2638,"010-TUT
+Regular",Mo 1:30PM - 2:30PM,JEFFERY RM102,Staff,6
+ GPHY 311 - Biogeochemical Processes ,2914,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM","MACINTOSH-CORRY RM E230
+MACINTOSH-CORRY RM E230","Lafreniere,Melissa J
+Lafreniere,Melissa J",13
+ JAPN 100B - Introductory Japanese I ,4267,"002-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","KINGSTON RM108
+KINGSTON RM108
+KINGSTON RM108","Takeuchi-Aoki,Keiko
+Takeuchi-Aoki,Keiko
+Takeuchi-Aoki,Keiko",35
+ KNPE 327 - Exercise Physiology Laboratory ,4202,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+Fr 9:30AM - 10:30AM","KINES & HLTH RM101
+KINES & HLTH RM101","Tschakovsky,Michael E
+Tschakovsky,Michael E",23
+ LISC 300 - The Process of Discovery in the Biomedical Sciences ,6383,"001-LEC
+Regular","MoWe 12:30PM - 1:30PM
+Mo 12:30PM - 1:30PM
+We 12:30PM - 2:30PM
+MoWe 1:30PM - 2:30PM","BOTTER RM B139
+BOTTER RM B147
+BOTTER RM B139
+BOTTER RM B139","Staff
+Staff
+Staff
+Staff",52
+ LISC 300 - The Process of Discovery in the Biomedical Sciences ,6384,"002-SEM
+Regular","MoWe 12:30PM - 2:30PM
+MoWe 12:30PM - 2:30PM
+MoWe 12:30PM - 2:30PM
+MoWe 1:30PM - 2:30PM
+MoWe 1:30PM - 2:30PM
+MoWe 1:30PM - 2:30PM
+Mo 1:30PM - 2:30PM
+Mo 1:30PM - 2:30PM
+Mo 1:30PM - 2:30PM
+We 12:30PM - 2:30PM
+We 12:30PM - 2:30PM
+We 12:30PM - 2:30PM
+MoWe 12:30PM - 2:30PM
+MoWe 12:30PM - 2:30PM
+MoWe 12:30PM - 2:30PM
+Mo 12:30PM - 2:30PM
+Mo 12:30PM - 2:30PM
+Mo 12:30PM - 2:30PM
+Mo 12:30PM - 1:30PM
+Mo 12:30PM - 1:30PM
+Mo 12:30PM - 1:30PM","BOTTER RM568
+BOTTER RM449
+STIRLING RM412B
+BOTTER RM B129
+BOTTER RM568
+BOTTER RM449
+BOTTER RM B129
+BOTTER RM568
+BOTTER RM449
+BOTTER RM B129
+BOTTER RM568
+BOTTER RM449
+BOTTER RM568
+BOTTER RM449
+STIRLING RM412B
+BOTTER RM568
+BOTTER RM449
+STIRLING RM412B
+STIRLING RM412B
+BOTTER RM449
+BOTTER RM568","Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff",52
+ MATH 272 - Applications of Numerical Methods ,4332,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 11:30AM - 12:30PM
+Th 8:30AM - 9:30AM","ELLIS AUD
+ELLIS AUD
+BIOSCI AUD","Avdeeva,Maria
+Avdeeva,Maria
+Avdeeva,Maria",211
+ MATH 339 - Evolutionary Game Theory ,4375,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","STIRLING RM C
+STIRLING RM C
+STIRLING RM C","McEachern,Andrew
+McEachern,Andrew
+McEachern,Andrew",150
+ MECH 456 - Introduction To Robotics ,5679,"002-TUT
+Regular",Mo 1:30PM - 2:30PM,MCLAUGHLIN RM315,"Notash,Leila",37
+ MECH 476 - Eng Of Polymers And Composite ,4482,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","NICOL RM321
+NICOL RM321
+NICOL RM321","Krstic,Vladimir
+Krstic,Vladimir
+Krstic,Vladimir",18
+ MECH 480 - Airplane Aerodynamics and Performance ,4475,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","MCLAUGHLIN RM306
+MCLAUGHLIN RM306
+MCLAUGHLIN RM306","Piomelli,Ugo
+Piomelli,Ugo
+Piomelli,Ugo",35
+ MICR 121 - Microbiology for Nursing Students ,1082,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+TuWe 4:30PM - 5:30PM","DUPUIS AUD
+DUPUIS AUD","Sheth,Prameet
+Sheth,Prameet",133
+ MTHE 272 - Applications Numerical Methods ,4401,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 11:30AM - 12:30PM
+Th 8:30AM - 9:30AM","ELLIS AUD
+ELLIS AUD
+BIOSCI AUD","Avdeeva,Maria
+Avdeeva,Maria
+Avdeeva,Maria",211
+ MTHE 339 - Evolutionary Game Theory ,4426,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","STIRLING RM C
+STIRLING RM C
+STIRLING RM C","McEachern,Andrew
+McEachern,Andrew
+McEachern,Andrew",150
+ MUSC 129B - Keyboard Skills ,4576,"004-LAB
+Regular",Mo 1:30PM - 2:30PM,HARRISON-LECAINE RM229,"Tormann,Cynthia",7
+ PHAR 450 - Principles of General Pharmacology II ,1147,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","WALTER LIGHT RM210
+WALTER LIGHT RM210
+WALTER LIGHT RM210","Philbrook,Nicola Anne,
+Pruss,Cynthia,
+Reynolds,James N
+Philbrook,Nicola Anne,
+Pruss,Cynthia,
+Reynolds,James N
+Philbrook,Nicola Anne,
+Pruss,Cynthia,
+Reynolds,James N",66
+ PHGY 444B - Gastrointestinal Physiology ,1071,"002-TUT
+Regular",Mo 1:30PM - 2:30PM,NICOL RM232,"Blennerhassett,Michael G",6
+ PHYS 212 - Waves and Vibrations ,4658,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+Th 11:30AM - 12:30PM","STIRLING RM414
+STIRLING RM414","McLean,Alastair B
+McLean,Alastair B",44
+ PHYS 472 - Statistical Mechanics ,4689,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+We 12:30PM - 1:30PM
+Fr 11:30AM - 12:30PM","STIRLING RM412A
+STIRLING RM412A
+STIRLING RM412A","Gooding,Robert James
+Gooding,Robert James
+Gooding,Robert James",13
+ POLS 250B - Political Theory ,4766,"010-TUT
+Regular",Mo 1:30PM - 2:30PM,BIOSCI RM2111,Staff,26
+ POLS 261 - International Politics ,5169,"010-TUT
+Regular",Mo 1:30PM - 2:30PM,MACINTOSH-CORRY RM C508,"von Hlatky,Stefanie",25
+ POLS 264 - World Politics in Historical Perspective ,5184,"010-TUT
+Regular",Mo 1:30PM - 2:30PM,MACINTOSH-CORRY RM D405,Staff,24
+ PROF 410B - Theory and Professional Practice (PJ) ,2581,"009-LEC
+Education","Fr 11:00AM - 12:30PM
+Mo 1:30PM - 3:30PM
+Fr 12:45PM - 2:45PM
+Fr 11:00AM - 12:30PM","DUNCAN MCARTHUR RM B180
+DUNCAN MCARTHUR RM B180
+DUNCAN MCARTHUR RM B180
+DUNCAN MCARTHUR RM B180","Rodgers,Barbara
+Rodgers,Barbara
+Rodgers,Barbara
+Rodgers,Barbara",16
+ PSYC 100B - Principles of Psychology ,3415,"038-LAB
+Regular",Mo 1:30PM - 2:30PM,HUMPHREY RM131,Staff,31
+ PSYC 100B - Principles of Psychology ,5285,"071-LAB
+Regular",Mo 1:30PM - 2:30PM,HUMPHREY RM132,Staff,22
+ SOCY 122B - Introduction to Sociology ,1155,"001-LEC
+Regular","Mo 1:30PM - 2:30PM
+Fr 11:30AM - 12:30PM","ETHERINGTON AUD
+ETHERINGTON AUD","Beamish,Robin B
+Beamish,Robin B",230
+ SOCY 122B - Introduction to Sociology ,1161,"007-TUT
+Regular",Mo 1:30PM - 2:30PM,KINGSTON RM210,Staff,18
+ SOCY 122B - Introduction to Sociology ,1162,"008-TUT
+Regular",Mo 1:30PM - 2:30PM,KINGSTON RM209,Staff,21
+ SOCY 211 - Introduction to Statistics ,5630,"005-LAB
+Regular",Mo 1:30PM - 2:30PM,JEFFERY RM157,"Sytsma,Victoria A",25
+ ANAT 316 - The Human Visceral Systems ,1050,"001-LEC
+Regular","Mo 2:30PM - 3:30PM
+Tu 4:30PM - 5:30PM
+Th 3:30PM - 4:30PM","ETHERINGTON AUD
+ETHERINGTON AUD
+ETHERINGTON AUD","Easteal,Ronald Albert
+Easteal,Ronald Albert
+Easteal,Ronald Albert",280
+ APSC 112 - Electricity And Magnetism ,3837,"100-LEC
+Regular","Mo 2:30PM - 3:30PM
+Tu 4:30PM - 5:30PM
+Th 3:30PM - 4:30PM","STIRLING AUD
+STIRLING AUD
+STIRLING AUD","Narayanan,Sowmya K
+Narayanan,Sowmya K
+Narayanan,Sowmya K",207
+ APSC 132 - Chemistry and its Applications ,3889,"213-TUT
+Regular",Mo 2:30PM - 3:30PM,CHERNOFF RM211,Staff,50
+ APSC 132 - Chemistry and its Applications ,3890,"214-TUT
+Regular",Mo 2:30PM - 3:30PM,CHERNOFF RM211,Staff,50
+ APSC 142 - Intro Computer Program Engrs ,3932,"902-LAB
+Regular","Mo 2:30PM - 4:30PM
+Mo 2:30PM - 4:30PM","BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM214","Staff
+Staff",48
+ ARTH 292 - Architecture from 1900 to the Present ,1278,"001-LEC
+Regular","Mo 2:30PM - 4:00PM
+Th 4:00PM - 5:30PM","KINGSTON RM201
+STIRLING RM C","Romba,Katherine
+Romba,Katherine",136
+ ARTH 369 - Architecture of the Renaissance Period ,1280,"001-LEC
+Regular",Mo 2:30PM - 5:30PM,DUNNING RM12,"Abraham,Alyssa",43
+ BCHM 317B - Introductory Biochemistry Laboratory ,1096,"001-LAB
+Regular",Mo 2:30PM - 6:30PM,MEDS 400B - Microbiol & Bioche,"Campbell,Robert L,
+Davies,Peter L,
+Hill,Bruce Charles",50
+ BCHM 319 - Introductory Biochemistry Laboratory ,1110,"001-LAB
+Regular",Mo 2:30PM - 6:30PM,MEDS 400B - Microbiol & Bioche,"Campbell,Robert L,
+Davies,Peter L,
+Hill,Bruce Charles",50
+ BIOL 103 - Introductory Biology of Organisms ,1360,"036-LAB
+Regular","Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM","BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",18
+ BIOL 103 - Introductory Biology of Organisms ,1361,"037-LAB
+Regular","Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM","BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",19
+ BIOL 103 - Introductory Biology of Organisms ,1362,"038-LAB
+Regular","Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM","BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",18
+ BIOL 103 - Introductory Biology of Organisms ,1363,"039-LAB
+Regular","Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM
+Mo 2:30PM - 4:00PM","BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",17
+ BIOL 206 - Evolutionary Genetics ,1307,"001-LEC
+Regular","Mo 2:30PM - 3:30PM
+Tu 4:30PM - 5:30PM
+Th 3:30PM - 4:30PM","BIOSCI AUD
+BIOSCI AUD
+BIOSCI AUD","Eckert,Christopher G
+Eckert,Christopher G
+Eckert,Christopher G",307
+ BIOL 303 - Community and Ecosystem Ecology ,1317,"002-LAB
+Regular",Mo 2:30PM - 5:30PM,BIOSCI RM2305,Staff,10
+ BIOL 303 - Community and Ecosystem Ecology ,1318,"003-LAB
+Regular",Mo 2:30PM - 5:30PM,BIOSCI RM3311,Staff,4
+ BIOL 402 - Experiments in Plant Physiology ,1327,"001-TUT
+Regular",Mo 2:30PM - 4:30PM,BIOSCI RM3306,"Ko,Kenton",11
+ BIOL 422 - Conservation Biology ,1770,"004-TUT
+Regular",Mo 2:30PM - 5:30PM,BIOSCI RM2111,"Friesen,Victoria L",29
+ CHEE 222 - Process Dynamics & Num Methods ,2277,"002-TUT
+Regular","Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM
+Mo 2:30PM - 3:30PM","KINGSTON RM101
+KINGSTON RM101
+KINGSTON RM101
+KINGSTON RM101
+KINGSTON RM101
+KINGSTON RM101
+BEAMISH-MUNRO RM213
+BEAMISH-MUNRO RM213
+BEAMISH-MUNRO RM213
+BEAMISH-MUNRO RM213
+BEAMISH-MUNRO RM213
+BEAMISH-MUNRO RM213
+BEAMISH-MUNRO RM213
+BEAMISH-MUNRO RM109
+BEAMISH-MUNRO RM109
+BEAMISH-MUNRO RM109
+BEAMISH-MUNRO RM109
+BEAMISH-MUNRO RM109
+BEAMISH-MUNRO RM109
+BEAMISH-MUNRO RM109","Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang
+Li,Xiang",126
+ CHEE 315 - Laboratory Projects II ,2281,"001-LAB
+Regular","Mo 1:30PM - 2:30PM
+Mo 2:30PM - 5:30PM","DUPUIS LAB
+DUPUIS LAB","Poirier,David
+Poirier,David",18
+" CHEE 361 - Engineering Communications, Ethics & Professionalism ",2318,"001-TUT
+Regular",Mo 2:30PM - 4:30PM,GOODWIN RM254,"Klink,Paula R",56
+ CHEE 412 - Transport Phenomena ,2292,"002-TUT
+Regular",Mo 2:30PM - 3:30PM,DUPUIS RM217,"Giacomin,Alan Jeffrey",67
+ CHEM 112B - General Chemistry ,2648,"003-LEC
+Regular","Mo 2:30PM - 3:30PM
+Th 3:30PM - 4:30PM
+Mo 2:30PM - 3:30PM
+Th 3:30PM - 4:30PM
+Mo 2:30PM - 3:30PM
+Th 3:30PM - 4:30PM","CHERNOFF AUD
+CHERNOFF AUD
+CHERNOFF AUD
+CHERNOFF AUD
+CHERNOFF AUD
+CHERNOFF AUD","Wang,Suning
+Wang,Suning
+Cann,Natalie
+Cann,Natalie
+Stamplecoskie,Kevin
+Stamplecoskie,Kevin",141
+ CHEM 112B - General Chemistry ,2649,"005-LAB
+Regular",Mo 2:30PM - 5:30PM,CHERNOFF RM206B,Staff,75
+ CHEM 112B - General Chemistry ,2652,"008-LAB
+Regular",Mo 2:30PM - 5:30PM,CHERNOFF RM213,Staff,32
+" CHEM 221 - Material, Solutions, Interfaces ",2678,"002-LAB
+Regular","Mo 2:30PM - 5:30PM
+Mo 2:30PM - 5:30PM","CHERNOFF RM117
+CHERNOFF RM210B","Staff
+Staff",85
+ CHEM 223 - Organic Reactions ,2686,"003-LAB
+Regular",Mo 2:30PM - 5:30PM,CHERNOFF RM118,Staff,28
+ CHEM 397B - Experimental Chemistry ,2699,"001-LAB
+Regular","Mo 2:30PM - 5:30PM
+We 2:30PM - 5:30PM","CHERNOFF RM122
+CHERNOFF RM122","Kozin,Igor
+Kozin,Igor",24
+ CHEM 399 - Experimental Chemistry II ,2706,"001-LAB
+Regular","Mo 2:30PM - 5:30PM
+We 2:30PM - 5:30PM","CHERNOFF RM122
+CHERNOFF RM122","Kozin,Igor
+Kozin,Igor",24
+ CISC 332 - Database Management Systems ,3494,"001-LEC
+Regular","Mo 2:30PM - 3:30PM
+Tu 4:30PM - 5:30PM
+Th 3:30PM - 4:30PM","DUNNING RM14
+DUNNING RM14
+DUNNING RM14","Martin,Patrick T
+Martin,Patrick T
+Martin,Patrick T",155
+ CISC 462 - Computability and Complexity ,5473,"001-LEC
+Regular","Mo 2:30PM - 3:30PM
+Tu 4:30PM - 5:30PM
+Th 3:30PM - 4:30PM","BOTTER RM B148
+BOTTER RM B148
+BOTTER RM B148","Ng,Timothy
+Ng,Timothy
+Ng,Timothy",18
+ CIVL 231 - Solid Mechanics II ,1843,"003-TUT
+Regular",Mo 2:30PM - 5:30PM,STIRLING RM412A,Staff,52
+ CIVL 455 - River Engineering ,1838,"001-LEC
+Regular","Mo 2:30PM - 3:30PM
+Tu 4:30PM - 5:30PM
+Th 3:30PM - 4:30PM","WALTER LIGHT RM210
+WALTER LIGHT RM210
+WALTER LIGHT RM210","Staff
+Staff
+Staff",50
+ COMM 122 - Finance II ,3619,"004-LEC
+Regular","Mo 2:30PM - 4:00PM
+Th 4:00PM - 5:30PM","GOODES RM118
+GOODES RM118","Dion,Paul Morgan Hasey
+Dion,Paul Morgan Hasey",80
+ COMM 336 - Consumer Behaviour ,3708,"002-LEC
+Regular","Mo 2:30PM - 4:00PM
+Th 4:00PM - 5:30PM","GOODES RM304
+GOODES RM304","Mitchell,Alexander Ian
+Mitchell,Alexander Ian",55
+" DEVS 100B - Canada and the ""Third World"" ",1887,"010-TUT
+Regular",Mo 2:30PM - 3:30PM,THEOLOGICAL RM209,Staff,24
+ DRAM 242 - Introduction To Theatre Production ,2365,"001-SEM
+Regular",Mo 2:30PM - 4:00PM,THEOLOGICAL RM102,"Redish,Adair",30
+ ECON 222 - Macroeconomic Theory I ,1949,"001-LEC
+Regular","Mo 2:30PM - 4:00PM
+Th 4:00PM - 5:30PM","JEFFERY RM128
+JEFFERY RM128","Kennedy,Michael
+Kennedy,Michael",94
+ ECON 423 - Topics in Financial Economics ,1977,"001-LEC
+Regular","Mo 2:30PM - 4:00PM
+Th 4:00PM - 5:30PM","KINGSTON RM108
+KINGSTON RM108","Morin,Lealand
+Morin,Lealand",26
+ ELEC 210 - Intro Elec Circuits & Machines ,3543,"001-LEC
+Regular","Mo 2:30PM - 3:30PM
+We 10:30AM - 11:30AM
+Fr 1:30PM - 2:30PM","STIRLING RM B
+STIRLING RM B
+STIRLING RM B","Bakhshai,Alireza
+Bakhshai,Alireza
+Bakhshai,Alireza",122
+ ELEC 280 - Fund. Of Electromagnetics ,4951,"001-LEC
+Regular","Mo 2:30PM - 3:30PM
+Tu 4:30PM - 5:30PM
+Th 3:30PM - 4:30PM","WALTER LIGHT RM205
+WALTER LIGHT RM205
+WALTER LIGHT RM205","Eren,Suzan Zeynep
+Eren,Suzan Zeynep
+Eren,Suzan Zeynep",174
+ ELEC 374 - Digital Systems Engineering ,3569,"001-LEC
+Regular","Mo 2:30PM - 3:30PM
+Tu 4:30PM - 5:30PM
+Th 3:30PM - 4:30PM","MILLER RM210
+MILLER RM210
+MILLER RM210","Faraji,Iman
+Faraji,Iman
+Faraji,Iman",39
+ EMPR 230 - Managing Human Resources and Employment Relations ,5611,"001-LEC
+Regular","Mo 2:30PM - 3:30PM
+Tu 4:30PM - 5:30PM
+Th 3:30PM - 4:30PM","BOTTER RM B143
+BOTTER RM B143
+BOTTER RM B143","Fisk,Glenda
+Fisk,Glenda
+Fisk,Glenda",49
+ ENCH 245 - Applied Organic Chemistry I ,2727,"003-LAB
+Regular",Mo 2:30PM - 5:30PM,CHERNOFF RM118,Staff,28
+ ENCH 399 - Experimental Chemistry II ,2736,"001-LAB
+Regular","Mo 2:30PM - 5:30PM
+We 2:30PM - 5:30PM","CHERNOFF RM122
+CHERNOFF RM122","Kozin,Igor
+Kozin,Igor",24
+ ENGL 244 - Modern British Fiction ,2016,"001-LEC
+Regular","Mo 2:30PM - 4:00PM
+Th 4:00PM - 5:30PM","BIOSCI RM1102
+BIOSCI RM1102","Murphy,Emily
+Murphy,Emily",45
+ ENGL 340B - Romantic Literature ,2025,"001-LEC
+Regular","Mo 2:30PM - 4:00PM
+Th 4:00PM - 5:30PM","NICOL RM321
+NICOL RM321","Jones,Mark Conrad
+Jones,Mark Conrad",36
+ ENPH 211 - Applied Physics ,4710,"001-LEC
+Regular","Mo 2:30PM - 3:30PM
+Tu 4:30PM - 5:30PM
+Th 3:30PM - 4:30PM","STIRLING RM C
+STIRLING RM B
+STIRLING RM B","Di Stefano,Philippe
+Di Stefano,Philippe
+Di Stefano,Philippe",67
+ ENPH 460 - Laser Optics ,4719,"002-TUT
+Regular",Mo 2:30PM - 3:30PM,STIRLING RM414,"Fraser,James",37
+ ENSC 390 - Sustainability ,2054,"001-LEC
+Regular",Mo 2:30PM - 5:30PM,MILLER RM201,"Smith,Michael F",97
+ FILM 236 - Media and Cultural Studies ,2154,"001-LLB
+Regular",Mo 2:30PM - 5:30PM,IBCPA RM222,"Berggold,Craig Josef Condy",89
+ FREN 150B - Français intermédiaire ,2529,"020-TUT
+Regular",Mo 2:30PM - 3:30PM,JOHN WATSON RM207,Staff,12
+ FREN 150B - Français intermédiaire ,2530,"021-TUT
+Regular",Mo 2:30PM - 3:30PM,TBA,Staff,10
+ FREN 219 - Communication et Culture IV ,2496,"002-SEM
+Regular","Mo 2:30PM - 4:00PM
+We 4:00PM - 5:30PM
+Fr 2:30PM - 4:00PM","KINGSTON RM205
+KINGSTON RM108
+KINGSTON RM108","Sackey,Donald
+Sackey,Donald
+Sackey,Donald",23
+ GEOE 362 - Resource Engineering ,5052,"004-LAB
+Regular",Mo 2:30PM - 5:30PM,MILLER RM329,"Olivo,Gema Ribeiro",0
+ GEOL 104 - The Dynamic Earth ,4049,"001-LEC
+Regular","Mo 2:30PM - 3:30PM
+Tu 4:30PM - 5:30PM
+Th 3:30PM - 4:30PM","STIRLING RM A
+STIRLING RM A
+STIRLING RM A","Layton-Matthews,Daniel
+Layton-Matthews,Daniel
+Layton-Matthews,Daniel",112
+ GNDS 345 - Rsrch Mthds Gender Studies ,2628,"001-LEC
+Regular",Mo 2:30PM - 5:30PM,MCLAUGHLIN RM306,"Butler,Nancy",40
+ GPHY 209 - Principles of Hydroclimatology ,2851,"001-LEC
+Regular","Mo 2:30PM - 4:00PM
+Th 4:00PM - 5:30PM","DUNNING RM11
+DUNNING RM11","Lamoureux,Scott
+Lamoureux,Scott",61
+ GPHY 342 - Remote Sensing II: Digital Image Processing ,2918,"002-PRA
+Regular",Mo 2:30PM - 4:30PM,MACINTOSH-CORRY RM E223,"van Ewijk,Karin",10
+ HEBR 190B - Introduction to Modern Hebrew ,4245,"001-LEC
+Regular","Mo 2:30PM - 4:00PM
+Th 4:00PM - 5:30PM","KINGSTON RM104
+KINGSTON RM104","Haklai,Na'ama
+Haklai,Na'ama",29
+ HIST 242 - Issues In History ,5547,"001-LEC
+Regular","Mo 2:30PM - 4:00PM
+Th 4:00PM - 5:30PM","KINES & HLTH RM100
+KINES & HLTH RM100","Aivalis,Christo
+Aivalis,Christo",119
+" HIST 302B - Colonial Invasions, Colonial Lives ",2911,"001-SEM
+Regular",Mo 2:30PM - 5:30PM,JOHN WATSON RM401,"van Deusen,Nancy E",9
+ HIST 400 - Topics in History ,5550,"006-SEM
+Regular",Mo 2:30PM - 5:30PM,MACINTOSH-CORRY RM D405,"Woolf,Daniel R",19
+ HIST 465B - Topics In Women's History ,2827,"001-SEM
+Regular",Mo 2:30PM - 5:30PM,ONTARIO RM207,"Bos,Brittney Anne",17
+ KNPE 365 - Physical Activity and Health Behaviour Counseling ,4226,"006-LAB
+Regular",Mo 2:30PM - 4:30PM,KINES & HLTH RM106,Staff,17
+ LING 202 - Canadian English ,5102,"001-LEC
+Regular","Mo 2:30PM - 4:00PM
+Th 4:00PM - 5:30PM","KINGSTON RM304
+KINGSTON RM304","Chociej,Joanna
+Chociej,Joanna",39
+ MATH 335 - Mathematics of Engineering Systems ,4343,"001-LEC
+Regular","Mo 2:30PM - 3:30PM
+Tu 4:30PM - 5:30PM
+Th 3:30PM - 4:30PM","ELLIS RM324
+ELLIS RM324
+ELLIS RM324","Yuksel,Serdar
+Yuksel,Serdar
+Yuksel,Serdar",63
+ MECH 346 - Heat Transfer ,4450,"001-LEC
+Regular","MoWe 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","DUNNING AUD
+STIRLING AUD","Harrison,Stephen J
+Harrison,Stephen J",220
+ MECH 420 - Vibrations ,4470,"001-LEC
+Regular","Mo 2:30PM - 3:30PM
+Th 3:30PM - 4:30PM
+We 10:30AM - 11:30AM","MCLAUGHLIN RM315
+MCLAUGHLIN RM315
+MCLAUGHLIN RM315","Anderson,Ronald James
+Anderson,Ronald James
+Anderson,Ronald James",68
+ MECH 495 - Ergonomics And Design ,4478,"002-LAB
+Regular","Mo 2:30PM - 4:30PM
+Mo 2:30PM - 4:30PM","BEAMISH-MUNRO RM313A
+BEAMISH-MUNRO RM313B","Bryant,Timothy J,
+Davies,Theresa Claire
+Bryant,Timothy J,
+Davies,Theresa Claire",28
+ MICR 121 - Microbiology for Nursing Students ,1083,"002-TUT
+Regular",Mo 2:30PM - 3:30PM,DUPUIS AUD,"Sheth,Prameet",133
+ MINE 325 - Applied Rock Mechanics ,5245,"002-LAB
+Regular",Mo 2:30PM - 4:30PM,GOODWIN LAB,"Archibald,James F",9
+ MTHE 335 - Math Of Engineering Systems ,4412,"001-LEC
+Regular","Mo 2:30PM - 3:30PM
+Tu 4:30PM - 5:30PM
+Th 3:30PM - 4:30PM","ELLIS RM324
+ELLIS RM324
+ELLIS RM324","Yuksel,Serdar
+Yuksel,Serdar
+Yuksel,Serdar",63
+ MUSC 328B - Applied Pedagogy I ,5113,"001-LAB
+Regular",Mo 2:30PM - 4:00PM,HARRISON-LECAINE RM120,"Shannon,Adrienne",15
+ PHIL 454 - Topics in Feminist Philosophy ,5232,"001-SEM
+Regular",Mo 2:30PM - 5:30PM,MACINTOSH-CORRY RM D326,"Davies,Jacqueline M",18
+ PHYS 104B - Fundamental Physics ,4653,"002-LAB
+Regular","Mo 2:30PM - 5:30PM
+Mo 2:30PM - 5:30PM
+Mo 2:30PM - 5:30PM
+Mo 2:30PM - 5:30PM
+Mo 2:30PM - 5:30PM","STIRLING RM412B
+STIRLING RM401
+STIRLING RM512
+STIRLING RM513
+STIRLING RM514","Staff
+Staff
+Staff
+Staff
+Staff",46
+ PHYS 106B - General Physics ,4656,"002-LAB
+Regular","Mo 2:30PM - 5:30PM
+Mo 2:30PM - 5:30PM
+Mo 2:30PM - 5:30PM
+Mo 2:30PM - 5:30PM
+Mo 2:30PM - 5:30PM","STIRLING RM412B
+STIRLING RM401
+STIRLING RM512
+STIRLING RM513
+STIRLING RM514","Staff
+Staff
+Staff
+Staff
+Staff",46
+ PHYS 117B - Introductory Physics ,4681,"009-LAB
+Regular","Mo 2:30PM - 5:30PM
+Mo 2:30PM - 5:30PM","STIRLING RM409
+STIRLING RM410","Staff
+Staff",81
+ PHYS 117B - Introductory Physics ,5904,"086-LAB
+Regular","Mo 2:30PM - 5:30PM
+Mo 2:30PM - 5:30PM","STIRLING RM409
+STIRLING RM410","Staff
+Staff",81
+ PHYS 315 - Physical Processes in Astrophysics ,4663,"001-LEC
+Regular","Mo 2:30PM - 3:30PM
+Tu 4:30PM - 5:30PM
+Th 3:30PM - 4:30PM","STIRLING RM412C
+STIRLING RM412C
+STIRLING RM412C","Irwin,Judith
+Irwin,Judith
+Irwin,Judith",12
+ PHYS 460 - Laser Optics ,4673,"002-TUT
+Regular",Mo 2:30PM - 3:30PM,STIRLING RM414,"Fraser,James",37
+ PORT 104 - Beginning Portuguese and Culture ll ,4295,"001-LEC
+Regular","Mo 2:30PM - 4:00PM
+Th 4:00PM - 5:30PM","KINGSTON RM204
+KINGSTON RM204","Macedo,Antonio
+Macedo,Antonio",13
+ PSYC 100B - Principles of Psychology ,3386,"009-LAB
+Regular",Mo 2:30PM - 3:30PM,HUMPHREY RM131,Staff,28
+ PSYC 100B - Principles of Psychology ,5284,"070-LAB
+Regular",Mo 2:30PM - 3:30PM,HUMPHREY RM132,Staff,22
+ RELS 368 - Religion and Business Ethics ,1024,"001-LEC
+Regular",Mo 2:30PM - 5:30PM,ELLIS RM333,"Ascough,Richard",49
+ SOCY 122B - Introduction to Sociology ,1163,"009-TUT
+Regular",Mo 2:30PM - 3:30PM,KINGSTON RM210,Staff,21
+ SOCY 122B - Introduction to Sociology ,1164,"010-TUT
+Regular",Mo 2:30PM - 3:30PM,KINGSTON RM209,Staff,19
+ SOCY 211 - Introduction to Statistics ,5629,"004-LAB
+Regular",Mo 2:30PM - 3:30PM,JEFFERY RM157,"Sytsma,Victoria A",24
+ SOCY 235 - Race and Racialization ,5615,"004-TUT
+Regular",Mo 2:30PM - 3:30PM,ELLIS RM218,Staff,30
+ SOCY 273 - Social Psychology ,5639,"001-LEC
+Regular","Mo 2:30PM - 4:00PM
+Th 4:00PM - 5:30PM","MACDONALD RM1
+KINGSTON RM201","Staff
+Staff",147
+ SPAN 205 - Español avanzado ,4303,"002-LEC
+Regular","Mo 2:30PM - 4:00PM
+Th 4:00PM - 5:30PM","KINGSTON RM208
+KINGSTON RM208","Luengo Martinelli,Judit
+Luengo Martinelli,Judit",8
+ STAT 473 - Generalized Linear Models ,5149,"001-LEC
+Regular","Mo 2:30PM - 4:00PM
+Th 4:00PM - 5:30PM","JEFFERY RM115
+JEFFERY RM115","Jiang,Wenyu
+Jiang,Wenyu",22
+ STSC 339 - Media and Performance ,2349,"001-LEC
+Regular","Mo 2:30PM - 5:30PM
+Mo 2:30PM - 5:30PM","IBCPA RM118
+IBCPA RM342","Zhang,Tracy
+Zhang,Tracy",13
+ LAW 608 - Advanced Corporate Law I ,1532,"001-SEM
+Law",Mo 3:00PM - 6:00PM,MACDONALD RM100,"Greenspoon,Kevin Eric,
+Nicholls,Robert,
+Seifred,Brett",15
+ LAW 819 - Advanced Corporate Law ,6457,"001-LEC
+Law",Mo 3:00PM - 6:00PM,MACDONALD RM100,"Greenspoon,Kevin Eric,
+Nicholls,Robert,
+Seifred,Brett",15
+ ANAT 101 - Introductory Human Anatomy ,1059,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","BIOSCI AUD
+BIOSCI AUD
+BIOSCI AUD","Oko,Richard J
+Oko,Richard J
+Oko,Richard J",233
+ APSC 132 - Chemistry and its Applications ,3809,"101-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","CHERNOFF AUD
+CHERNOFF AUD
+CHERNOFF AUD","Mombourquette,Michael J,
+Newstead,William
+Mombourquette,Michael J,
+Newstead,William
+Mombourquette,Michael J,
+Newstead,William",218
+ APSC 172 - Calculus II ,3752,"100-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","ELLIS AUD
+ELLIS AUD
+ELLIS AUD","Staff
+Staff
+Staff",206
+ APSC 172 - Calculus II ,3783,"102-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","ETHERINGTON AUD
+ETHERINGTON AUD
+ETHERINGTON AUD","Li,Ping
+Li,Ping
+Li,Ping",252
+ APSC 172 - Calculus II ,4013,"103-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","ETHERINGTON AUD
+ETHERINGTON AUD
+ETHERINGTON AUD","Li,Ping
+Li,Ping
+Li,Ping",252
+ BMED 844B - Gastrointestinal Physiology ,5617,"001-LEC
+Regular",Mo 3:30PM - 4:30PM,BOTTER RM B129,"Blennerhassett,Michael G",6
+ CISC 352 - Artificial Intelligence ,4251,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","JEFFERY RM126
+JEFFERY RM126
+JEFFERY RM126","Richards,Chad
+Richards,Chad
+Richards,Chad",94
+ CIVL 436 - Prestressed Concrete ,1834,"001-LEC
+Regular","We 2:30PM - 3:30PM
+Mo 3:30PM - 4:30PM
+Th 2:30PM - 3:30PM","ELLIS RM324
+ELLIS RM324
+ELLIS RM324","Fam,Amir Z,
+Sarhat,Salah R.
+Fam,Amir Z,
+Sarhat,Salah R.
+Fam,Amir Z,
+Sarhat,Salah R.",42
+ CIVL 837 - Prestressed Concrete ,1861,"001-LEC
+Regular","We 2:30PM - 3:30PM
+Mo 3:30PM - 4:30PM
+Th 2:30PM - 3:30PM","ELLIS RM324
+ELLIS RM324
+ELLIS RM324","Fam,Amir Z,
+Sarhat,Salah R.
+Fam,Amir Z,
+Sarhat,Salah R.
+Fam,Amir Z,
+Sarhat,Salah R.",42
+ CURR 355B - Language and Literacy (PJ) ,2421,"001-LEC
+Education","Mo 3:30PM - 5:30PM
+Mo 8:30AM - 10:30AM
+Mo 8:30AM - 12:30PM
+Mo 8:30AM - 10:30AM","DUNCAN MCARTHUR RM A227W
+DUNCAN MCARTHUR RM A227W
+DUNCAN MCARTHUR RM A227W
+DUNCAN MCARTHUR RM A227W","Beach,Pamela
+Beach,Pamela
+Beach,Pamela
+Beach,Pamela",40
+" DEVS 100B - Canada and the ""Third World"" ",1888,"011-TUT
+Regular",Mo 3:30PM - 4:30PM,THEOLOGICAL RM209,Staff,24
+" DEVS 100B - Canada and the ""Third World"" ",1910,"019-TUT
+Regular",Mo 3:30PM - 4:30PM,ELLIS RM319,Staff,24
+ ELEC 252 - Electronics I ,3554,"002-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","BIOSCI RM1103
+BIOSCI RM1103
+BIOSCI RM1103","Prakash,Ravi
+Prakash,Ravi
+Prakash,Ravi",105
+ ELEC 273 - Numerical Methods and Optimization ,3577,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","DUNNING RM14
+DUNNING RM14
+DUNNING RM14","Chan,Wai Yip Geoffrey
+Chan,Wai Yip Geoffrey
+Chan,Wai Yip Geoffrey",82
+ ELEC 470 - Computer System Architecture ,4992,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","JEFFERY RM225
+JEFFERY RM225
+JEFFERY RM225","Afsahi,Ahmad
+Afsahi,Ahmad
+Afsahi,Ahmad",39
+ EMPR 240 - Labour Policy ,5612,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","DUPUIS RM215
+DUPUIS RM215
+DUPUIS RM215","Weinberg,Bradley
+Weinberg,Bradley
+Weinberg,Bradley",19
+ ENPH 336 - Solid State Devices ,4703,"002-TUT
+Regular",Mo 3:30PM - 4:30PM,BOTTER RM B143,"Stotz,James",73
+ ENPH 372 - Thermodynamics ,4723,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","ELLIS RM327
+ELLIS RM327
+ELLIS RM327","Momayez,Ladan
+Momayez,Ladan
+Momayez,Ladan",52
+ FREN 150B - Français intermédiaire ,2509,"006-TUT
+Regular",Mo 3:30PM - 4:30PM,KINES & HLTH RM105,Staff,13
+ FREN 150B - Français intermédiaire ,2510,"007-TUT
+Regular",Mo 3:30PM - 4:30PM,TBA,Staff,9
+ GEOE 359 - Applied Quantitative Analysis in Geological Engineering ,5047,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 12:30PM - 1:30PM","MILLER RM210
+MILLER RM210
+MILLER RM210","Fotopoulos,Georgia
+Fotopoulos,Georgia
+Fotopoulos,Georgia",34
+ GEOL 104 - The Dynamic Earth ,4051,"003-LAB
+Regular",Mo 3:30PM - 5:30PM,MILLER RM225,"Layton-Matthews,Daniel",24
+ GEOL 359 - Applications of Quantitative Analysis in Geological Sciences ,5064,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 12:30PM - 1:30PM","MILLER RM210
+MILLER RM210
+MILLER RM210","Fotopoulos,Georgia
+Fotopoulos,Georgia
+Fotopoulos,Georgia",34
+ LATN 110B - Introductory Latin ,1810,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","WALTER LIGHT RM210
+WALTER LIGHT RM210
+WALTER LIGHT RM210","Kavanagh,Bernard J
+Kavanagh,Bernard J
+Kavanagh,Bernard J",51
+ LATN 209B - Intermediate Latin ,1811,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","MACINTOSH-CORRY RM D214
+MACINTOSH-CORRY RM D214
+MACINTOSH-CORRY RM D214","Lehoux,Daryn R
+Lehoux,Daryn R
+Lehoux,Daryn R",16
+ MATH 121B - Differential and Integral Calculus ,4322,"003-LEC
+Regular",Mo 3:30PM - 4:30PM,STIRLING AUD,"Rorabaugh,Daniel",181
+ MATH 124 - Differential and Integral Calculus II ,4363,"003-LEC
+Regular",Mo 3:30PM - 4:30PM,STIRLING AUD,"Rorabaugh,Daniel",181
+ MATH 212 - Linear Algebra ll ,4341,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","KINGSTON RM101
+KINGSTON RM101
+KINGSTON RM101","Avdeeva,Maria
+Avdeeva,Maria
+Avdeeva,Maria",112
+ MATH 337 - Introduction to Operations Research Models ,5625,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","JEFFERY RM101
+JEFFERY RM101
+JEFFERY RM101","Greenhalgh,Scott
+Greenhalgh,Scott
+Greenhalgh,Scott",51
+ MECH 241 - Fluid Mechanics I ,4439,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+Th 4:30PM - 5:30PM
+Tu 2:30PM - 3:30PM","STIRLING RM B
+STIRLING RM B
+DUNNING RM14","Matovic,Miodrag Darko,
+Wong,Jaime
+Matovic,Miodrag Darko,
+Wong,Jaime
+Matovic,Miodrag Darko,
+Wong,Jaime",134
+ MECH 346 - Heat Transfer ,4451,"002-TUT
+Regular",Mo 3:30PM - 4:30PM,DUNNING AUD,"Harrison,Stephen J",220
+ MECH 424 - Sustainable Product Design ,4487,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","MCLAUGHLIN RM315
+MCLAUGHLIN RM315
+MCLAUGHLIN RM315","Jeswiet,Jacob
+Jeswiet,Jacob
+Jeswiet,Jacob",111
+ MECH 483 - Nuclear Materials ,4472,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","ELLIS RM218
+NICOL RM321
+NICOL RM232","Yao,Zhongwen
+Yao,Zhongwen
+Yao,Zhongwen",12
+ MTHE 212 - Linear Algebra ,5140,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","KINGSTON RM101
+KINGSTON RM101
+KINGSTON RM101","Avdeeva,Maria
+Avdeeva,Maria
+Avdeeva,Maria",112
+ MTHE 332 - Introduction To Control ,4427,"003-LAB
+Regular",Mo 3:30PM - 5:30PM,BEAMISH-MUNRO RM326,"Kyle,Scott McAllister",23
+ MTHE 337 - Intro. To Operations Research ,5134,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","JEFFERY RM101
+JEFFERY RM101
+JEFFERY RM101","Greenhalgh,Scott
+Greenhalgh,Scott
+Greenhalgh,Scott",51
+ MTHE 393 - Engineering Design and Practice for Mathematics and Engineering ,4425,"003-LAB
+Regular",Mo 3:30PM - 5:30PM,BEAMISH-MUNRO RM326,"Kyle,Scott McAllister",19
+ NURS 324 - Nur Prin & Applic Of Nur Rsch ,4606,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+Th 12:30PM - 2:30PM","STIRLING RM C
+ELLIS RM321","Godfrey,Christina Maria
+Godfrey,Christina Maria",121
+ PATH 310 - Path and Molecular Medicine ,1037,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","WALTER LIGHT RM205
+WALTER LIGHT RM205
+WALTER LIGHT RM205","Hough,Christine
+Hough,Christine
+Hough,Christine",148
+ PHGY 444B - Gastrointestinal Physiology ,1070,"001-LEC
+Regular",Mo 3:30PM - 4:30PM,BOTTER RM B129,"Blennerhassett,Michael G",6
+ PHIL 111B - Great Works of Philosophy ,4631,"002-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","STIRLING RM A
+STIRLING RM A
+STIRLING RM A","Knight,Deborah
+Knight,Deborah
+Knight,Deborah",106
+ PHYS 372 - Thermodynamics ,4687,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","ELLIS RM327
+ELLIS RM327
+ELLIS RM327","Momayez,Ladan
+Momayez,Ladan
+Momayez,Ladan",52
+ POLS 261 - International Politics ,5166,"007-TUT
+Regular",Mo 3:30PM - 4:30PM,MACINTOSH-CORRY RM C508,"von Hlatky,Stefanie",25
+ POLS 262 - International Political Economy ,4782,"001-LEC
+Regular","Mo 3:30PM - 4:30PM
+We 2:30PM - 3:30PM
+Th 4:30PM - 5:30PM","HUMPHREY AUD
+HUMPHREY AUD
+HUMPHREY AUD","Cox,Wayne S
+Cox,Wayne S
+Cox,Wayne S",215
+ PSYC 100B - Principles of Psychology ,3387,"010-LAB
+Regular",Mo 3:30PM - 4:30PM,HUMPHREY RM131,Staff,30
+ PSYC 100B - Principles of Psychology ,3416,"039-LAB
+Regular",Mo 3:30PM - 4:30PM,HUMPHREY RM132,Staff,25
+ SOCY 122B - Introduction to Sociology ,1165,"011-TUT
+Regular",Mo 3:30PM - 4:30PM,KINGSTON RM210,Staff,21
+ SOCY 122B - Introduction to Sociology ,1166,"012-TUT
+Regular",Mo 3:30PM - 4:30PM,KINGSTON RM209,Staff,20
+ SOCY 211 - Introduction to Statistics ,5628,"003-LAB
+Regular",Mo 3:30PM - 4:30PM,JEFFERY RM157,"Sytsma,Victoria A",16
+ BIOL 103 - Introductory Biology of Organisms ,1364,"040-LAB
+Regular","Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM","BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",18
+ BIOL 103 - Introductory Biology of Organisms ,1365,"041-LAB
+Regular","Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM","BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",16
+ BIOL 103 - Introductory Biology of Organisms ,1366,"042-LAB
+Regular","Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM","BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",17
+ BIOL 103 - Introductory Biology of Organisms ,1367,"043-LAB
+Regular","Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM","BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320
+BIOSCI RM2320","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",11
+ BIOL 103 - Introductory Biology of Organisms ,5876,"084-LAB
+Regular","Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM
+Mo 4:00PM - 5:30PM","BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319
+BIOSCI RM2319","Staff
+Staff
+Staff
+Staff
+Staff
+Staff",17
+ CHEM 222 - Methods of Structure Determination ,2682,"004-TUT
+Regular",Mo 4:00PM - 5:30PM,CHERNOFF RM211,Staff,34
+ CHEM 422 - Synthetic Organic Chemistry ,2707,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","CHERNOFF RM415
+CHERNOFF RM415","Evans,P. Andrew
+Evans,P. Andrew",7
+ CHEM 880 - Modern Synthetic Methods ,5748,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","CHERNOFF RM415
+CHERNOFF RM415","Evans,P. Andrew
+Evans,P. Andrew",7
+ COMM 131 - Introduction To Marketing ,3624,"005-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","GOODES RM141
+GOODES RM141","Mosher,Kimberley
+Mosher,Kimberley",82
+ COMM 132 - Marketing II ,4293,"006-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","GOODES RM151
+GOODES RM151","LaBarge,Monica
+LaBarge,Monica",76
+ COMM 173 - Introduction to International Business ,3713,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","GOODES RM118
+GOODES RM118","Reid,Douglas A,
+Rogers,Keith W
+Reid,Douglas A,
+Rogers,Keith W",81
+ COMM 181 - Intro To Human Resource Mgmt ,3638,"003-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","GOODES RM153
+GOODES RM153","Wallace,April
+Wallace,April",89
+ COMM 324 - Investments & Portfolio Mgmt. ,3685,"002-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","GOODES RM 103
+GOODES RM 103","Robertson,Blair
+Robertson,Blair",50
+ COMM 328 - International Finance ,3650,"002-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","GOODES RM304
+GOODES RM304","Topaloglu,Selim
+Topaloglu,Selim",44
+ COMM 341 - Intro To Prod & Oper Mgmt ,3693,"003-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","GOODES RM 101
+GOODES RM 101","Staff
+Staff",56
+ COMM 415 - Corporate Governance & Control ,3716,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","GOODES RM102
+GOODES RM102","Salterio,Steven E
+Salterio,Steven E",22
+ DRAM 220 - Introduction to Dramaturgy ,2380,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","THEOLOGICAL RM102
+THEOLOGICAL RM102","Wanless,Gregory
+Wanless,Gregory",55
+ DRAM 301 - Theories of the Theatre I ,2368,"001-SEM
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","IBCPA RM312
+IBCPA RM312","Rewa,Natalie
+Rewa,Natalie",14
+ ECON 250 - Introduction to Statistics ,1953,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","JEFFERY RM127
+JEFFERY RM127","Smith,Gregor W
+Smith,Gregor W",94
+ ECON 332 - Economic History of North America since 1865 ,1965,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","MILLER RM105
+MILLER RM105","Keay,Ian
+Keay,Ian",95
+ ENCH 222 - Meth Struct Determination ,2723,"004-TUT
+Regular",Mo 4:00PM - 5:30PM,CHERNOFF RM211,Staff,34
+ ENCH 422 - Synthetic Organic Chem ,2738,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","CHERNOFF RM415
+CHERNOFF RM415","Evans,P. Andrew
+Evans,P. Andrew",7
+ ENGL 200B - History of Literature in English ,2012,"002-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","MACDONALD RM1
+BOTTER RM B139","Hanson,Elizabeth
+Hanson,Elizabeth",96
+ ENGL 311B - Middle English Literature ,2023,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","MACINTOSH-CORRY RM E230
+MACINTOSH-CORRY RM E230","Pappano,Margaret A
+Pappano,Margaret A",42
+ ENGL 489 - Group III: Special Topics IV ,2044,"001-SEM
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","BOTTER RM B148
+KINGSTON RM108","Ruffo,Armand
+Ruffo,Armand",20
+ HIST 246 - The Soviet Experiment ,5548,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","KINGSTON RM201
+KINGSTON RM201","Manley,Rebecca L
+Manley,Rebecca L",163
+ KNPE 345 - The Science and Methodology of Sport Training Conditioning Programs ,4179,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","KINES & HLTH RM101
+KINES & HLTH RM101","Karagiozov,Evan Salih,
+McAuslan,Colin
+Staff",43
+ LING 415 - Semantics ,4275,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","KINGSTON RM208
+KINGSTON RM208","Reinholtz,Charlotte
+Reinholtz,Charlotte",15
+ LLCU 244 - Hips Don't Lie?: Music and Culture in Latin America ,5111,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","MACINTOSH-CORRY RM B201
+MACINTOSH-CORRY RM B201","Palomares Salas,Claudio
+Palomares Salas,Claudio",87
+ MATH 477 - Data Compression and Source Coding ,4348,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","JEFFERY RM118
+JEFFERY RM118","Linder,Tamas
+Linder,Tamas",26
+ MATH 877 - Data Compression And Source Co ,5664,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","JEFFERY RM118
+JEFFERY RM118","Linder,Tamas
+Linder,Tamas",26
+ MTHE 477 - Data Compression & Source Codi ,4400,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","JEFFERY RM118
+JEFFERY RM118","Linder,Tamas
+Linder,Tamas",26
+ MUSC 162B - Symphony Orchestra ,4521,"001-LAB
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","IBCPA RM 105
+IBCPA RM 105","Craig,Gordon R
+Craig,Gordon R",22
+ MUSC 262B - Symphony Orchestra ,4537,"001-LAB
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","IBCPA RM 105
+IBCPA RM 105","Craig,Gordon R
+Craig,Gordon R",22
+ MUSC 362B - Symphony Orchestra ,4549,"001-LAB
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","IBCPA RM 105
+IBCPA RM 105","Craig,Gordon R
+Craig,Gordon R",22
+ MUSC 462B - Symphony Orchestra ,4558,"001-LAB
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","IBCPA RM 105
+IBCPA RM 105","Craig,Gordon R
+Craig,Gordon R",22
+ MUTH 160B - Music Theatre Ensemble ,5127,"001-PRA
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM
+Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","HARRISON-LECAINE RM120
+HARRISON-LECAINE RM120
+HARRISON-LECAINE RM213
+HARRISON-LECAINE RM213","Baird,Dianne M
+Baird,Dianne M
+Baird,Dianne M,
+Kelly,Bruce W
+Baird,Dianne M,
+Kelly,Bruce W",23
+ POLS 385 - Quantitative Approaches to Political Studies ,5193,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","DUPUIS AUD
+DUPUIS AUD","Hanniman,Kyle
+Hanniman,Kyle",173
+ PSYC 398 - Selected Topics in Psychology I ,5472,"001-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","JEFFERY RM128
+JEFFERY RM128","Gallivan,Jason Paul
+Gallivan,Jason Paul",60
+ SPAN 111 - Beginning Spanish I ,5122,"003-LEC
+Regular","Mo 4:00PM - 5:30PM
+We 2:30PM - 4:00PM","KINGSTON RM104
+KINGSTON RM104","Rotermundt-de la Parra,Joanne Louise
+Rotermundt-de la Parra,Joanne Louise",40
+ APSC 100B - Engineering Practice ,3954,"103-LEC
+Regular",Mo 4:30PM - 5:30PM,DUPUIS RM215,"Blight,Stephen",43
+ APSC 100B - Engineering Practice ,3930,"800-LEC
+Regular",Mo 4:30PM - 5:30PM,DUPUIS RM215,"Blight,Stephen",43
+ APSC 103 - First Year Engineering Design Project ,6307,"103-LEC
+Regular",Mo 4:30PM - 5:30PM,DUPUIS RM215,"Blight,Stephen",43
+ APSC 103 - First Year Engineering Design Project ,4042,"800-LEC
+Regular",Mo 4:30PM - 5:30PM,DUPUIS RM215,"Blight,Stephen",43
+ APSC 172 - Calculus II ,3782,"101-LEC
+Regular","Mo 4:30PM - 5:30PM
+We 3:30PM - 4:30PM
+Fr 2:30PM - 3:30PM","ELLIS AUD
+ELLIS AUD
+ELLIS AUD","Riegert,David
+Riegert,David
+Riegert,David",216
+ APSC 200 - Engineering Design & Practice II ,3789,"200-STD
+Regular","Mo 4:30PM - 6:30PM
+We 3:30PM - 5:30PM
+Mo 4:30PM - 6:30PM
+We 3:30PM - 5:30PM","BEAMISH-MUNRO RM313A
+BEAMISH-MUNRO RM313A
+BEAMISH-MUNRO RM313B
+BEAMISH-MUNRO RM313B","Parent,Scott J,
+Sneep,Jan
+Parent,Scott J,
+Sneep,Jan
+Parent,Scott J,
+Sneep,Jan
+Parent,Scott J,
+Sneep,Jan",62
+" ASTR 102 - Astronomy II: Stars, Galaxies, and the Universe ",5282,"001-LEC
+Regular","Mo 4:30PM - 5:30PM
+We 3:30PM - 4:30PM
+Fr 2:30PM - 3:30PM","STIRLING AUD
+STIRLING AUD
+STIRLING AUD","Hanes,David Alan
+Hanes,David Alan
+Hanes,David Alan",143
+ BIOL 103 - Introductory Biology of Organisms ,1289,"003-LEC
+Regular","We 3:30PM - 4:30PM
+Fr 2:30PM - 3:30PM
+Mo 4:30PM - 5:30PM","HUMPHREY AUD
+HUMPHREY AUD
+HUMPHREY AUD","Chippindale,Adam,
+Walker,Virginia Katrina
+Chippindale,Adam,
+Walker,Virginia Katrina
+Chippindale,Adam,
+Walker,Virginia Katrina",140
+ BMED 853 - Cellular and Molecular Cardiovascular Sciences ,5609,"001-SEM
+Regular","Mo 4:30PM - 5:30PM
+We 10:30AM - 12:30PM","BOTTER RM B147
+BOTTER RM B147","Maurice,Donald H
+Maurice,Donald H",26
+ CHEE 412 - Transport Phenomena ,2291,"001-LEC
+Regular","Mo 4:30PM - 5:30PM
+We 3:30PM - 4:30PM
+Fr 2:30PM - 3:30PM","JEFFERY RM126
+JEFFERY RM126
+JEFFERY RM126","Giacomin,Alan Jeffrey
+Giacomin,Alan Jeffrey
+Giacomin,Alan Jeffrey",71
+ CHEE 803 - Transport Phenomena ,5656,"001-LEC
+Regular","Mo 4:30PM - 5:30PM
+We 3:30PM - 4:30PM
+Fr 2:30PM - 3:30PM","JEFFERY RM126
+JEFFERY RM126
+JEFFERY RM126","Giacomin,Alan Jeffrey
+Giacomin,Alan Jeffrey
+Giacomin,Alan Jeffrey",71
+ CRSS 456 - Molecular and Cellular Basis of Cardiovascular Disease ,1152,"001-LEC
+Regular","Mo 4:30PM - 5:30PM
+We 10:30AM - 12:30PM","BOTTER RM B147
+BOTTER RM B147","Maurice,Donald H
+Maurice,Donald H",26
+" DEVS 100B - Canada and the ""Third World"" ",1901,"001-LEC
+Regular","Mo 4:30PM - 5:30PM
+We 3:30PM - 4:30PM","BIOSCI AUD
+BIOSCI AUD","Dubinsky,Karen,
+Hostetler,Mark A
+Dubinsky,Karen,
+Hostetler,Mark A",432
+ ELEC 274 - Computer Architecture ,3560,"004-TUT
+Regular",Mo 4:30PM - 5:30PM,KINGSTON RM101,"Karamat,Tashfeen Bin",95
+ ELEC 274 - Computer Architecture ,3576,"005-LAB
+Regular","Mo 4:30PM - 6:30PM
+Mo 4:30PM - 6:30PM
+Mo 4:30PM - 6:30PM
+Mo 4:30PM - 6:30PM
+Mo 4:30PM - 6:30PM
+Mo 4:30PM - 6:30PM","BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM212","Athersych,David
+Athersych,David
+Athersych,David
+Athersych,David
+Athersych,David
+Athersych,David",46
+ ELEC 274 - Computer Architecture ,3580,"007-LAB
+Regular","Mo 4:30PM - 6:30PM
+Mo 4:30PM - 6:30PM
+Mo 4:30PM - 6:30PM
+Mo 4:30PM - 6:30PM
+Mo 4:30PM - 6:30PM
+Mo 4:30PM - 6:30PM","BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM212","Athersych,David
+Athersych,David
+Athersych,David
+Athersych,David
+Athersych,David
+Athersych,David",49
+ ELEC 490B - Electrical Engineering Project ,3590,"002-TUT
+Regular",Mo 4:30PM - 5:30PM,STIRLING RM A,"Frank,Brian Matthew",77
+ ELEC 498B - Computer Engineering Project ,3596,"002-TUT
+Regular",Mo 4:30PM - 5:30PM,STIRLING RM A,"Frank,Brian Matthew",77
+ ENPH 252 - Mangmt Of Experimental Data ,4717,"001-LEC
+Regular","Mo 4:30PM - 5:30PM
+We 3:30PM - 4:30PM","STIRLING RM B
+STIRLING RM B","Martin,Ryan D
+Martin,Ryan D",143
+ ENPH 460 - Laser Optics ,4707,"001-LEC
+Regular","Mo 4:30PM - 5:30PM
+We 3:30PM - 4:30PM
+Fr 2:30PM - 3:30PM","STIRLING RM412C
+STIRLING RM412C
+STIRLING RM412C","Fraser,James
+Fraser,James
+Fraser,James",37
+ GEOE 481 - Advanced Structural Analysis ,5062,"003-TUT
+Regular",Mo 4:30PM - 5:30PM,MILLER RM409,"Godin,Laurent",19
+ GEOL 481 - Advanced Structural Analysis ,5087,"003-TUT
+Regular",Mo 4:30PM - 5:30PM,MILLER RM409,"Godin,Laurent",19
+ GEOL 816 - Advanced Structural Geology ,6393,"003-TUT
+Regular",Mo 4:30PM - 5:30PM,MILLER RM409,"Godin,Laurent",19
+ GNDS 215 - Introduction to Sexual and Gender Diversity ,2618,"002-TUT
+Regular",Mo 4:30PM - 5:30PM,BIOSCI RM2109,Staff,19
+ GNDS 215 - Introduction to Sexual and Gender Diversity ,2619,"003-TUT
+Regular",Mo 4:30PM - 5:30PM,KINGSTON RM308,Staff,15
+ GNDS 215 - Introduction to Sexual and Gender Diversity ,2621,"005-TUT
+Regular",Mo 4:30PM - 5:30PM,ONTARIO RM209,Staff,18
+ GNDS 215 - Introduction to Sexual and Gender Diversity ,2622,"006-TUT
+Regular",Mo 4:30PM - 5:30PM,ELLIS RM218,Staff,16
+ GREK 112B - Introductory Greek ,1805,"003-TUT
+Regular",Mo 4:30PM - 5:30PM,THEOLOGICAL RM209,Staff,10
+ KNPE 125 - Introduction to Human Physiology ,4169,"001-LEC
+Regular","Mo 4:30PM - 5:30PM
+We 3:30PM - 4:30PM
+Fr 2:30PM - 3:30PM","ETHERINGTON AUD
+ETHERINGTON AUD
+ETHERINGTON AUD","Islam,Muhammad Hashim,
+King,Trevor,
+Walsh,Jeremy
+Islam,Muhammad Hashim,
+King,Trevor,
+Walsh,Jeremy
+Islam,Muhammad Hashim,
+King,Trevor,
+Walsh,Jeremy",264
+ MATH 272 - Applications of Numerical Methods ,4334,"003-TUT
+Regular","Mo 4:30PM - 5:30PM
+Mo 4:30PM - 5:30PM","JEFFERY RM155
+JEFFERY RM157","Staff
+Staff",71
+ MECH 228 - Kinematics And Dynamics ,4437,"001-LEC
+Regular","Mo 4:30PM - 6:30PM
+We 5:30PM - 6:30PM","ELLIS RM321
+ELLIS RM321","Rainbow,Michael J.
+Rainbow,Michael J.",104
+ MECH 350 - Automatic Control ,4453,"002-TUT
+Regular",Mo 4:30PM - 5:30PM,CHERNOFF AUD,"Li,Qingguo",234
+ MECH 424 - Sustainable Product Design ,4488,"002-TUT
+Regular",Mo 4:30PM - 5:30PM,MCLAUGHLIN RM315,"Jeswiet,Jacob",111
+ MECH 478 - Biomaterials ,5152,"002-TUT
+Regular",Mo 4:30PM - 5:30PM,BIOSCI RM1102,"Rainbow,Roshni Suresh",82
+ MTHE 272 - Applications Numerical Methods ,4403,"003-TUT
+Regular","Mo 4:30PM - 5:30PM
+Mo 4:30PM - 5:30PM","JEFFERY RM155
+JEFFERY RM157","Staff
+Staff",71
+ PHYS 250 - Foundations of Experimental Physics ,4685,"001-LEC
+Regular","Mo 4:30PM - 5:30PM
+We 3:30PM - 4:30PM","STIRLING RM B
+STIRLING RM B","Martin,Ryan D
+Martin,Ryan D",143
+ PHYS 460 - Laser Optics ,4669,"001-LEC
+Regular","Mo 4:30PM - 5:30PM
+We 3:30PM - 4:30PM
+Fr 2:30PM - 3:30PM","STIRLING RM412C
+STIRLING RM412C
+STIRLING RM412C","Fraser,James
+Fraser,James
+Fraser,James",37
+ POLS 261 - International Politics ,5165,"006-TUT
+Regular",Mo 4:30PM - 5:30PM,MACINTOSH-CORRY RM C508,"von Hlatky,Stefanie",25
+ PSYC 100B - Principles of Psychology ,3388,"011-LAB
+Regular",Mo 4:30PM - 5:30PM,HUMPHREY RM131,Staff,29
+ PSYC 100B - Principles of Psychology ,3417,"040-LAB
+Regular",Mo 4:30PM - 5:30PM,HUMPHREY RM132,Staff,24
+ SOCY 122B - Introduction to Sociology ,1157,"003-LEC
+Regular","Mo 4:30PM - 5:30PM
+Fr 2:30PM - 3:30PM","WALTER LIGHT RM205
+WALTER LIGHT RM205","Beamish,Robin B
+Beamish,Robin B",122
+ SOCY 122B - Introduction to Sociology ,1167,"013-TUT
+Regular",Mo 4:30PM - 5:30PM,KINGSTON RM210,Staff,15
+ SOCY 122B - Introduction to Sociology ,1168,"014-TUT
+Regular",Mo 4:30PM - 5:30PM,KINGSTON RM209,Staff,14
+ MGMT 964 - Advanced Topics in Operations Research ,6021,"001-SEM
+Regular",Mo 5:00PM - 8:00PM,TBA,"Nediak,Mikhail S",5
+ APSC 111 - Mechanics ,5398,"900-LEC
+6 wk Win","Tu 1:30PM - 2:30PM
+Mo 5:30PM - 6:30PM
+Fr 2:30PM - 3:30PM","JEFFERY RM128
+STIRLING RM A
+STIRLING RM B","Narayanan,Sowmya K
+Narayanan,Sowmya K
+Narayanan,Sowmya K",46
+ APSC 112 - Electricity And Magnetism ,5404,"900-LEC
+12 wk Win","Tu 1:30PM - 2:30PM
+Mo 5:30PM - 6:30PM
+Tu 1:30PM - 2:30PM
+Mo 10:30AM - 11:30AM
+Fr 2:30PM - 3:30PM
+Fr 2:30PM - 3:30PM","JEFFERY RM128
+STIRLING RM A
+STIRLING RM A
+STIRLING RM A
+STIRLING RM A
+STIRLING RM B","Narayanan,Sowmya K
+Narayanan,Sowmya K
+Narayanan,Sowmya K
+Narayanan,Sowmya K
+Narayanan,Sowmya K
+Narayanan,Sowmya K",56
+ ENPH 225 - Mechanics ,4715,"001-LEC
+Regular","Mo 5:30PM - 6:30PM
+Tu 12:30PM - 1:30PM
+Th 11:30AM - 12:30PM","STIRLING RM C
+STIRLING RM C
+STIRLING RM C","Abdelqader,Majd
+Staff
+Staff",76
+ ENPH 345 - Quantum Physics Of Atoms ,4705,"002-TUT
+Regular",Mo 5:30PM - 6:30PM,STIRLING RM B,"Gooding,Robert James",86
+ EPID 810 - Controlled Clinical Trials ,5964,"001-LEC
+Regular",Mo 5:30PM - 8:00PM,TBA,"Pater,Joseph L,
+Richardson,Harriet",7
+ FREN 150B - Français intermédiaire ,2515,"012-TUT
+Regular",Mo 5:30PM - 6:30PM,JOHN WATSON RM207,Staff,13
+ FREN 150B - Français intermédiaire ,2516,"013-TUT
+Regular",Mo 5:30PM - 6:30PM,TBA,Staff,12
+ LAW 344 - Alternative Dispute Resolution ,1450,"001-SEM
+Law",Mo 5:30PM - 8:30PM,MACDONALD RM400,"Gauci,Maureen",19
+ LAW 361 - Trial Advocacy ,1451,"001-SEM
+Law",Mo 5:30PM - 8:30PM,MACDONALD RM300,"Wigderson,Owen,
+Wilkinson,Joseph",11
+ LAW 682 - Class Action Practice & Procedure ,6261,"001-SEM
+Law",Mo 5:30PM - 8:30PM,MACDONALD RM211,"Waddell,Margaret",22
+ LING 100B - Introduction to Linguistics ,5096,"004-TUT
+Regular",Mo 5:30PM - 6:30PM,KINGSTON RM205,"Bjorkman,Bronwyn",17
+ MATH 120B - Diff. & Integral Calculus ,4318,"002-TUT
+Regular",Mo 5:30PM - 6:30PM,ELLIS RM324,Staff,69
+ MATH 121B - Differential and Integral Calculus ,4323,"004-TUT
+Regular",Mo 5:30PM - 6:30PM,JEFFERY RM101,Staff,107
+ MATH 121B - Differential and Integral Calculus ,4358,"005-TUT
+Regular",Mo 5:30PM - 6:30PM,JEFFERY RM118,Staff,80
+ MATH 121B - Differential and Integral Calculus ,4349,"006-TUT
+Regular",Mo 5:30PM - 6:30PM,JEFFERY RM225,Staff,109
+ MATH 121B - Differential and Integral Calculus ,4361,"015-TUT
+Regular",Mo 5:30PM - 6:30PM,STIRLING RM414,Staff,78
+ MATH 124 - Differential and Integral Calculus II ,4325,"004-TUT
+Regular",Mo 5:30PM - 6:30PM,JEFFERY RM101,Staff,107
+ MATH 124 - Differential and Integral Calculus II ,4364,"005-TUT
+Regular",Mo 5:30PM - 6:30PM,JEFFERY RM118,Staff,80
+ MATH 124 - Differential and Integral Calculus II ,4369,"006-TUT
+Regular",Mo 5:30PM - 6:30PM,JEFFERY RM225,Staff,109
+ MTHE 367 - Engineering Data Analysis ,4408,"001-LEC
+Regular",MoWe 5:30PM - 7:00PM,STIRLING AUD,"Molson,Charles Arthur",218
+ MUSC 166B - Jazz Ensemble ,4522,"001-LAB
+Regular","Mo 5:30PM - 7:00PM
+We 5:30PM - 7:00PM","IBCPA RM 105
+IBCPA RM 105","Runions,Gregory
+Runions,Gregory",11
+ MUSC 266B - Jazz Ensemble ,4538,"001-LAB
+Regular","Mo 5:30PM - 7:00PM
+We 5:30PM - 7:00PM","IBCPA RM 105
+IBCPA RM 105","Runions,Gregory
+Runions,Gregory",11
+ MUSC 366B - Jazz Ensemble ,4550,"001-LAB
+Regular","Mo 5:30PM - 7:00PM
+We 5:30PM - 7:00PM","IBCPA RM 105
+IBCPA RM 105","Runions,Gregory
+Runions,Gregory",11
+ MUSC 466B - Jazz Ensemble ,4564,"001-LAB
+Regular","Mo 5:30PM - 7:00PM
+We 5:30PM - 7:00PM","IBCPA RM 105
+IBCPA RM 105","Runions,Gregory
+Runions,Gregory",11
+" PHYS 345 - Quantum Physics of Atoms, Nuclei and Particles ",4667,"002-TUT
+Regular",Mo 5:30PM - 6:30PM,STIRLING RM B,"Gooding,Robert James",86
+ POLS 853 - Topics In Political Theory ,5769,"001-SEM
+Regular",Mo 5:30PM - 8:30PM,MACINTOSH-CORRY RM B313,"Lister,Andrew D",12
+ PSYC 302 - Advanced Research Methods ,3445,"002-LAB
+Regular",Mo 5:30PM - 8:30PM,HUMPHREY RM219,"Hollenstein,Thomas Patrick",18
+" LAW 253 - The Value of Human Life in Jewish Law: Moral, Religious and Legal Aspects ",6260,"001-SEM
+Law",MoWe 6:00PM - 9:00PM,MACDONALD RM100,"Wozner,Shai",18
+ SURP 889 - Adv. Regional Policy Analysis ,6039,"001-LEC
+Regular",Mo 6:00PM - 9:00PM,TBA,"Schiller,Preston",11
+ APSC 100B - Engineering Practice ,3882,"306-LAB
+Regular","Th 11:30AM - 2:30PM
+Th 11:30AM - 2:30PM
+Th 11:30AM - 2:30PM
+Th 11:30AM - 2:30PM
+Mo 6:30PM - 7:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+DUPUIS AUD","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",75
+ APSC 100B - Engineering Practice ,3883,"307-LAB
+Regular","Tu 8:30AM - 11:30AM
+Tu 8:30AM - 11:30AM
+Tu 8:30AM - 11:30AM
+Tu 8:30AM - 11:30AM
+Mo 6:30PM - 7:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+TBA","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",76
+ APSC 100B - Engineering Practice ,3886,"316-LAB
+Regular","Th 11:30AM - 2:30PM
+Th 11:30AM - 2:30PM
+Th 11:30AM - 2:30PM
+Th 11:30AM - 2:30PM
+Mo 6:30PM - 7:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+DUPUIS AUD","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",75
+ APSC 100B - Engineering Practice ,3887,"317-LAB
+Regular","Tu 8:30AM - 11:30AM
+Tu 8:30AM - 11:30AM
+Tu 8:30AM - 11:30AM
+Tu 8:30AM - 11:30AM
+Mo 6:30PM - 7:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+TBA","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",76
+ APSC 102 - Experimentation and measurement ,3947,"306-LAB
+Regular","Th 11:30AM - 2:30PM
+Th 11:30AM - 2:30PM
+Th 11:30AM - 2:30PM
+Th 11:30AM - 2:30PM
+Mo 6:30PM - 7:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+DUPUIS AUD","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",75
+ APSC 102 - Experimentation and measurement ,3949,"307-LAB
+Regular","Tu 8:30AM - 11:30AM
+Tu 8:30AM - 11:30AM
+Tu 8:30AM - 11:30AM
+Tu 8:30AM - 11:30AM
+Mo 6:30PM - 7:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+TBA","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",76
+ APSC 202 - Engineering Design and Practice II: Client-Based Design ,4034,"800-LEC
+Regular","MoWe 6:30PM - 7:30PM
+MoWe 6:30PM - 7:30PM","BEAMISH-MUNRO RM313A
+BEAMISH-MUNRO RM313B","Elliott,Chelsea
+Elliott,Chelsea",47
+ BIOL 202 - Diversity of Life II ,1306,"010-LAB
+Regular",Mo 6:30PM - 9:30PM,BIOSCI RM2311,Staff,20
+ BIOL 202 - Diversity of Life II ,1386,"011-LAB
+Regular",Mo 6:30PM - 9:30PM,BIOSCI RM2312,Staff,20
+" CHEE 400B - Technology, Engineering & Management (TEAM) ",2321,"001-LEC
+Regular",Mo 6:30PM - 9:30PM,TBA,"Mody,David M",116
+ CISC 453 - Topics in Artificial Intelligence ,3495,"001-LEC
+Regular",Mo 6:30PM - 9:30PM,ELLIS RM321,"Salay,Nancy A",18
+ COMM 105 - Business Communications ,3700,"004-LEC
+Regular",Mo 6:30PM - 9:30PM,GOODES RM153,"Saccon,Gloria",82
+ COMM 200 - Business Fundamentals ,3639,"001-LEC
+Regular",Mo 6:30PM - 9:30PM,GOODES RM141,"Libitz,Gregory",79
+ COMM 212 - Management Accounting ,3642,"001-LEC
+Regular",Mo 6:30PM - 9:30PM,GOODES RM118,"Gondowijoyo,Pujawati Mariestha",49
+ COMM 341 - Intro To Prod & Oper Mgmt ,5570,"004-LEC
+Regular",Mo 6:30PM - 9:30PM,GOODES RM151,"Rogers,Keith W",59
+ COMM 401 - Business and Corporate Strategy ,3657,"001-LEC
+Regular",Mo 6:30PM - 9:30PM,GOODES RM 101,"Andrevski,Goce",57
+ COMM 504 - Is In Consult & Prof. Service ,3662,"001-LEC
+Regular",Mo 6:30PM - 9:30PM,GOODES RM 100,"Hamilton,Jim",12
+ COMM 600 - Business Fundamentals ,3722,"001-LEC
+Regular",Mo 6:30PM - 9:30PM,GOODES RM141,"Libitz,Gregory",79
+ COMM 612 - Management Accounting ,3725,"001-LEC
+Regular",Mo 6:30PM - 9:30PM,GOODES RM118,"Gondowijoyo,Pujawati Mariestha",49
+ DEVS 330 - Technology and Development ,1902,"001-LEC
+Regular",Mo 6:30PM - 9:30PM,ELLIS RM333,"Hostetler,Mark A",68
+ ECON 112 - Introductory Macroeconomics ,1947,"001-LEC
+Regular",Mo 6:30PM - 9:30PM,BIOSCI AUD,"Berkok,Ugurhan",397
+ ELEC 390 - Elec & Computer Eng. Design ,3573,"002-LAB
+Regular","Mo 6:30PM - 9:30PM
+Mo 6:30PM - 9:30PM","BEAMISH-MUNRO RM212
+BEAMISH-MUNRO RM214","Fang,Peng
+Fang,Peng",78
+" FILM 110B - Film, Culture and Communication ",2071,"001-LEC
+Regular",Mo 6:30PM - 9:30PM,DUNNING AUD,"Naaman,Dorit",379
+ FILM 315 - Communication Technologies and Creative Practice ,2181,"001-LEC
+Regular","Mo 6:30PM - 9:30PM
+Mo 6:30PM - 9:30PM","IBCPA RM342
+IBCPA RM336","Pelstring,Emily
+Pelstring,Emily",35
+ GEOE 262 - Aspects Mineral Deposits ,4100,"001-LEC
+Regular",Mo 6:30PM - 9:30PM,MILLER RM210,"Bron,Katherine Ann",27
+ GEOL 342 - Special Topics in Geology ,4090,"002-LAB
+Regular","We 6:30PM - 9:30PM
+Mo 6:30PM - 9:30PM","MILLER RM407
+MILLER RM409","Dececchi,Thomas
+Dececchi,Thomas",15
+ GEOL 343 - Hydrogeology ,5641,"001-LEC
+Regular",Mo 6:30PM - 9:30PM,MILLER RM105,"Reynolds,David Andrew",30
+ HIST 865B - Selected Topics in History II: Empires and Intimacies ,5938,"001-SEM
+Regular",Mo 6:30PM - 9:30PM,MACINTOSH-CORRY RM A416,"Dubinsky,Karen",6
+ HLTH 237 - Introduction to the Study of Alcohol and Drug Problems ,4154,"001-LEC
+Regular",Mo 6:30PM - 9:30PM,KINES & HLTH RM100,"Shore,Ron",170
+ POLS 250B - Political Theory ,4757,"001-LEC
+Regular",Mo 6:30PM - 9:30PM,CHERNOFF AUD,"Farrelly,Colin",251
+ POLS 367 - American Foreign Policy ,5192,"001-LEC
+Regular",MoWe 6:30PM - 8:00PM,CHERNOFF RM211,"Sokolsky,Joel Jeffrey",53
+ POLS 590B - Thesis In Politics ,4777,"001-THE
+Regular","Mo 6:30PM - 8:00PM
+Mo 6:30PM - 8:00PM
+Mo 6:30PM - 8:00PM
+Mo 6:30PM - 8:00PM
+Mo 6:30PM - 8:00PM
+Mo 6:30PM - 8:00PM
+Mo 6:30PM - 8:00PM","MACINTOSH-CORRY RM D214
+MACINTOSH-CORRY RM D214
+MACINTOSH-CORRY RM D214
+MACINTOSH-CORRY RM D214
+MACINTOSH-CORRY RM D214
+MACINTOSH-CORRY RM D214
+MACINTOSH-CORRY RM D214","Rose,Jonathan W
+Staff
+Staff
+Staff
+Staff
+Staff
+Staff",27
+ PROF 210B - Self as Learner ,2564,"100-LEC
+Education","Mo 6:30PM - 8:30PM
+Mo 6:30PM - 8:30PM","DUNCAN MCARTHUR RM A241
+DUNCAN MCARTHUR RM A242","Roblin,Nancy E
+Roblin,Nancy E",82
+ PSYC 100B - Principles of Psychology ,3389,"012-LAB
+Regular",Mo 6:30PM - 7:30PM,HUMPHREY RM131,Staff,28
+ PSYC 100B - Principles of Psychology ,3418,"041-LAB
+Regular",Mo 6:30PM - 7:30PM,HUMPHREY RM132,Staff,25
+" HQRS 842 - Research and Evaluation Methods to Assess Quality, Risk and Safety ",6292,"001-SEM
+Regular",Mo 7:00PM - 9:00PM,TBA,"Egan,Rylan Graham",44
+ APSC 100B - Engineering Practice ,3881,"305-LAB
+Regular","Fr 8:30AM - 11:30AM
+Fr 8:30AM - 11:30AM
+Fr 8:30AM - 11:30AM
+Fr 8:30AM - 11:30AM
+Mo 7:30PM - 8:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+DUPUIS AUD","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",74
+ APSC 100B - Engineering Practice ,3884,"308-LAB
+Regular","Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 7:30PM - 8:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+TBA","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",73
+ APSC 100B - Engineering Practice ,3965,"309-LAB
+Regular","We 11:30AM - 2:30PM
+We 11:30AM - 2:30PM
+We 11:30AM - 2:30PM
+We 11:30AM - 2:30PM
+Mo 7:30PM - 8:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+TBA","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",40
+ APSC 100B - Engineering Practice ,3885,"315-LAB
+Regular","Fr 8:30AM - 11:30AM
+Fr 8:30AM - 11:30AM
+Fr 8:30AM - 11:30AM
+Fr 8:30AM - 11:30AM
+Mo 7:30PM - 8:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+DUPUIS AUD","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",74
+ APSC 100B - Engineering Practice ,3888,"318-LAB
+Regular","Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 7:30PM - 8:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+TBA","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",73
+ APSC 102 - Experimentation and measurement ,3936,"305-LAB
+Regular","Fr 8:30AM - 11:30AM
+Fr 8:30AM - 11:30AM
+Fr 8:30AM - 11:30AM
+Fr 8:30AM - 11:30AM
+Mo 7:30PM - 8:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+DUPUIS AUD","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",74
+ APSC 102 - Experimentation and measurement ,3951,"308-LAB
+Regular","Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 11:30AM - 2:30PM
+Mo 7:30PM - 8:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+TBA","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",73
+ APSC 102 - Experimentation and measurement ,3950,"309-LAB
+Regular","We 11:30AM - 2:30PM
+We 11:30AM - 2:30PM
+We 11:30AM - 2:30PM
+We 11:30AM - 2:30PM
+Mo 7:30PM - 8:30PM","CHERNOFF RM206A
+DUPUIS RM236
+STIRLING RM406
+STIRLING RM407
+TBA","Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann
+Clapham,Lynann",40
+ APSC 202 - Engineering Design and Practice II: Client-Based Design ,4035,"801-STD
+Regular","MoWe 7:30PM - 9:30PM
+MoWe 7:30PM - 9:30PM","BEAMISH-MUNRO RM313B
+BEAMISH-MUNRO RM313A","Elliott,Chelsea
+Elliott,Chelsea",47
+ PSYC 100B - Principles of Psychology ,3390,"013-LAB
+Regular",Mo 7:30PM - 8:30PM,HUMPHREY RM131,Staff,26
+ PSYC 100B - Principles of Psychology ,3419,"042-LAB
+Regular",Mo 7:30PM - 8:30PM,HUMPHREY RM132,Staff,20
